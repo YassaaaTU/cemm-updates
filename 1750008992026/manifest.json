@@ -1,0 +1,2356 @@
+{
+  "mods": [
+    {
+      "addon_file_id": 6147301,
+      "addon_name": "Searchables",
+      "addon_project_id": 858542,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6147/301/Searchables-forge-1.21.4-1.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "Searchables-forge-1.21.4-1.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/searchables"
+    },
+    {
+      "addon_file_id": 6355879,
+      "addon_name": "Entity Culling Fabric/Forge",
+      "addon_project_id": 448233,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6355/879/entityculling-forge-1.7.4-mc1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "entityculling-forge-1.7.4-mc1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/entityculling"
+    },
+    {
+      "addon_file_id": 6643044,
+      "addon_name": "Essential Mod",
+      "addon_project_id": 546670,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6643/44/Essential_1-3-8-1_forge_1-21-4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "Essential_1-3-8-1_forge_1-21-4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/essential-mod"
+    },
+    {
+      "addon_file_id": 5846754,
+      "addon_name": "Mouse Tweaks",
+      "addon_project_id": 60089,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5846/754/MouseTweaks-forge-mc1.21.3-2.26.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "MouseTweaks-forge-mc1.21.3-2.26.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks"
+    },
+    {
+      "addon_file_id": 6054288,
+      "addon_name": "GlitchCore",
+      "addon_project_id": 955399,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6054/288/GlitchCore-forge-1.21.4-2.3.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "GlitchCore-forge-1.21.4-2.3.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/glitchcore"
+    },
+    {
+      "addon_file_id": 6055019,
+      "addon_name": "TerraBlender (Forge)",
+      "addon_project_id": 563928,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6055/19/TerraBlender-forge-1.21.4-4.3.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "TerraBlender-forge-1.21.4-4.3.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/terrablender"
+    },
+    {
+      "addon_file_id": 5991603,
+      "addon_name": "Sound Physics Remastered",
+      "addon_project_id": 535489,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5991/603/sound-physics-remastered-forge-1.21.4-1.4.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "sound-physics-remastered-forge-1.21.4-1.4.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered"
+    },
+    {
+      "addon_file_id": 6147314,
+      "addon_name": "Controlling",
+      "addon_project_id": 250398,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6147/314/Controlling-forge-1.21.4-22.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "Controlling-forge-1.21.4-22.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/controlling"
+    },
+    {
+      "addon_file_id": 6588909,
+      "addon_name": "Balm",
+      "addon_project_id": 531761,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6588/909/balm-forge-1.21.4-21.4.34-all.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "balm-forge-1.21.4-21.4.34-all.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/balm"
+    },
+    {
+      "addon_file_id": 5848975,
+      "addon_name": "Fast Leaf Decay",
+      "addon_project_id": 230976,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5848/975/fastleafdecay-34.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "fastleafdecay-34.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay"
+    },
+    {
+      "addon_file_id": 6014987,
+      "addon_name": "Clumps",
+      "addon_project_id": 256717,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6014/987/Clumps-forge-1.21.4-22.0.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "Clumps-forge-1.21.4-22.0.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/clumps"
+    },
+    {
+      "addon_file_id": 6552637,
+      "addon_name": "Waystones",
+      "addon_project_id": 245755,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6552/637/waystones-forge-1.21.4-21.4.15.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "waystones-forge-1.21.4-21.4.15.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/waystones"
+    },
+    {
+      "addon_file_id": 6515053,
+      "addon_name": "Xaero's Minimap",
+      "addon_project_id": 263420,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6515/53/Xaeros_Minimap_25.2.6_Forge_1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "Xaeros_Minimap_25.2.6_Forge_1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "addon_file_id": 5249192,
+      "addon_name": "Slightly Improved Font (32x)",
+      "addon_project_id": 580181,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5249/192/Slightly-Improved-Font-1.1.4.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\resourcepacks",
+      "version": "Slightly-Improved-Font-1.1.4.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/slightly-improved-font"
+    },
+    {
+      "addon_file_id": 6139232,
+      "addon_name": "Fresh Waystones Texture",
+      "addon_project_id": 860903,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6139/232/waystones_1.21.4.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\resourcepacks",
+      "version": "waystones_1.21.4.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fresh-waystones-texture"
+    },
+    {
+      "addon_file_id": 6056801,
+      "addon_name": "Fancy Crops",
+      "addon_project_id": 884709,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6056/801/Fancy%20Crops%20v1.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\resourcepacks",
+      "version": "Fancy Crops v1.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fancy-crops"
+    }
+  ],
+  "shaderpacks": [
+    {
+      "addon_file_id": 6515577,
+      "addon_name": "Complementary Shaders - Reimagined",
+      "addon_project_id": 627557,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6515/577/ComplementaryReimagined_r5.5.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\shaderpacks",
+      "version": "ComplementaryReimagined_r5.5.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/shaders/complementary-reimagined"
+    },
+    {
+      "addon_file_id": 6515579,
+      "addon_name": "Complementary Shaders - Unbound",
+      "addon_project_id": 385587,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6515/579/ComplementaryUnbound_r5.5.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\shaderpacks",
+      "version": "ComplementaryUnbound_r5.5.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/shaders/complementary-unbound"
+    }
+  ],
+  "datapacks": [
+    {
+      "addon_file_id": 6541171,
+      "addon_name": "Trek",
+      "addon_project_id": 1233784,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6541/171/Trek%201.21.x.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\datapacks",
+      "version": "Trek 1.21.x.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/data-packs/trek"
+    },
+    {
+      "addon_file_id": 6448103,
+      "addon_name": "Spawn Animations [Data Pack]",
+      "addon_project_id": 811803,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6448/103/spawnanimations-v1.10.1-mc1.17-1.21.5-datapack.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\datapacks",
+      "version": "spawnanimations-v1.10.1-mc1.17-1.21.5-datapack.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/data-packs/spawn-animations"
+    }
+  ],
+  "config_files": [
+    {
+      "filename": "ftbessentials-server.snbt",
+      "relative_path": "config/ftbessentials-server.snbt"
+    },
+    {
+      "filename": "akliz.json",
+      "relative_path": "kubejs/assets/atm/buttons/akliz.json"
+    },
+    {
+      "filename": "discord.json",
+      "relative_path": "kubejs/assets/atm/buttons/discord.json"
+    },
+    {
+      "filename": "github.json",
+      "relative_path": "kubejs/assets/atm/buttons/github.json"
+    },
+    {
+      "filename": "mods.json",
+      "relative_path": "kubejs/assets/atm/buttons/mods.json"
+    },
+    {
+      "filename": "multiplayer.json",
+      "relative_path": "kubejs/assets/atm/buttons/multiplayer.json"
+    },
+    {
+      "filename": "options.json",
+      "relative_path": "kubejs/assets/atm/buttons/options.json"
+    },
+    {
+      "filename": "patreon.json",
+      "relative_path": "kubejs/assets/atm/buttons/patreon.json"
+    },
+    {
+      "filename": "quit.json",
+      "relative_path": "kubejs/assets/atm/buttons/quit.json"
+    },
+    {
+      "filename": "reddit.json",
+      "relative_path": "kubejs/assets/atm/buttons/reddit.json"
+    },
+    {
+      "filename": "singleplayer.json",
+      "relative_path": "kubejs/assets/atm/buttons/singleplayer.json"
+    },
+    {
+      "filename": "en_us.json",
+      "relative_path": "kubejs/assets/atm/lang/en_us.json"
+    },
+    {
+      "filename": "es_es.json",
+      "relative_path": "kubejs/assets/atm/lang/es_es.json"
+    },
+    {
+      "filename": "ja_jp.json",
+      "relative_path": "kubejs/assets/atm/lang/ja_jp.json"
+    },
+    {
+      "filename": "ko_kr.json",
+      "relative_path": "kubejs/assets/atm/lang/ko_kr.json"
+    },
+    {
+      "filename": "zh_cn.json",
+      "relative_path": "kubejs/assets/atm/lang/zh_cn.json"
+    },
+    {
+      "filename": "en_us.json",
+      "relative_path": "kubejs/assets/compactmachines/lang/en_us.json"
+    },
+    {
+      "filename": "removals.json",
+      "relative_path": "kubejs/assets/emi/index/stacks/removals.json"
+    },
+    {
+      "filename": "en_us.json",
+      "relative_path": "kubejs/assets/forbidden_arcanus/lang/en_us.json"
+    },
+    {
+      "filename": "en_us.json",
+      "relative_path": "kubejs/assets/hostilenetworks/lang/en_us.json"
+    },
+    {
+      "filename": "zh_cn.json",
+      "relative_path": "kubejs/assets/hostilenetworks/lang/zh_cn.json"
+    },
+    {
+      "filename": "air_essence_block.json",
+      "relative_path": "kubejs/assets/kubejs/blockstates/air_essence_block.json"
+    },
+    {
+      "filename": "blaze_block.json",
+      "relative_path": "kubejs/assets/kubejs/blockstates/blaze_block.json"
+    },
+    {
+      "filename": "blaze_powder_block.json",
+      "relative_path": "kubejs/assets/kubejs/blockstates/blaze_powder_block.json"
+    },
+    {
+      "filename": "earth_essence_block.json",
+      "relative_path": "kubejs/assets/kubejs/blockstates/earth_essence_block.json"
+    },
+    {
+      "filename": "fire_essence_block.json",
+      "relative_path": "kubejs/assets/kubejs/blockstates/fire_essence_block.json"
+    },
+    {
+      "filename": "magical_soil.json",
+      "relative_path": "kubejs/assets/kubejs/blockstates/magical_soil.json"
+    },
+    {
+      "filename": "pink_slime_block.json",
+      "relative_path": "kubejs/assets/kubejs/blockstates/pink_slime_block.json"
+    },
+    {
+      "filename": "water_essence_block.json",
+      "relative_path": "kubejs/assets/kubejs/blockstates/water_essence_block.json"
+    },
+    {
+      "filename": "air_essence_block.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/air_essence_block.json"
+    },
+    {
+      "filename": "blaze_block.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/blaze_block.json"
+    },
+    {
+      "filename": "blaze_powder_block.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/blaze_powder_block.json"
+    },
+    {
+      "filename": "ancient_stone_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/ancient_stone_cell.json"
+    },
+    {
+      "filename": "andesite_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/andesite_cell.json"
+    },
+    {
+      "filename": "basalt_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/basalt_cell.json"
+    },
+    {
+      "filename": "blackstone_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/blackstone_cell.json"
+    },
+    {
+      "filename": "black_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/black_cell.json"
+    },
+    {
+      "filename": "blue_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/blue_cell.json"
+    },
+    {
+      "filename": "brown_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/brown_cell.json"
+    },
+    {
+      "filename": "calcite_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/calcite_cell.json"
+    },
+    {
+      "filename": "clay_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/clay_cell.json"
+    },
+    {
+      "filename": "cobbled_deepslate_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/cobbled_deepslate_cell.json"
+    },
+    {
+      "filename": "cyan_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/cyan_cell.json"
+    },
+    {
+      "filename": "diorite_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/diorite_cell.json"
+    },
+    {
+      "filename": "dirt_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/dirt_cell.json"
+    },
+    {
+      "filename": "end_stone_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/end_stone_cell.json"
+    },
+    {
+      "filename": "granite_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/granite_cell.json"
+    },
+    {
+      "filename": "gravel_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/gravel_cell.json"
+    },
+    {
+      "filename": "gray_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/gray_cell.json"
+    },
+    {
+      "filename": "green_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/green_cell.json"
+    },
+    {
+      "filename": "kivi_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/kivi_cell.json"
+    },
+    {
+      "filename": "lava_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/lava_cell.json"
+    },
+    {
+      "filename": "light_blue_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/light_blue_cell.json"
+    },
+    {
+      "filename": "light_gray_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/light_gray_cell.json"
+    },
+    {
+      "filename": "lime_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/lime_cell.json"
+    },
+    {
+      "filename": "magenta_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/magenta_cell.json"
+    },
+    {
+      "filename": "moss_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/moss_cell.json"
+    },
+    {
+      "filename": "netherrack_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/netherrack_cell.json"
+    },
+    {
+      "filename": "orange_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/orange_cell.json"
+    },
+    {
+      "filename": "pink_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/pink_cell.json"
+    },
+    {
+      "filename": "purple_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/purple_cell.json"
+    },
+    {
+      "filename": "red_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/red_cell.json"
+    },
+    {
+      "filename": "red_sand_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/red_sand_cell.json"
+    },
+    {
+      "filename": "sand_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/sand_cell.json"
+    },
+    {
+      "filename": "sky_stone_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/sky_stone_cell.json"
+    },
+    {
+      "filename": "soul_sand_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/soul_sand_cell.json"
+    },
+    {
+      "filename": "tuff_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/tuff_cell.json"
+    },
+    {
+      "filename": "white_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/white_cell.json"
+    },
+    {
+      "filename": "yellow_cell.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/drive/yellow_cell.json"
+    },
+    {
+      "filename": "earth_essence_block.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/earth_essence_block.json"
+    },
+    {
+      "filename": "fire_essence_block.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/fire_essence_block.json"
+    },
+    {
+      "filename": "magical_soil.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/magical_soil.json"
+    },
+    {
+      "filename": "water_essence_block.json",
+      "relative_path": "kubejs/assets/kubejs/models/block/water_essence_block.json"
+    },
+    {
+      "filename": "magical_soil_side.png.mcmeta",
+      "relative_path": "kubejs/assets/kubejs/textures/block/magical_soil_side.png.mcmeta"
+    },
+    {
+      "filename": "magical_soil_top.png.mcmeta",
+      "relative_path": "kubejs/assets/kubejs/textures/block/magical_soil_top.png.mcmeta"
+    },
+    {
+      "filename": "auto_forge.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/auto_forge.json"
+    },
+    {
+      "filename": "ev_runic_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/ev_runic_transformer.json"
+    },
+    {
+      "filename": "runic_crucible.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_crucible.json"
+    },
+    {
+      "filename": "runic_enchanter.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_enchanter.json"
+    },
+    {
+      "filename": "runic_energy_input_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_energy_input_hatch.json"
+    },
+    {
+      "filename": "runic_energy_output_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_energy_output_hatch.json"
+    },
+    {
+      "filename": "runic_ev_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_ev_transformer.json"
+    },
+    {
+      "filename": "runic_fluid_input_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_fluid_input_hatch.json"
+    },
+    {
+      "filename": "runic_fluid_output_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_fluid_output_hatch.json"
+    },
+    {
+      "filename": "runic_item_input_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_item_input_hatch.json"
+    },
+    {
+      "filename": "runic_item_output_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_item_output_hatch.json"
+    },
+    {
+      "filename": "runic_storage_unit.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_storage_unit.json"
+    },
+    {
+      "filename": "runic_superconductor_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/runic_superconductor_transformer.json"
+    },
+    {
+      "filename": "star_altar.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/star_altar.json"
+    },
+    {
+      "filename": "superconductor_runic_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/blockstates/superconductor_runic_transformer.json"
+    },
+    {
+      "filename": "en_us.json",
+      "relative_path": "kubejs/assets/modern_industrialization/lang/en_us.json"
+    },
+    {
+      "filename": "auto_forge.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/auto_forge.json"
+    },
+    {
+      "filename": "ev_runic_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/ev_runic_transformer.json"
+    },
+    {
+      "filename": "runic_crucible.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_crucible.json"
+    },
+    {
+      "filename": "runic_enchanter.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_enchanter.json"
+    },
+    {
+      "filename": "runic_energy_input_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_energy_input_hatch.json"
+    },
+    {
+      "filename": "runic_energy_output_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_energy_output_hatch.json"
+    },
+    {
+      "filename": "runic_ev_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_ev_transformer.json"
+    },
+    {
+      "filename": "runic_fluid_input_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_fluid_input_hatch.json"
+    },
+    {
+      "filename": "runic_fluid_output_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_fluid_output_hatch.json"
+    },
+    {
+      "filename": "runic_item_input_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_item_input_hatch.json"
+    },
+    {
+      "filename": "runic_item_output_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_item_output_hatch.json"
+    },
+    {
+      "filename": "runic_storage_unit.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_storage_unit.json"
+    },
+    {
+      "filename": "runic_superconductor_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/runic_superconductor_transformer.json"
+    },
+    {
+      "filename": "star_altar.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/star_altar.json"
+    },
+    {
+      "filename": "superconductor_runic_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/block/superconductor_runic_transformer.json"
+    },
+    {
+      "filename": "auto_forge.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/auto_forge.json"
+    },
+    {
+      "filename": "ev_runic_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/ev_runic_transformer.json"
+    },
+    {
+      "filename": "runic_crucible.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_crucible.json"
+    },
+    {
+      "filename": "runic_enchanter.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_enchanter.json"
+    },
+    {
+      "filename": "runic_energy_input_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_energy_input_hatch.json"
+    },
+    {
+      "filename": "runic_energy_output_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_energy_output_hatch.json"
+    },
+    {
+      "filename": "runic_ev_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_ev_transformer.json"
+    },
+    {
+      "filename": "runic_fluid_input_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_fluid_input_hatch.json"
+    },
+    {
+      "filename": "runic_fluid_output_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_fluid_output_hatch.json"
+    },
+    {
+      "filename": "runic_item_input_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_item_input_hatch.json"
+    },
+    {
+      "filename": "runic_item_output_hatch.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_item_output_hatch.json"
+    },
+    {
+      "filename": "runic_storage_unit.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_storage_unit.json"
+    },
+    {
+      "filename": "runic_superconductor_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/runic_superconductor_transformer.json"
+    },
+    {
+      "filename": "star_altar.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/star_altar.json"
+    },
+    {
+      "filename": "superconductor_runic_transformer.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/item/superconductor_runic_transformer.json"
+    },
+    {
+      "filename": "darkstone_casing.json",
+      "relative_path": "kubejs/assets/modern_industrialization/models/machine_casing/darkstone_casing.json"
+    },
+    {
+      "filename": "overlay_front_active.png.mcmeta",
+      "relative_path": "kubejs/assets/modern_industrialization/textures/block/machines/runic_multis/overlay_front_active.png.mcmeta"
+    },
+    {
+      "filename": "entro_crop.json",
+      "relative_path": "kubejs/assets/mysticalagriculture/blockstates/entro_crop.json"
+    },
+    {
+      "filename": "xychorium_gem_crop.json",
+      "relative_path": "kubejs/assets/mysticalagriculture/blockstates/xychorium_gem_crop.json"
+    },
+    {
+      "filename": "entro_crop.json",
+      "relative_path": "kubejs/assets/mysticalagriculture/models/block/entro_crop.json"
+    },
+    {
+      "filename": "xychorium_gem_crop.json",
+      "relative_path": "kubejs/assets/mysticalagriculture/models/block/xychorium_gem_crop.json"
+    },
+    {
+      "filename": "entro_essence.json",
+      "relative_path": "kubejs/assets/mysticalagriculture/models/item/entro_essence.json"
+    },
+    {
+      "filename": "entro_seeds.json",
+      "relative_path": "kubejs/assets/mysticalagriculture/models/item/entro_seeds.json"
+    },
+    {
+      "filename": "xychorium_gem_essence.json",
+      "relative_path": "kubejs/assets/mysticalagriculture/models/item/xychorium_gem_essence.json"
+    },
+    {
+      "filename": "xychorium_gem_seeds.json",
+      "relative_path": "kubejs/assets/mysticalagriculture/models/item/xychorium_gem_seeds.json"
+    },
+    {
+      "filename": "xychorium_gem_flower.png.mcmeta",
+      "relative_path": "kubejs/assets/mysticalagriculture/textures/block/flower/xychorium_gem_flower.png.mcmeta"
+    },
+    {
+      "filename": "xychorium_gem_essence.png.mcmeta",
+      "relative_path": "kubejs/assets/mysticalagriculture/textures/item/essence/xychorium_gem_essence.png.mcmeta"
+    },
+    {
+      "filename": "xychorium_gem_seeds.png.mcmeta",
+      "relative_path": "kubejs/assets/mysticalagriculture/textures/item/seeds/xychorium_gem_seeds.png.mcmeta"
+    },
+    {
+      "filename": "allthemodium.json",
+      "relative_path": "kubejs/assets/silentgear/silentgear_materials/allthemodium.json"
+    },
+    {
+      "filename": "unobtainium.json",
+      "relative_path": "kubejs/assets/silentgear/silentgear_materials/unobtainium.json"
+    },
+    {
+      "filename": "vibranium.json",
+      "relative_path": "kubejs/assets/silentgear/silentgear_materials/vibranium.json"
+    },
+    {
+      "filename": "Mekanism-Tooltips.js",
+      "relative_path": "kubejs/client_scripts/Mekanism-Tooltips.js"
+    },
+    {
+      "filename": "RecipeViewer.js",
+      "relative_path": "kubejs/client_scripts/RecipeViewer.js"
+    },
+    {
+      "filename": "server_sync_banlist.js",
+      "relative_path": "kubejs/client_scripts/server_sync_banlist.js"
+    },
+    {
+      "filename": "tooltips.js",
+      "relative_path": "kubejs/client_scripts/tooltips.js"
+    },
+    {
+      "filename": "client.json",
+      "relative_path": "kubejs/config/client.json"
+    },
+    {
+      "filename": "common.json",
+      "relative_path": "kubejs/config/common.json"
+    },
+    {
+      "filename": "probe-settings.json",
+      "relative_path": "kubejs/config/probe-settings.json"
+    },
+    {
+      "filename": "web_server.json",
+      "relative_path": "kubejs/config/web_server.json"
+    },
+    {
+      "filename": "alloy_axe.json",
+      "relative_path": "kubejs/data/allthemodium/forbidden_arcanus/hephaestus_forge/ritual/alloy_axe.json"
+    },
+    {
+      "filename": "alloy_paxel.json",
+      "relative_path": "kubejs/data/allthemodium/forbidden_arcanus/hephaestus_forge/ritual/alloy_paxel.json"
+    },
+    {
+      "filename": "alloy_pick.json",
+      "relative_path": "kubejs/data/allthemodium/forbidden_arcanus/hephaestus_forge/ritual/alloy_pick.json"
+    },
+    {
+      "filename": "alloy_shovel.json",
+      "relative_path": "kubejs/data/allthemodium/forbidden_arcanus/hephaestus_forge/ritual/alloy_shovel.json"
+    },
+    {
+      "filename": "alloy_sword.json",
+      "relative_path": "kubejs/data/allthemodium/forbidden_arcanus/hephaestus_forge/ritual/alloy_sword.json"
+    },
+    {
+      "filename": "generic_loot.json",
+      "relative_path": "kubejs/data/allthemodium/loot_table/chest/generic_loot.json"
+    },
+    {
+      "filename": "ore_cinnabar.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/configured_feature/ore_cinnabar.json"
+    },
+    {
+      "filename": "ore_iridium.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/configured_feature/ore_iridium.json"
+    },
+    {
+      "filename": "ore_lead.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/configured_feature/ore_lead.json"
+    },
+    {
+      "filename": "ore_nickel.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/configured_feature/ore_nickel.json"
+    },
+    {
+      "filename": "ore_osmium.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/configured_feature/ore_osmium.json"
+    },
+    {
+      "filename": "ore_platinum.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/configured_feature/ore_platinum.json"
+    },
+    {
+      "filename": "ore_silver.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/configured_feature/ore_silver.json"
+    },
+    {
+      "filename": "ore_tin.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/configured_feature/ore_tin.json"
+    },
+    {
+      "filename": "ore_uranium.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/configured_feature/ore_uranium.json"
+    },
+    {
+      "filename": "ore_zinc.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/configured_feature/ore_zinc.json"
+    },
+    {
+      "filename": "ore_cinnabar_placed.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/placed_feature/ore_cinnabar_placed.json"
+    },
+    {
+      "filename": "ore_iridium_placed.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/placed_feature/ore_iridium_placed.json"
+    },
+    {
+      "filename": "ore_uranium_placed.json",
+      "relative_path": "kubejs/data/alltheores/worldgen/placed_feature/ore_uranium_placed.json"
+    },
+    {
+      "filename": "loot_category_overrides.json",
+      "relative_path": "kubejs/data/apotheosis/data_maps/item/loot_category_overrides.json"
+    },
+    {
+      "filename": "miners_fervor.json",
+      "relative_path": "kubejs/data/apothic_enchanting/enchantment/miners_fervor.json"
+    },
+    {
+      "filename": "remove_lava_springs.json",
+      "relative_path": "kubejs/data/atm10/neoforge/biome_modifier/remove_lava_springs.json"
+    },
+    {
+      "filename": "remove_silentgems_ores.json",
+      "relative_path": "kubejs/data/atm10/neoforge/biome_modifier/remove_silentgems_ores.json"
+    },
+    {
+      "filename": "allthemodium_spawnable.json",
+      "relative_path": "kubejs/data/atm10/tags/worldgen/biome/allthemodium_spawnable.json"
+    },
+    {
+      "filename": "unobtainium_spawnable.json",
+      "relative_path": "kubejs/data/atm10/tags/worldgen/biome/unobtainium_spawnable.json"
+    },
+    {
+      "filename": "vibranium_spawnable.json",
+      "relative_path": "kubejs/data/atm10/tags/worldgen/biome/vibranium_spawnable.json"
+    },
+    {
+      "filename": "yellorite.json",
+      "relative_path": "kubejs/data/bigreactors/neoforge/biome_modifier/yellorite.json"
+    },
+    {
+      "filename": "yellorite_deepslate.json",
+      "relative_path": "kubejs/data/bigreactors/neoforge/biome_modifier/yellorite_deepslate.json"
+    },
+    {
+      "filename": "new_machine_colossal.json",
+      "relative_path": "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_colossal.json"
+    },
+    {
+      "filename": "new_machine_farming.json",
+      "relative_path": "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_farming.json"
+    },
+    {
+      "filename": "new_machine_giant.json",
+      "relative_path": "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_giant.json"
+    },
+    {
+      "filename": "new_machine_large.json",
+      "relative_path": "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_large.json"
+    },
+    {
+      "filename": "new_machine_normal.json",
+      "relative_path": "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_normal.json"
+    },
+    {
+      "filename": "new_machine_small.json",
+      "relative_path": "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_small.json"
+    },
+    {
+      "filename": "new_machine_soaryn.json",
+      "relative_path": "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_soaryn.json"
+    },
+    {
+      "filename": "new_machine_tiny.json",
+      "relative_path": "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_tiny.json"
+    },
+    {
+      "filename": "colossal.json",
+      "relative_path": "kubejs/data/compactmachines/compactmachines/room_templates/colossal.json"
+    },
+    {
+      "filename": "farming.json",
+      "relative_path": "kubejs/data/compactmachines/compactmachines/room_templates/farming.json"
+    },
+    {
+      "filename": "giant.json",
+      "relative_path": "kubejs/data/compactmachines/compactmachines/room_templates/giant.json"
+    },
+    {
+      "filename": "large.json",
+      "relative_path": "kubejs/data/compactmachines/compactmachines/room_templates/large.json"
+    },
+    {
+      "filename": "normal.json",
+      "relative_path": "kubejs/data/compactmachines/compactmachines/room_templates/normal.json"
+    },
+    {
+      "filename": "small.json",
+      "relative_path": "kubejs/data/compactmachines/compactmachines/room_templates/small.json"
+    },
+    {
+      "filename": "soaryn.json",
+      "relative_path": "kubejs/data/compactmachines/compactmachines/room_templates/soaryn.json"
+    },
+    {
+      "filename": "tiny.json",
+      "relative_path": "kubejs/data/compactmachines/compactmachines/room_templates/tiny.json"
+    },
+    {
+      "filename": "new_machine_colossal.json",
+      "relative_path": "kubejs/data/compactmachines/recipe/new_machine_colossal.json"
+    },
+    {
+      "filename": "new_machine_farming.json",
+      "relative_path": "kubejs/data/compactmachines/recipe/new_machine_farming.json"
+    },
+    {
+      "filename": "new_machine_giant.json",
+      "relative_path": "kubejs/data/compactmachines/recipe/new_machine_giant.json"
+    },
+    {
+      "filename": "new_machine_large.json",
+      "relative_path": "kubejs/data/compactmachines/recipe/new_machine_large.json"
+    },
+    {
+      "filename": "new_machine_normal.json",
+      "relative_path": "kubejs/data/compactmachines/recipe/new_machine_normal.json"
+    },
+    {
+      "filename": "new_machine_small.json",
+      "relative_path": "kubejs/data/compactmachines/recipe/new_machine_small.json"
+    },
+    {
+      "filename": "new_machine_soaryn.json",
+      "relative_path": "kubejs/data/compactmachines/recipe/new_machine_soaryn.json"
+    },
+    {
+      "filename": "new_machine_tiny.json",
+      "relative_path": "kubejs/data/compactmachines/recipe/new_machine_tiny.json"
+    },
+    {
+      "filename": "abandoned_temple_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/abandoned_temple_biomes.json"
+    },
+    {
+      "filename": "aviary_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/aviary_biomes.json"
+    },
+    {
+      "filename": "bandit_towers_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/bandit_towers_biomes.json"
+    },
+    {
+      "filename": "bandit_village_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/bandit_village_biomes.json"
+    },
+    {
+      "filename": "bathhouse_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/bathhouse_biomes.json"
+    },
+    {
+      "filename": "ceryneian_hind_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/ceryneian_hind_biomes.json"
+    },
+    {
+      "filename": "coliseum_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/coliseum_biomes.json"
+    },
+    {
+      "filename": "fishing_hut_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/fishing_hut_biomes.json"
+    },
+    {
+      "filename": "foundry_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/foundry_biomes.json"
+    },
+    {
+      "filename": "giant_mushroom_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/giant_mushroom_biomes.json"
+    },
+    {
+      "filename": "greenwood_pub_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/greenwood_pub_biomes.json"
+    },
+    {
+      "filename": "heavenly_challenger_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_challenger_biomes.json"
+    },
+    {
+      "filename": "heavenly_conqueror_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_conqueror_biomes.json"
+    },
+    {
+      "filename": "heavenly_rider_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_rider_biomes.json"
+    },
+    {
+      "filename": "illager_campsite_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_campsite_biomes.json"
+    },
+    {
+      "filename": "illager_corsair_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_corsair_biomes.json"
+    },
+    {
+      "filename": "illager_fort_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_fort_biomes.json"
+    },
+    {
+      "filename": "illager_galley_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_galley_biomes.json"
+    },
+    {
+      "filename": "illager_windmill_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_windmill_biomes.json"
+    },
+    {
+      "filename": "infested_temple_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/infested_temple_biomes.json"
+    },
+    {
+      "filename": "jungle_tree_house_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/jungle_tree_house_biomes.json"
+    },
+    {
+      "filename": "keep_kayra_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/keep_kayra_biomes.json"
+    },
+    {
+      "filename": "kisegi_sanctuary_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/kisegi_sanctuary_biomes.json"
+    },
+    {
+      "filename": "lighthouse_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/lighthouse_biomes.json"
+    },
+    {
+      "filename": "mechanical_nest_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mechanical_nest_biomes.json"
+    },
+    {
+      "filename": "merchant_campsite_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/merchant_campsite_biomes.json"
+    },
+    {
+      "filename": "mining_system_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mining_system_biomes.json"
+    },
+    {
+      "filename": "monastery_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/monastery_biomes.json"
+    },
+    {
+      "filename": "mushroom_house_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mushroom_house_biomes.json"
+    },
+    {
+      "filename": "mushroom_mines_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mushroom_mines_biomes.json"
+    },
+    {
+      "filename": "mushroom_village_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mushroom_village_biomes.json"
+    },
+    {
+      "filename": "plague_asylum_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/plague_asylum_biomes.json"
+    },
+    {
+      "filename": "scorched_mines_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/scorched_mines_biomes.json"
+    },
+    {
+      "filename": "shiraz_palace_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/shiraz_palace_biomes.json"
+    },
+    {
+      "filename": "small_blimp_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/small_blimp_biomes.json"
+    },
+    {
+      "filename": "small_prairie_house_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/small_prairie_house_biomes.json"
+    },
+    {
+      "filename": "thornborn_towers_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/thornborn_towers_biomes.json"
+    },
+    {
+      "filename": "typhon_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/typhon_biomes.json"
+    },
+    {
+      "filename": "undead_pirate_ship_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/undead_pirate_ship_biomes.json"
+    },
+    {
+      "filename": "wishing_well_biomes.json",
+      "relative_path": "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/wishing_well_biomes.json"
+    },
+    {
+      "filename": "eternal_stella.json",
+      "relative_path": "kubejs/data/forbidden_arcanus/forbidden_arcanus/hephaestus_forge/ritual/eternal_stella.json"
+    },
+    {
+      "filename": "add_lost_soul_overworld.json",
+      "relative_path": "kubejs/data/forbidden_arcanus/neoforge/biome_modifier/add_lost_soul_overworld.json"
+    },
+    {
+      "filename": "aurora_deer.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/aurora_deer.json"
+    },
+    {
+      "filename": "crystallized_moth.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/crystallized_moth.json"
+    },
+    {
+      "filename": "ent.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/ent.json"
+    },
+    {
+      "filename": "freeze.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/freeze.json"
+    },
+    {
+      "filename": "gleech.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/gleech.json"
+    },
+    {
+      "filename": "grimstone_golem.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/grimstone_golem.json"
+    },
+    {
+      "filename": "lonestar_skeleton.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/lonestar_skeleton.json"
+    },
+    {
+      "filename": "luminaris.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/luminaris.json"
+    },
+    {
+      "filename": "luminofish.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/luminofish.json"
+    },
+    {
+      "filename": "lunar_monstrosity.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/lunar_monstrosity.json"
+    },
+    {
+      "filename": "nightfall_spider.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/nightfall_spider.json"
+    },
+    {
+      "filename": "ratlin.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/ratlin.json"
+    },
+    {
+      "filename": "starlight_golem.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/starlight_golem.json"
+    },
+    {
+      "filename": "tangled.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/tangled.json"
+    },
+    {
+      "filename": "tangled_hatred.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/tangled_hatred.json"
+    },
+    {
+      "filename": "thirst_walker.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/thirst_walker.json"
+    },
+    {
+      "filename": "warden.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/warden.json"
+    },
+    {
+      "filename": "yeti.json",
+      "relative_path": "kubejs/data/hostilenetworks/data_models/yeti.json"
+    },
+    {
+      "filename": "arc_recycling_list.json",
+      "relative_path": "kubejs/data/immersiveengineering/recipe/arc_recycling_list.json"
+    },
+    {
+      "filename": "azure_silver.json",
+      "relative_path": "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/azure_silver.json"
+    },
+    {
+      "filename": "glowstone_dust.json",
+      "relative_path": "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/glowstone_dust.json"
+    },
+    {
+      "filename": "obsidian.json",
+      "relative_path": "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/obsidian.json"
+    },
+    {
+      "filename": "raw_allthemodium.json",
+      "relative_path": "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/raw_allthemodium.json"
+    },
+    {
+      "filename": "raw_unobtainium.json",
+      "relative_path": "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/raw_unobtainium.json"
+    },
+    {
+      "filename": "raw_vibranium.json",
+      "relative_path": "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/raw_vibranium.json"
+    },
+    {
+      "filename": "deepslate.json",
+      "relative_path": "kubejs/data/industrialforegoing/recipe/stonework_generate/deepslate.json"
+    },
+    {
+      "filename": "fluorite.json",
+      "relative_path": "kubejs/data/mekanism/neoforge/biome_modifier/fluorite.json"
+    },
+    {
+      "filename": "lead.json",
+      "relative_path": "kubejs/data/mekanism/neoforge/biome_modifier/lead.json"
+    },
+    {
+      "filename": "osmium.json",
+      "relative_path": "kubejs/data/mekanism/neoforge/biome_modifier/osmium.json"
+    },
+    {
+      "filename": "salt.json",
+      "relative_path": "kubejs/data/mekanism/neoforge/biome_modifier/salt.json"
+    },
+    {
+      "filename": "tin.json",
+      "relative_path": "kubejs/data/mekanism/neoforge/biome_modifier/tin.json"
+    },
+    {
+      "filename": "uranium.json",
+      "relative_path": "kubejs/data/mekanism/neoforge/biome_modifier/uranium.json"
+    },
+    {
+      "filename": "grant_book_on_first_join.json",
+      "relative_path": "kubejs/data/merrymaking/advancement/grant_book_on_first_join.json"
+    },
+    {
+      "filename": "pickaxe.json",
+      "relative_path": "kubejs/data/minecraft/tags/block/mineable/pickaxe.json"
+    },
+    {
+      "filename": "needs_stone_tool.json",
+      "relative_path": "kubejs/data/minecraft/tags/block/needs_stone_tool.json"
+    },
+    {
+      "filename": "machine_upgrades.json",
+      "relative_path": "kubejs/data/modern_industrialization/data_maps/item/machine_upgrades.json"
+    },
+    {
+      "filename": "auto_forge.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/auto_forge.json"
+    },
+    {
+      "filename": "ev_runic_transformer.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/ev_runic_transformer.json"
+    },
+    {
+      "filename": "runic_crucible.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_crucible.json"
+    },
+    {
+      "filename": "runic_enchanter.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_enchanter.json"
+    },
+    {
+      "filename": "runic_energy_input_hatch.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_energy_input_hatch.json"
+    },
+    {
+      "filename": "runic_energy_output_hatch.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_energy_output_hatch.json"
+    },
+    {
+      "filename": "runic_ev_transformer.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_ev_transformer.json"
+    },
+    {
+      "filename": "runic_fluid_input_hatch.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_fluid_input_hatch.json"
+    },
+    {
+      "filename": "runic_fluid_output_hatch.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_fluid_output_hatch.json"
+    },
+    {
+      "filename": "runic_item_input_hatch.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_item_input_hatch.json"
+    },
+    {
+      "filename": "runic_item_output_hatch.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_item_output_hatch.json"
+    },
+    {
+      "filename": "runic_storage_unit.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_storage_unit.json"
+    },
+    {
+      "filename": "runic_superconductor_transformer.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/runic_superconductor_transformer.json"
+    },
+    {
+      "filename": "star_altar.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/star_altar.json"
+    },
+    {
+      "filename": "superconductor_runic_transformer.json",
+      "relative_path": "kubejs/data/modern_industrialization/loot_table/blocks/superconductor_runic_transformer.json"
+    },
+    {
+      "filename": "deepslate_ore_generator_bauxite.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_bauxite.json"
+    },
+    {
+      "filename": "deepslate_ore_generator_iridium.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_iridium.json"
+    },
+    {
+      "filename": "deepslate_ore_generator_lead.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_lead.json"
+    },
+    {
+      "filename": "deepslate_ore_generator_lignite_coal.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_lignite_coal.json"
+    },
+    {
+      "filename": "deepslate_ore_generator_nickel.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_nickel.json"
+    },
+    {
+      "filename": "deepslate_ore_generator_salt.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_salt.json"
+    },
+    {
+      "filename": "deepslate_ore_generator_tin.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_tin.json"
+    },
+    {
+      "filename": "deepslate_ore_generator_uranium.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_uranium.json"
+    },
+    {
+      "filename": "ore_generator_bauxite.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_bauxite.json"
+    },
+    {
+      "filename": "ore_generator_iridium.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_iridium.json"
+    },
+    {
+      "filename": "ore_generator_lead.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_lead.json"
+    },
+    {
+      "filename": "ore_generator_lignite_coal.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_lignite_coal.json"
+    },
+    {
+      "filename": "ore_generator_nickel.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_nickel.json"
+    },
+    {
+      "filename": "ore_generator_salt.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_salt.json"
+    },
+    {
+      "filename": "ore_generator_tin.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_tin.json"
+    },
+    {
+      "filename": "ore_generator_uranium.json",
+      "relative_path": "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_uranium.json"
+    },
+    {
+      "filename": "drill.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/allthemodium/assembler/drill.json"
+    },
+    {
+      "filename": "drill_head.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/allthemodium/assembler/drill_head.json"
+    },
+    {
+      "filename": "main.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/allthemodium/compressor/main.json"
+    },
+    {
+      "filename": "plate.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/allthemodium/compressor/plate.json"
+    },
+    {
+      "filename": "drill_head.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/allthemodium/crafting/drill_head.json"
+    },
+    {
+      "filename": "main.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/allthemodium/cutting_machine/main.json"
+    },
+    {
+      "filename": "rod.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/allthemodium/cutting_machine/rod.json"
+    },
+    {
+      "filename": "drill.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/unobtainium/assembler/drill.json"
+    },
+    {
+      "filename": "drill_head.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/unobtainium/assembler/drill_head.json"
+    },
+    {
+      "filename": "main.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/unobtainium/compressor/main.json"
+    },
+    {
+      "filename": "plate.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/unobtainium/compressor/plate.json"
+    },
+    {
+      "filename": "drill_head.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/unobtainium/crafting/drill_head.json"
+    },
+    {
+      "filename": "main.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/unobtainium/cutting_machine/main.json"
+    },
+    {
+      "filename": "rod.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/unobtainium/cutting_machine/rod.json"
+    },
+    {
+      "filename": "drill.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/vibranium/assembler/drill.json"
+    },
+    {
+      "filename": "drill_head.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/vibranium/assembler/drill_head.json"
+    },
+    {
+      "filename": "main.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/vibranium/compressor/main.json"
+    },
+    {
+      "filename": "plate.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/vibranium/compressor/plate.json"
+    },
+    {
+      "filename": "drill_head.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/vibranium/crafting/drill_head.json"
+    },
+    {
+      "filename": "main.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/vibranium/cutting_machine/main.json"
+    },
+    {
+      "filename": "rod.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/materials/vibranium/cutting_machine/rod.json"
+    },
+    {
+      "filename": "allthemodium.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/quarry/allthemodium.json"
+    },
+    {
+      "filename": "unobtainium.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/quarry/unobtainium.json"
+    },
+    {
+      "filename": "vibranium.json",
+      "relative_path": "kubejs/data/modern_industrialization/recipe/quarry/vibranium.json"
+    },
+    {
+      "filename": "hop_graphite.json",
+      "relative_path": "kubejs/data/mysticalagriculture/recipe/seed/hop_graphite.json"
+    },
+    {
+      "filename": "add_grove_underground.json",
+      "relative_path": "kubejs/data/occultism/neoforge/biome_modifier/add_grove_underground.json"
+    },
+    {
+      "filename": "add_ore_silver.json",
+      "relative_path": "kubejs/data/occultism/neoforge/biome_modifier/add_ore_silver.json"
+    },
+    {
+      "filename": "add_ore_silver_deepslate.json",
+      "relative_path": "kubejs/data/occultism/neoforge/biome_modifier/add_ore_silver_deepslate.json"
+    },
+    {
+      "filename": "misc_ancient_miner.json",
+      "relative_path": "kubejs/data/occultism/recipe/ritual/misc_ancient_miner.json"
+    },
+    {
+      "filename": "pamavocado.json",
+      "relative_path": "kubejs/data/pamhc2trees/loot_table/blocks/pamavocado.json"
+    },
+    {
+      "filename": "heat_source.json",
+      "relative_path": "kubejs/data/powah/data_maps/fluid/heat_source.json"
+    },
+    {
+      "filename": "stellarite_bee.json",
+      "relative_path": "kubejs/data/productivebees/forbidden_arcanus/hephaestus_forge/ritual/stellarite_bee.json"
+    },
+    {
+      "filename": "wasted_radioactive_bee.json",
+      "relative_path": "kubejs/data/productivebees/recipe/bee_conversion/wasted_radioactive_bee.json"
+    },
+    {
+      "filename": "honeycomb_experience_fluid.json",
+      "relative_path": "kubejs/data/productivebees/recipe/centrifuge/honeycomb_experience_fluid.json"
+    },
+    {
+      "filename": "add_lead_ore.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_lead_ore.json"
+    },
+    {
+      "filename": "add_nickel_ore_middle.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_nickel_ore_middle.json"
+    },
+    {
+      "filename": "add_nickel_ore_small.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_nickel_ore_small.json"
+    },
+    {
+      "filename": "add_nickel_ore_upper.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_nickel_ore_upper.json"
+    },
+    {
+      "filename": "add_silver_ore.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_silver_ore.json"
+    },
+    {
+      "filename": "add_silver_ore_lower.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_silver_ore_lower.json"
+    },
+    {
+      "filename": "add_sulfur_ore_lower.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_sulfur_ore_lower.json"
+    },
+    {
+      "filename": "add_sulfur_ore_upper.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_sulfur_ore_upper.json"
+    },
+    {
+      "filename": "add_tin_ore_large.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_tin_ore_large.json"
+    },
+    {
+      "filename": "add_tin_ore_small.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_tin_ore_small.json"
+    },
+    {
+      "filename": "add_zinc_ore.json",
+      "relative_path": "kubejs/data/railcraft/neoforge/biome_modifier/add_zinc_ore.json"
+    },
+    {
+      "filename": "allthemodium.json",
+      "relative_path": "kubejs/data/silentgear/silentgear_materials/allthemodium.json"
+    },
+    {
+      "filename": "unobtainium.json",
+      "relative_path": "kubejs/data/silentgear/silentgear_materials/unobtainium.json"
+    },
+    {
+      "filename": "vibranium.json",
+      "relative_path": "kubejs/data/silentgear/silentgear_materials/vibranium.json"
+    },
+    {
+      "filename": "advanced_aquatic.json",
+      "relative_path": "kubejs/data/silentgear/silentgear_traits/advanced_aquatic.json"
+    },
+    {
+      "filename": "advanced_flame_ward.json",
+      "relative_path": "kubejs/data/silentgear/silentgear_traits/advanced_flame_ward.json"
+    },
+    {
+      "filename": "cure_levitation.json",
+      "relative_path": "kubejs/data/silentgear/silentgear_traits/cure_levitation.json"
+    },
+    {
+      "filename": "cure_nausea.json",
+      "relative_path": "kubejs/data/silentgear/silentgear_traits/cure_nausea.json"
+    },
+    {
+      "filename": "soy.json",
+      "relative_path": "kubejs/data/sushigocrafting/recipe/fermenting_barrel/soy.json"
+    },
+    {
+      "filename": "arcane_crystal.json",
+      "relative_path": "kubejs/data/theurgy/recipe/incubation/arcane_crystal.json"
+    },
+    {
+      "filename": "bort.json",
+      "relative_path": "kubejs/data/theurgy/recipe/incubation/bort.json"
+    },
+    {
+      "filename": "iesnium_ingot.json",
+      "relative_path": "kubejs/data/theurgy/recipe/incubation/iesnium_ingot.json"
+    },
+    {
+      "filename": "mithril_ingot.json",
+      "relative_path": "kubejs/data/theurgy/recipe/incubation/mithril_ingot.json"
+    },
+    {
+      "filename": "prosperity_shard.json",
+      "relative_path": "kubejs/data/theurgy/recipe/incubation/prosperity_shard.json"
+    },
+    {
+      "filename": "rune.json",
+      "relative_path": "kubejs/data/theurgy/recipe/incubation/rune.json"
+    },
+    {
+      "filename": "salt.json",
+      "relative_path": "kubejs/data/theurgy/recipe/incubation/salt.json"
+    },
+    {
+      "filename": "stellarite_piece.json",
+      "relative_path": "kubejs/data/theurgy/recipe/incubation/stellarite_piece.json"
+    },
+    {
+      "filename": "sulfur.json",
+      "relative_path": "kubejs/data/theurgy/recipe/incubation/sulfur.json"
+    },
+    {
+      "filename": "exchange.json",
+      "relative_path": "kubejs/data/the_bumblezone/bz_bee_queen_trades/productivetrees/exchange.json"
+    },
+    {
+      "filename": "dead_bush.json",
+      "relative_path": "kubejs/data/the_bumblezone/bz_bee_queen_trades/revival/dead_bush.json"
+    },
+    {
+      "filename": "tradeable_saplings.json",
+      "relative_path": "kubejs/data/the_bumblezone/tags/item/tradeable_saplings.json"
+    },
+    {
+      "filename": "abandoned_grave_land.json",
+      "relative_path": "kubejs/data/tombstone/tags/worldgen/biome/has_structure/abandoned_grave_land.json"
+    },
+    {
+      "filename": "abandoned_grave_ocean.json",
+      "relative_path": "kubejs/data/tombstone/tags/worldgen/biome/has_structure/abandoned_grave_ocean.json"
+    },
+    {
+      "filename": "grains_of_infinity_campfire.json",
+      "relative_path": "kubejs/data/xycraft_machines/recipe/extractor/enderio/grains_of_infinity_campfire.json"
+    },
+    {
+      "filename": "ore_aluminum.json",
+      "relative_path": "kubejs/data/xycraft_world/neoforge/biome_modifier/ore_aluminum.json"
+    },
+    {
+      "filename": "README.txt",
+      "relative_path": "kubejs/README.txt"
+    },
+    {
+      "filename": "banlist_script.js",
+      "relative_path": "kubejs/server_scripts/banlist_script.js"
+    },
+    {
+      "filename": "atm_alloys.js",
+      "relative_path": "kubejs/server_scripts/modpack/atm_alloys.js"
+    },
+    {
+      "filename": "atm_alloy_tools.js",
+      "relative_path": "kubejs/server_scripts/modpack/atm_alloy_tools.js"
+    },
+    {
+      "filename": "atm_star.js",
+      "relative_path": "kubejs/server_scripts/modpack/atm_star.js"
+    },
+    {
+      "filename": "atm_star_creative.js",
+      "relative_path": "kubejs/server_scripts/modpack/atm_star_creative.js"
+    },
+    {
+      "filename": "att_items.js",
+      "relative_path": "kubejs/server_scripts/modpack/att_items.js"
+    },
+    {
+      "filename": "miningDim.js",
+      "relative_path": "kubejs/server_scripts/modpack/miningDim.js"
+    },
+    {
+      "filename": "mini_portals.js",
+      "relative_path": "kubejs/server_scripts/modpack/mini_portals.js"
+    },
+    {
+      "filename": "controllers.js",
+      "relative_path": "kubejs/server_scripts/modpack/runic_multis/controllers.js"
+    },
+    {
+      "filename": "auto_forge.js",
+      "relative_path": "kubejs/server_scripts/modpack/runic_multis/recipes/auto_forge.js"
+    },
+    {
+      "filename": "runic_crucible.js",
+      "relative_path": "kubejs/server_scripts/modpack/runic_multis/recipes/runic_crucible.js"
+    },
+    {
+      "filename": "runic_enchanter.js",
+      "relative_path": "kubejs/server_scripts/modpack/runic_multis/recipes/runic_enchanter.js"
+    },
+    {
+      "filename": "star_altar.js",
+      "relative_path": "kubejs/server_scripts/modpack/runic_multis/recipes/star_altar.js"
+    },
+    {
+      "filename": "Crusher.js",
+      "relative_path": "kubejs/server_scripts/mods/Actually Additions/Crusher.js"
+    },
+    {
+      "filename": "Fluid_Fuels.js",
+      "relative_path": "kubejs/server_scripts/mods/Actually Additions/Fluid_Fuels.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Actually Additions/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Additional Lights/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/AdditionalEnchantedMiner/Recipes.js"
+    },
+    {
+      "filename": "Tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Adorned/Tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/AdvancedAE/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Allthemodium/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/AllTheOres/Recipes.js"
+    },
+    {
+      "filename": "Tags.js",
+      "relative_path": "kubejs/server_scripts/mods/AllTheOres/Tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/AllTheTweaks/Recipes.js"
+    },
+    {
+      "filename": "adventure.js",
+      "relative_path": "kubejs/server_scripts/mods/Apotheosis/adventure.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Applied Energistics/Recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Aquaculture_2/tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Bibliocraft/Recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Biomes Weve Gone/tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Building Gadgets/Recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Building Gadgets/tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Bumblezone/Recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Bumblezone/tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/EnderIO/Recipes.js"
+    },
+    {
+      "filename": "sagMill.js",
+      "relative_path": "kubejs/server_scripts/mods/EnderIO/sagMill.js"
+    },
+    {
+      "filename": "recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/enderman overhaul/recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Entangled/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Eternal Starlight/Recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Evilcraft/tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Explorer's Compass/Recipes.js"
+    },
+    {
+      "filename": "InfinityCellRecipes.js",
+      "relative_path": "kubejs/server_scripts/mods/ExtendedAE/InfinityCellRecipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Extra Disks/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/ExtremeReactors/Recipes.js"
+    },
+    {
+      "filename": "Compatibility.js",
+      "relative_path": "kubejs/server_scripts/mods/Farmer's Delight/Compatibility.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Farmer's Delight/tags.js"
+    },
+    {
+      "filename": "Hephaestus_Forge.js",
+      "relative_path": "kubejs/server_scripts/mods/ForbiddenArcanus/Hephaestus_Forge.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/ForbiddenArcanus/Recipes.js"
+    },
+    {
+      "filename": "compacting_recipe.js",
+      "relative_path": "kubejs/server_scripts/mods/Functional Storage/compacting_recipe.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Handcrafted/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Hostile Neural Networks/Recipes.js"
+    },
+    {
+      "filename": "hyperbox.js",
+      "relative_path": "kubejs/server_scripts/mods/Hyperbox/hyperbox.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Hyperbox/Recipes.js"
+    },
+    {
+      "filename": "Compatibility.js",
+      "relative_path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js"
+    },
+    {
+      "filename": "Crusher.js",
+      "relative_path": "kubejs/server_scripts/mods/Immersive Engineering/Crusher.js"
+    },
+    {
+      "filename": "Dissolution Chamber.js",
+      "relative_path": "kubejs/server_scripts/mods/Indusrial Foregoing/Dissolution Chamber.js"
+    },
+    {
+      "filename": "Basin.js",
+      "relative_path": "kubejs/server_scripts/mods/Integrated Dynamics/Basin.js"
+    },
+    {
+      "filename": "Squeezer.js",
+      "relative_path": "kubejs/server_scripts/mods/Integrated Dynamics/Squeezer.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/JustDireThings/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Laser Bridges & Doors/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Mega Cells/Recipes.js"
+    },
+    {
+      "filename": "Compatibility.js",
+      "relative_path": "kubejs/server_scripts/mods/Mekanism/Compatibility.js"
+    },
+    {
+      "filename": "ore_processing.js",
+      "relative_path": "kubejs/server_scripts/mods/Mekanism/ore_processing.js"
+    },
+    {
+      "filename": "Gear.js",
+      "relative_path": "kubejs/server_scripts/mods/Mekanism/Rebalance/Gear.js"
+    },
+    {
+      "filename": "Items.js",
+      "relative_path": "kubejs/server_scripts/mods/Mekanism/Rebalance/Items.js"
+    },
+    {
+      "filename": "Units.js",
+      "relative_path": "kubejs/server_scripts/mods/Mekanism/Rebalance/Units.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Mekanism/Recipes.js"
+    },
+    {
+      "filename": "recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/mifa/recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Minecolonies/Recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Minecolonies/tags.js"
+    },
+    {
+      "filename": "recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/minecraft/recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/minecraft/tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Mining Gadgets/Recipes.js"
+    },
+    {
+      "filename": "Aluminum.js",
+      "relative_path": "kubejs/server_scripts/mods/Modern Industrialization/Aluminum.js"
+    },
+    {
+      "filename": "Cobble_Gen.js",
+      "relative_path": "kubejs/server_scripts/mods/Modern Industrialization/Cobble_Gen.js"
+    },
+    {
+      "filename": "Electric_Blast_Furnace.js",
+      "relative_path": "kubejs/server_scripts/mods/Modern Industrialization/Electric_Blast_Furnace.js"
+    },
+    {
+      "filename": "Quarry.js",
+      "relative_path": "kubejs/server_scripts/mods/Modern Industrialization/Quarry.js"
+    },
+    {
+      "filename": "Replicator.js",
+      "relative_path": "kubejs/server_scripts/mods/Modern Industrialization/Replicator.js"
+    },
+    {
+      "filename": "Vacuum Freezer.js",
+      "relative_path": "kubejs/server_scripts/mods/Modern Industrialization/Vacuum Freezer.js"
+    },
+    {
+      "filename": "auto_hephaestus_forge.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/auto_hephaestus_forge.js"
+    },
+    {
+      "filename": "runic_crucible.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/runic_crucible.js"
+    },
+    {
+      "filename": "runic_enchanter.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/runic_enchanter.js"
+    },
+    {
+      "filename": "runic_star_altar.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/runic_star_altar.js"
+    },
+    {
+      "filename": "chemical_crystallizer.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_crystallizer.js"
+    },
+    {
+      "filename": "chemical_dissolution_chamber.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_dissolution_chamber.js"
+    },
+    {
+      "filename": "chemical_infuser.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_infuser.js"
+    },
+    {
+      "filename": "chemical_oxidizer.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_oxidizer.js"
+    },
+    {
+      "filename": "chemical_washer.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_washer.js"
+    },
+    {
+      "filename": "electrolytic_seperator.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/electrolytic_seperator.js"
+    },
+    {
+      "filename": "isotopic_centrifuge.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/isotopic_centrifuge.js"
+    },
+    {
+      "filename": "pressurized_reaction_chamber.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/pressurized_reaction_chamber.js"
+    },
+    {
+      "filename": "solar_neutron_activator.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/solar_neutron_activator.js"
+    },
+    {
+      "filename": "auto_hephaestus_forge.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/auto_hephaestus_forge.js"
+    },
+    {
+      "filename": "general.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/general.js"
+    },
+    {
+      "filename": "multiblock_parts.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/multiblock_parts.js"
+    },
+    {
+      "filename": "runic_crucible.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/runic_crucible.js"
+    },
+    {
+      "filename": "runic_enchanter.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/runic_enchanter.js"
+    },
+    {
+      "filename": "chemical_crystallizer.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_crystallizer.js"
+    },
+    {
+      "filename": "chemical_dissolution_chamber.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_dissolution_chamber.js"
+    },
+    {
+      "filename": "chemical_infuser.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_infuser.js"
+    },
+    {
+      "filename": "chemical_oxidizer.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_oxidizer.js"
+    },
+    {
+      "filename": "chemical_washer.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_washer.js"
+    },
+    {
+      "filename": "controllers.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/controllers.js"
+    },
+    {
+      "filename": "electrolytic_seperator.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/electrolytic_seperator.js"
+    },
+    {
+      "filename": "isotopic_centrifuge.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/isotopic_centrifuge.js"
+    },
+    {
+      "filename": "pressurized_reaction_chamber.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/pressurized_reaction_chamber.js"
+    },
+    {
+      "filename": "solar_neutron_activator.js",
+      "relative_path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/solar_neutron_activator.js"
+    },
+    {
+      "filename": "AwakenedEssenceCrafting.js",
+      "relative_path": "kubejs/server_scripts/mods/MysticalAgriculture/AwakenedEssenceCrafting.js"
+    },
+    {
+      "filename": "Compatibility.js",
+      "relative_path": "kubejs/server_scripts/mods/MysticalAgriculture/Compatibility.js"
+    },
+    {
+      "filename": "cropInfo.json",
+      "relative_path": "kubejs/server_scripts/mods/MysticalAgriculture/cropInfo.json"
+    },
+    {
+      "filename": "Crops.js",
+      "relative_path": "kubejs/server_scripts/mods/MysticalAgriculture/Crops.js"
+    },
+    {
+      "filename": "FusionCrafting.js",
+      "relative_path": "kubejs/server_scripts/mods/MysticalAgriculture/FusionCrafting.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/MysticalAgriculture/Recipes.js"
+    },
+    {
+      "filename": "Tags.js",
+      "relative_path": "kubejs/server_scripts/mods/MysticalAgriculture/Tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Occultism/Recipes.js"
+    },
+    {
+      "filename": "recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Pneumaticcraft/recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Pneumaticcraft/tags.js"
+    },
+    {
+      "filename": "potionsmaster_recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Potionsmaster/potionsmaster_recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Potionsmaster/tags.js"
+    },
+    {
+      "filename": "Energizing.js",
+      "relative_path": "kubejs/server_scripts/mods/Powah/Energizing.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Powah/tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Productive Bees/Recipes.js"
+    },
+    {
+      "filename": "Tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Productive Bees/Tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Quarryplus/Recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Railcraft Reborn/tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Regions Unexplored/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Reliquary/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/rftools/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/SushiGoCrafting/tags.js"
+    },
+    {
+      "filename": "Tags.js",
+      "relative_path": "kubejs/server_scripts/mods/The Bumblezone/Tags.js"
+    },
+    {
+      "filename": "liquefaction.js",
+      "relative_path": "kubejs/server_scripts/mods/Theurgy/liquefaction.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Theurgy/tags.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Time In A Bottle/Recipes.js"
+    },
+    {
+      "filename": "Recipes.js",
+      "relative_path": "kubejs/server_scripts/mods/Utilitarian/Recipes.js"
+    },
+    {
+      "filename": "Extractor.js",
+      "relative_path": "kubejs/server_scripts/mods/Xycraft/Extractor.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/mods/Xycraft/tags.js"
+    },
+    {
+      "filename": "disable_biome_modifier.js",
+      "relative_path": "kubejs/server_scripts/Tweaks/disable_biome_modifier.js"
+    },
+    {
+      "filename": "disable_biome_modifier_ids.json",
+      "relative_path": "kubejs/server_scripts/Tweaks/disable_biome_modifier_ids.json"
+    },
+    {
+      "filename": "disable_loot_table.js",
+      "relative_path": "kubejs/server_scripts/Tweaks/disable_loot_table.js"
+    },
+    {
+      "filename": "disable_loot_table_ids.json",
+      "relative_path": "kubejs/server_scripts/Tweaks/disable_loot_table_ids.json"
+    },
+    {
+      "filename": "fix_death_bug.js",
+      "relative_path": "kubejs/server_scripts/Tweaks/fix_death_bug.js"
+    },
+    {
+      "filename": "recipes.js",
+      "relative_path": "kubejs/server_scripts/Tweaks/recipes.js"
+    },
+    {
+      "filename": "remove_recipes_from_banlist.js",
+      "relative_path": "kubejs/server_scripts/Tweaks/remove_recipes_from_banlist.js"
+    },
+    {
+      "filename": "tags.js",
+      "relative_path": "kubejs/server_scripts/Tweaks/tags.js"
+    },
+    {
+      "filename": "coke.js",
+      "relative_path": "kubejs/server_scripts/Unification/coke.js"
+    },
+    {
+      "filename": "gears.js",
+      "relative_path": "kubejs/server_scripts/Unification/gears.js"
+    },
+    {
+      "filename": "ingots.js",
+      "relative_path": "kubejs/server_scripts/Unification/ingots.js"
+    },
+    {
+      "filename": "sawing.js",
+      "relative_path": "kubejs/server_scripts/Unification/sawing.js"
+    },
+    {
+      "filename": "tools.js",
+      "relative_path": "kubejs/server_scripts/Unification/tools.js"
+    },
+    {
+      "filename": "Universal_Press.js",
+      "relative_path": "kubejs/startup_scripts/Applied Energistics/Universal_Press.js"
+    },
+    {
+      "filename": "CustomAdditions.js",
+      "relative_path": "kubejs/startup_scripts/CustomAdditions.js"
+    },
+    {
+      "filename": "InfinityCells.js",
+      "relative_path": "kubejs/startup_scripts/ExtendedAE/InfinityCells.js"
+    },
+    {
+      "filename": "Compatibility.js",
+      "relative_path": "kubejs/startup_scripts/Farmer's Delight/Compatibility.js"
+    },
+    {
+      "filename": "hyperbox.js",
+      "relative_path": "kubejs/startup_scripts/hyperbox/hyperbox.js"
+    },
+    {
+      "filename": "Compatibility.js",
+      "relative_path": "kubejs/startup_scripts/Mekanism/Compatibility.js"
+    },
+    {
+      "filename": "atm_stuff.js",
+      "relative_path": "kubejs/startup_scripts/Modern-Industrialization/atm_stuff.js"
+    },
+    {
+      "filename": "auto_forge.js",
+      "relative_path": "kubejs/startup_scripts/Modern-Industrialization/multiblocks/auto_forge.js"
+    },
+    {
+      "filename": "casing.js",
+      "relative_path": "kubejs/startup_scripts/Modern-Industrialization/multiblocks/casing.js"
+    },
+    {
+      "filename": "runic_crucible.js",
+      "relative_path": "kubejs/startup_scripts/Modern-Industrialization/multiblocks/runic_crucible.js"
+    },
+    {
+      "filename": "runic_enchanter.js",
+      "relative_path": "kubejs/startup_scripts/Modern-Industrialization/multiblocks/runic_enchanter.js"
+    },
+    {
+      "filename": "runic_star_altar.js",
+      "relative_path": "kubejs/startup_scripts/Modern-Industrialization/multiblocks/runic_star_altar.js"
+    },
+    {
+      "filename": "potionsmaster.js",
+      "relative_path": "kubejs/startup_scripts/Potionsmaster/potionsmaster.js"
+    },
+    {
+      "filename": "polylib_fix.js",
+      "relative_path": "kubejs/startup_scripts/Shrink/polylib_fix.js"
+    },
+    {
+      "filename": "SulfurAdditions.js",
+      "relative_path": "kubejs/startup_scripts/Theurgy/SulfurAdditions.js"
+    },
+    {
+      "filename": "Compatibility.js",
+      "relative_path": "kubejs/startup_scripts/Xycraft/Compatibility.js"
+    }
+  ]
+}
