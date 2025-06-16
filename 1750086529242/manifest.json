@@ -1,0 +1,523 @@
+{
+  "mods": [
+    {
+      "addon_file_id": 6348647,
+      "addon_name": "Language Reload",
+      "addon_project_id": 527334,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6348/647/language-reload-1.7.3%2b1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "language-reload-1.7.3+1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/language-reload",
+      "fileNameOnDisk": "language-reload-1.7.3+1.21.4.jar"
+    },
+    {
+      "addon_file_id": 6091019,
+      "addon_name": "Reese's Sodium Options",
+      "addon_project_id": 511319,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6091/19/reeses-sodium-options-fabric-1.8.3%2bmc1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options",
+      "fileNameOnDisk": "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
+    },
+    {
+      "addon_file_id": 5972532,
+      "addon_name": "Model Gap Fix",
+      "addon_project_id": 676136,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5972/532/modelfix-1.21.3-1.10-fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "modelfix-1.21.3-1.10-fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/model-gap-fix",
+      "fileNameOnDisk": "modelfix-1.21.3-1.10-fabric.jar"
+    },
+    {
+      "addon_file_id": 5982393,
+      "addon_name": "Forge Config API Port",
+      "addon_project_id": 547434,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5982/393/ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric",
+      "fileNameOnDisk": "ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar"
+    },
+    {
+      "addon_file_id": 6477168,
+      "addon_name": "Controlify",
+      "addon_project_id": 835847,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6477/168/controlify-2.1.2%2b1.21.4-fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "controlify-2.1.2+1.21.4-fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/controlify",
+      "disabled": true,
+      "fileNameOnDisk": "controlify-2.1.2+1.21.4-fabric.jar"
+    },
+    {
+      "addon_file_id": 5855570,
+      "addon_name": "Cubes Without Borders",
+      "addon_project_id": 975120,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5855/570/cwb-fabric-3.0.0%2bmc1.21.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "cwb-fabric-3.0.0+mc1.21.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cubes-without-borders",
+      "fileNameOnDisk": "cwb-fabric-3.0.0+mc1.21.3.jar"
+    },
+    {
+      "addon_file_id": 6655814,
+      "addon_name": "Polytone",
+      "addon_project_id": 958094,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6655/814/polytone-1.21.4-3.3.20-fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "polytone-1.21.4-3.3.20-fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/polytone",
+      "fileNameOnDisk": "polytone-1.21.4-3.3.20-fabric.jar"
+    },
+    {
+      "addon_file_id": 3831043,
+      "addon_name": "MixinTrace",
+      "addon_project_id": 433447,
+      "cdn_download_url": "https://edge.forgecdn.net/files/3831/43/mixintrace-1.1.1%2b1.17.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "mixintrace-1.1.1+1.17.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mixintrace",
+      "fileNameOnDisk": "mixintrace-1.1.1+1.17.jar"
+    },
+    {
+      "addon_file_id": 6362872,
+      "addon_name": "Puzzle",
+      "addon_project_id": 563977,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6362/872/puzzle-fabric-2.0.5%2b1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "puzzle-fabric-2.0.5+1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/puzzle",
+      "fileNameOnDisk": "puzzle-fabric-2.0.5+1.21.4.jar"
+    },
+    {
+      "addon_file_id": 6171685,
+      "addon_name": "ModernFix",
+      "addon_project_id": 790626,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6171/685/modernfix-fabric-5.20.3%2bmc1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "modernfix-fabric-5.20.3+mc1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+      "fileNameOnDisk": "modernfix-fabric-5.20.3+mc1.21.4.jar"
+    },
+    {
+      "addon_file_id": 6045344,
+      "addon_name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+      "addon_project_id": 568563,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6045/344/entity_texture_features_fabric_1.21.4-6.2.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "entity_texture_features_fabric_1.21.4-6.2.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+      "fileNameOnDisk": "entity_texture_features_fabric_1.21.4-6.2.10.jar"
+    },
+    {
+      "addon_file_id": 6528301,
+      "addon_name": "Fabric Language Kotlin",
+      "addon_project_id": 308769,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6528/301/fabric-language-kotlin-1.13.3%2bkotlin.2.1.21.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin",
+      "fileNameOnDisk": "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar"
+    },
+    {
+      "addon_file_id": 5286193,
+      "addon_name": "More Chat History",
+      "addon_project_id": 518319,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5286/193/morechathistory-1.3.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "morechathistory-1.3.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/morechathistory",
+      "fileNameOnDisk": "morechathistory-1.3.1.jar"
+    },
+    {
+      "addon_file_id": 6309318,
+      "addon_name": "Capes [Fabric/Forge]",
+      "addon_project_id": 408481,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6309/318/capes-1.5.5%2b1.21.4-fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "capes-1.5.5+1.21.4-fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/capes",
+      "fileNameOnDisk": "capes-1.5.5+1.21.4-fabric.jar"
+    },
+    {
+      "addon_file_id": 5973419,
+      "addon_name": "FerriteCore (Fabric)",
+      "addon_project_id": 459857,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5973/419/ferritecore-7.1.1-fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "ferritecore-7.1.1-fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric",
+      "fileNameOnDisk": "ferritecore-7.1.1-fabric.jar"
+    },
+    {
+      "addon_file_id": 6340394,
+      "addon_name": "Remove Reloading Screen",
+      "addon_project_id": 833233,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6340/394/rrls-5.1.2%2bmc1.21.4-fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "rrls-5.1.2+mc1.21.4-fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/rrls",
+      "fileNameOnDisk": "rrls-5.1.2+mc1.21.4-fabric.jar"
+    },
+    {
+      "addon_file_id": 5287107,
+      "addon_name": "Main Menu Credits",
+      "addon_project_id": 618812,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5287/107/main-menu-credits-1.2.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "main-menu-credits-1.2.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/main-menu-credits",
+      "fileNameOnDisk": "main-menu-credits-1.2.0.jar"
+    },
+    {
+      "addon_file_id": 6293895,
+      "addon_name": "Mod Menu",
+      "addon_project_id": 308702,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6293/895/modmenu-13.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "modmenu-13.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/modmenu",
+      "fileNameOnDisk": "modmenu-13.0.3.jar"
+    },
+    {
+      "addon_file_id": 6382661,
+      "addon_name": "Sodium",
+      "addon_project_id": 394468,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6382/661/sodium-fabric-0.6.13%2bmc1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "sodium-fabric-0.6.13+mc1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sodium",
+      "fileNameOnDisk": "sodium-fabric-0.6.13+mc1.21.4.jar"
+    },
+    {
+      "addon_file_id": 6178917,
+      "addon_name": "FastQuit",
+      "addon_project_id": 708967,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6178/917/fastquit-3.0.0%2b1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "fastquit-3.0.0+1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fastquit",
+      "fileNameOnDisk": "fastquit-3.0.0+1.21.4.jar"
+    },
+    {
+      "addon_file_id": 6001154,
+      "addon_name": "[EMF] Entity Model Features [Fabric & Forge]",
+      "addon_project_id": 844662,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6001/154/entity_model_features_fabric_1.21.4-2.4.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "entity_model_features_fabric_1.21.4-2.4.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/entity-model-features",
+      "fileNameOnDisk": "entity_model_features_fabric_1.21.4-2.4.1.jar"
+    },
+    {
+      "addon_file_id": 6639732,
+      "addon_name": "LambDynamicLights",
+      "addon_project_id": 393442,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6639/732/lambdynamiclights-4.1.3%2b1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "lambdynamiclights-4.1.3+1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights",
+      "fileNameOnDisk": "lambdynamiclights-4.1.3+1.21.4.jar"
+    },
+    {
+      "addon_file_id": 6328957,
+      "addon_name": "MoreCulling",
+      "addon_project_id": 630104,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6328/957/moreculling-fabric-1.21.4-1.2.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "moreculling-fabric-1.21.4-1.2.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/moreculling",
+      "fileNameOnDisk": "moreculling-fabric-1.21.4-1.2.10.jar"
+    },
+    {
+      "addon_file_id": 6560870,
+      "addon_name": "BetterGrassify",
+      "addon_project_id": 1026394,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6560/870/BetterGrassify-1.6.1%2bfabric.1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "BetterGrassify-1.6.1+fabric.1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/bettergrassify",
+      "fileNameOnDisk": "BetterGrassify-1.6.1+fabric.1.21.4.jar"
+    },
+    {
+      "addon_file_id": 5961075,
+      "addon_name": "Sodium Extra",
+      "addon_project_id": 447673,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5961/75/sodium-extra-fabric-0.6.1%2bmc1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "sodium-extra-fabric-0.6.1+mc1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sodium-extra",
+      "fileNameOnDisk": "sodium-extra-fabric-0.6.1+mc1.21.4.jar"
+    },
+    {
+      "addon_file_id": 4581910,
+      "addon_name": "Your Options Shall Be Respected (YOSBR)",
+      "addon_project_id": 374274,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4581/910/yosbr-0.1.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "yosbr-0.1.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/yosbr",
+      "fileNameOnDisk": "yosbr-0.1.2.jar"
+    },
+    {
+      "addon_file_id": 6504106,
+      "addon_name": "Fabrishot",
+      "addon_project_id": 404870,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6504/106/fabrishot-1.14.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "fabrishot-1.14.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fabrishot",
+      "fileNameOnDisk": "fabrishot-1.14.4.jar"
+    },
+    {
+      "addon_file_id": 6601524,
+      "addon_name": "Fabric API",
+      "addon_project_id": 306612,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6601/524/fabric-api-0.119.3%2b1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "fabric-api-0.119.3+1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fabric-api",
+      "fileNameOnDisk": "fabric-api-0.119.3+1.21.4.jar"
+    },
+    {
+      "addon_file_id": 6355878,
+      "addon_name": "Entity Culling Fabric/Forge",
+      "addon_project_id": 448233,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6355/878/entityculling-fabric-1.7.4-mc1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "entityculling-fabric-1.7.4-mc1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+      "fileNameOnDisk": "entityculling-fabric-1.7.4-mc1.21.4.jar"
+    },
+    {
+      "addon_file_id": 6336635,
+      "addon_name": "YetAnotherConfigLib",
+      "addon_project_id": 667299,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6336/635/yet_another_config_lib_v3-3.6.6%2b1.21.4-fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "yet_another_config_lib_v3-3.6.6+1.21.4-fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/yacl",
+      "fileNameOnDisk": "yet_another_config_lib_v3-3.6.6+1.21.4-fabric.jar"
+    },
+    {
+      "addon_file_id": 6401281,
+      "addon_name": "Lithium (Fabric/NeoForge)",
+      "addon_project_id": 360438,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6401/281/lithium-fabric-0.15.3%2bmc1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "lithium-fabric-0.15.3+mc1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lithium",
+      "fileNameOnDisk": "lithium-fabric-0.15.3+mc1.21.4.jar"
+    },
+    {
+      "addon_file_id": 5978702,
+      "addon_name": "OptiGUI",
+      "addon_project_id": 619986,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5978/702/optigui-2.3.0-beta.7%2b1.21.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "optigui-2.3.0-beta.7+1.21.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/optigui",
+      "fileNameOnDisk": "optigui-2.3.0-beta.7+1.21.2.jar"
+    },
+    {
+      "addon_file_id": 6091341,
+      "addon_name": "Debugify",
+      "addon_project_id": 596224,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6091/341/Debugify-1.21.4%2b1.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "Debugify-1.21.4+1.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/debugify",
+      "disabled": true,
+      "fileNameOnDisk": "Debugify-1.21.4+1.1.jar"
+    },
+    {
+      "addon_file_id": 6501940,
+      "addon_name": "Dynamic FPS",
+      "addon_project_id": 335493,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6501/940/dynamic-fps-3.9.4%2bminecraft-1.21.2-fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "dynamic-fps-3.9.4+minecraft-1.21.2-fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/dynamic-fps",
+      "fileNameOnDisk": "dynamic-fps-3.9.4+minecraft-1.21.2-fabric.jar"
+    },
+    {
+      "addon_file_id": 6213644,
+      "addon_name": "Iris Shaders",
+      "addon_project_id": 455508,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6213/644/iris-fabric-1.8.8%2bmc1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "iris-fabric-1.8.8+mc1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/irisshaders",
+      "fileNameOnDisk": "iris-fabric-1.8.8+mc1.21.4.jar"
+    },
+    {
+      "addon_file_id": 6472716,
+      "addon_name": "MoreMcmeta (Fabric)",
+      "addon_project_id": 506079,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6472/716/moremcmeta-1.21.4-4.5.2-fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "moremcmeta-1.21.4-4.5.2-fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/moremcmeta-fabric",
+      "fileNameOnDisk": "moremcmeta-1.21.4-4.5.2-fabric.jar"
+    },
+    {
+      "addon_file_id": 6004995,
+      "addon_name": "Paginated Advancements & Custom Frames",
+      "addon_project_id": 618770,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6004/995/paginatedadvancements-2.6.1%2b1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "paginatedadvancements-2.6.1+1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/paginated-advancements",
+      "fileNameOnDisk": "paginatedadvancements-2.6.1+1.21.4.jar"
+    },
+    {
+      "addon_file_id": 5968575,
+      "addon_name": "No Chat Reports",
+      "addon_project_id": 634062,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5968/575/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/no-chat-reports",
+      "fileNameOnDisk": "NoChatReports-FABRIC-1.21.4-v2.11.0.jar"
+    },
+    {
+      "addon_file_id": 6027976,
+      "addon_name": "Continuity",
+      "addon_project_id": 531351,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6027/976/continuity-3.0.0%2b1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "continuity-3.0.0+1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/continuity",
+      "fileNameOnDisk": "continuity-3.0.0+1.21.4.jar"
+    },
+    {
+      "addon_file_id": 5987042,
+      "addon_name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "addon_project_id": 348521,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5987/42/cloth-config-17.0.144-fabric.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "cloth-config-17.0.144-fabric.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+      "fileNameOnDisk": "cloth-config-17.0.144-fabric.jar"
+    },
+    {
+      "addon_file_id": 6418121,
+      "addon_name": "e4mc",
+      "addon_project_id": 849519,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6418/121/e4mc_minecraft-fabric-5.3.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "e4mc_minecraft-fabric-5.3.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/e4mc",
+      "fileNameOnDisk": "e4mc_minecraft-fabric-5.3.1.jar"
+    },
+    {
+      "addon_file_id": 6312395,
+      "addon_name": "ImmediatelyFast",
+      "addon_project_id": 686911,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6312/395/ImmediatelyFast-Fabric-1.8.0%2b1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "ImmediatelyFast-Fabric-1.8.0+1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
+      "fileNameOnDisk": "ImmediatelyFast-Fabric-1.8.0+1.21.4.jar"
+    },
+    {
+      "addon_file_id": 5838117,
+      "addon_name": "Zoomify",
+      "addon_project_id": 574741,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5838/117/Zoomify-2.14.2%2b1.21.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "Zoomify-2.14.2+1.21.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/zoomify",
+      "fileNameOnDisk": "Zoomify-2.14.2+1.21.3.jar"
+    },
+    {
+      "addon_file_id": 6105228,
+      "addon_name": "Enhanced Block Entities",
+      "addon_project_id": 452046,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6105/228/enhancedblockentities-0.11.3%2b1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\mods",
+      "version": "enhancedblockentities-0.11.3+1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities",
+      "fileNameOnDisk": "enhancedblockentities-0.11.3+1.21.4.jar"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "addon_file_id": 6652681,
+      "addon_name": "Mandala's GUI - Dark mode",
+      "addon_project_id": 664719,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6652/681/MandalasGUI%2bDakmode_1.21.5_6.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\resourcepacks",
+      "version": "MandalasGUI+Dakmode_1.21.5_6.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/mandalas-gui-dark-mode",
+      "fileNameOnDisk": "MandalasGUI+Dakmode_1.21.5_6.zip"
+    },
+    {
+      "addon_file_id": 6560157,
+      "addon_name": "Translations for Sodium",
+      "addon_project_id": 867964,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6560/157/SodiumTranslations.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\resourcepacks",
+      "version": "SodiumTranslations.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium",
+      "fileNameOnDisk": "SodiumTranslations.zip"
+    },
+    {
+      "addon_file_id": 6001123,
+      "addon_name": "Fresh Animations",
+      "addon_project_id": 453763,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6001/123/FreshAnimations_v1.9.3.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\resourcepacks",
+      "version": "FreshAnimations_v1.9.3.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fresh-animations",
+      "fileNameOnDisk": "FreshAnimations_v1.9.3.zip"
+    }
+  ],
+  "shaderpacks": [
+    {
+      "addon_file_id": 6515579,
+      "addon_name": "Complementary Shaders - Unbound",
+      "addon_project_id": 385587,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6515/579/ComplementaryUnbound_r5.5.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\shaderpacks",
+      "version": "ComplementaryUnbound_r5.5.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/shaders/complementary-unbound",
+      "fileNameOnDisk": "ComplementaryUnbound_r5.5.1.zip"
+    },
+    {
+      "addon_file_id": 6441661,
+      "addon_name": "MakeUp - Ultra Fast | Shaders",
+      "addon_project_id": 431203,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6441/661/MakeUp-UltraFast-9.1d.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\shaderpacks",
+      "version": "MakeUp-UltraFast-9.1d.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/shaders/makeup-ultra-fast-shader",
+      "fileNameOnDisk": "MakeUp-UltraFast-9.1d.zip"
+    }
+  ],
+  "datapacks": [
+    {
+      "addon_file_id": 6228537,
+      "addon_name": "Enchantology",
+      "addon_project_id": 1122994,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6228/537/enchantology_v1.2.0.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\datapacks",
+      "version": "enchantology_v1.2.0.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/data-packs/enchantology",
+      "fileNameOnDisk": "enchantology_v1.2.0.zip"
+    },
+    {
+      "addon_file_id": 6448103,
+      "addon_name": "Spawn Animations [Data Pack]",
+      "addon_project_id": 811803,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6448/103/spawnanimations-v1.10.1-mc1.17-1.21.5-datapack.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Fabulously Optimized (1)\\datapacks",
+      "version": "spawnanimations-v1.10.1-mc1.17-1.21.5-datapack.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/data-packs/spawn-animations",
+      "fileNameOnDisk": "spawnanimations-v1.10.1-mc1.17-1.21.5-datapack.zip"
+    }
+  ],
+  "config_files": []
+}
