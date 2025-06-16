@@ -1,0 +1,186 @@
+{
+  "mods": [
+    {
+      "addon_file_id": 6095777,
+      "addon_name": "GeckoLib",
+      "addon_project_id": 388172,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6095/777/geckolib-forge-1.21.4-4.8.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "geckolib-forge-1.21.4-4.8.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/geckolib"
+    },
+    {
+      "addon_file_id": 6147301,
+      "addon_name": "Searchables",
+      "addon_project_id": 858542,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6147/301/Searchables-forge-1.21.4-1.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "Searchables-forge-1.21.4-1.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/searchables"
+    },
+    {
+      "addon_file_id": 5846754,
+      "addon_name": "Mouse Tweaks",
+      "addon_project_id": 60089,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5846/754/MouseTweaks-forge-mc1.21.3-2.26.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "MouseTweaks-forge-mc1.21.3-2.26.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks"
+    },
+    {
+      "addon_file_id": 6054288,
+      "addon_name": "GlitchCore",
+      "addon_project_id": 955399,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6054/288/GlitchCore-forge-1.21.4-2.3.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "GlitchCore-forge-1.21.4-2.3.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/glitchcore"
+    },
+    {
+      "addon_file_id": 6055019,
+      "addon_name": "TerraBlender (Forge)",
+      "addon_project_id": 563928,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6055/19/TerraBlender-forge-1.21.4-4.3.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "TerraBlender-forge-1.21.4-4.3.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/terrablender"
+    },
+    {
+      "addon_file_id": 6399226,
+      "addon_name": "Sound Physics Remastered",
+      "addon_project_id": 535489,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6399/226/sound-physics-remastered-forge-1.21.4-1.4.12.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "sound-physics-remastered-forge-1.21.4-1.4.12.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered"
+    },
+    {
+      "addon_file_id": 6449630,
+      "addon_name": "Carry On",
+      "addon_project_id": 274259,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6449/630/carryon-forge-1.21.4-2.3.0.29.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "carryon-forge-1.21.4-2.3.0.29.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/carry-on",
+      "disabled": true
+    },
+    {
+      "addon_file_id": 6588909,
+      "addon_name": "Balm",
+      "addon_project_id": 531761,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6588/909/balm-forge-1.21.4-21.4.34-all.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "balm-forge-1.21.4-21.4.34-all.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/balm",
+      "disabled": true
+    },
+    {
+      "addon_file_id": 5848975,
+      "addon_name": "Fast Leaf Decay",
+      "addon_project_id": 230976,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5848/975/fastleafdecay-34.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "fastleafdecay-34.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay"
+    },
+    {
+      "addon_file_id": 6552637,
+      "addon_name": "Waystones",
+      "addon_project_id": 245755,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6552/637/waystones-forge-1.21.4-21.4.15.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "waystones-forge-1.21.4-21.4.15.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+      "disabled": true
+    },
+    {
+      "addon_file_id": 6515053,
+      "addon_name": "Xaero's Minimap",
+      "addon_project_id": 263420,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6515/53/Xaeros_Minimap_25.2.6_Forge_1.21.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\mods",
+      "version": "Xaeros_Minimap_25.2.6_Forge_1.21.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "addon_file_id": 6090721,
+      "addon_name": "Slightly Improved Font (32x)",
+      "addon_project_id": 580181,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6090/721/Slightly-Improved-Font-1.1.5.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\resourcepacks",
+      "version": "Slightly-Improved-Font-1.1.5.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/slightly-improved-font"
+    },
+    {
+      "addon_file_id": 6139232,
+      "addon_name": "Fresh Waystones Texture",
+      "addon_project_id": 860903,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6139/232/waystones_1.21.4.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\resourcepacks",
+      "version": "waystones_1.21.4.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fresh-waystones-texture",
+      "disabled": true
+    },
+    {
+      "addon_file_id": 6230064,
+      "addon_name": "Stay True",
+      "addon_project_id": 353554,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6230/64/Stay%20True%201.21.4.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\resourcepacks",
+      "version": "Stay True 1.21.4.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/stay-true"
+    }
+  ],
+  "shaderpacks": [
+    {
+      "addon_file_id": 6596528,
+      "addon_name": "Solas Shader",
+      "addon_project_id": 678384,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6596/528/Solas%20Shader%20V2.8c.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\shaderpacks",
+      "version": "Solas Shader V2.8c.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/shaders/solas-shader"
+    },
+    {
+      "addon_file_id": 6515577,
+      "addon_name": "Complementary Shaders - Reimagined",
+      "addon_project_id": 627557,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6515/577/ComplementaryReimagined_r5.5.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\shaderpacks",
+      "version": "ComplementaryReimagined_r5.5.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/shaders/complementary-reimagined"
+    },
+    {
+      "addon_file_id": 6515579,
+      "addon_name": "Complementary Shaders - Unbound",
+      "addon_project_id": 385587,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6515/579/ComplementaryUnbound_r5.5.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\shaderpacks",
+      "version": "ComplementaryUnbound_r5.5.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/shaders/complementary-unbound"
+    }
+  ],
+  "datapacks": [
+    {
+      "addon_file_id": 6541171,
+      "addon_name": "Trek",
+      "addon_project_id": 1233784,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6541/171/Trek%201.21.x.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\datapacks",
+      "version": "Trek 1.21.x.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/data-packs/trek"
+    },
+    {
+      "addon_file_id": 6448103,
+      "addon_name": "Spawn Animations [Data Pack]",
+      "addon_project_id": 811803,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6448/103/spawnanimations-v1.10.1-mc1.17-1.21.5-datapack.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\rust modpack (1)\\datapacks",
+      "version": "spawnanimations-v1.10.1-mc1.17-1.21.5-datapack.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/data-packs/spawn-animations"
+    }
+  ],
+  "config_files": []
+}
