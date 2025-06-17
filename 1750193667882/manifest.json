@@ -1,0 +1,16 @@
+{
+  "mods": [],
+  "resourcepacks": [],
+  "shaderpacks": [],
+  "datapacks": [],
+  "config_files": [
+    {
+      "filename": "invtweaks-client.toml",
+      "relative_path": "invtweaks-client.toml"
+    },
+    {
+      "filename": "options.txt",
+      "relative_path": "options.txt"
+    }
+  ]
+}
