@@ -1,0 +1,549 @@
+{
+  "updateType": "full",
+  "mods": [
+    {
+      "addon_file_id": 6280155,
+      "addon_name": "Supplementaries Squared",
+      "addon_project_id": 838411,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6280/155/suppsquared-1.20-1.1.21.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "suppsquared-1.20-1.1.21.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared",
+      "fileNameOnDisk": "suppsquared-1.20-1.1.21.jar"
+    },
+    {
+      "addon_file_id": 5326142,
+      "addon_name": "Do a Barrel Roll",
+      "addon_project_id": 663658,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5326/142/do_a_barrel_roll-forge-3.5.6%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll",
+      "fileNameOnDisk": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6399601,
+      "addon_name": "Sound Physics Remastered",
+      "addon_project_id": 535489,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6399/601/sound-physics-remastered-forge-1.20.1-1.4.13.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "sound-physics-remastered-forge-1.20.1-1.4.13.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+      "fileNameOnDisk": "sound-physics-remastered-forge-1.20.1-1.4.13.jar"
+    },
+    {
+      "addon_file_id": 6330326,
+      "addon_name": "Lootr (Forge & NeoForge)",
+      "addon_project_id": 361276,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6330/326/lootr-forge-1.20-0.7.35.91.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "lootr-forge-1.20-0.7.35.91.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lootr",
+      "fileNameOnDisk": "lootr-forge-1.20-0.7.35.91.jar"
+    },
+    {
+      "addon_file_id": 6124951,
+      "addon_name": "Aetheric Tetranomicon",
+      "addon_project_id": 966902,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6124/951/aetheric_tetranomicon-1.2.0-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "aetheric_tetranomicon-1.2.0-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/aetheric-tetranomicon",
+      "fileNameOnDisk": "aetheric_tetranomicon-1.2.0-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5317720,
+      "addon_name": "Bigger Trees",
+      "addon_project_id": 1013424,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5317/720/bigger_vanilla_trees-forge-1.20-1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "bigger_vanilla_trees-forge-1.20-1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/bigger-trees",
+      "fileNameOnDisk": "bigger_vanilla_trees-forge-1.20-1.0.jar"
+    },
+    {
+      "addon_file_id": 5981334,
+      "addon_name": "Continuity",
+      "addon_project_id": 531351,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5981/334/continuity-3.0.0%2b1.20.1.forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "continuity-3.0.0+1.20.1.forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/continuity",
+      "fileNameOnDisk": "continuity-3.0.0+1.20.1.forge.jar"
+    },
+    {
+      "addon_file_id": 5936208,
+      "addon_name": "tetracelium",
+      "addon_project_id": 929534,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5936/208/tetracelium-1.20.1-1.3.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "tetracelium-1.20.1-1.3.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/tetracelium",
+      "fileNameOnDisk": "tetracelium-1.20.1-1.3.1.jar"
+    },
+    {
+      "addon_file_id": 4793728,
+      "addon_name": "William Wythers' Overhauled Overworld",
+      "addon_project_id": 921022,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4793/728/WWOO-FABRIC%2bFORGE%2bQUILT-2.0.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "WWOO-FABRIC+FORGE+QUILT-2.0.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld",
+      "fileNameOnDisk": "WWOO-FABRIC+FORGE+QUILT-2.0.0.jar"
+    },
+    {
+      "addon_file_id": 5848944,
+      "addon_name": "Meme death sounds",
+      "addon_project_id": 1128789,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5848/944/funny_death_sound-1.0.0-forge-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "funny_death_sound-1.0.0-forge-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/meme-death-sounds",
+      "fileNameOnDisk": "funny_death_sound-1.0.0-forge-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4857272,
+      "addon_name": "Ecologics",
+      "addon_project_id": 570463,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4857/272/ecologics-forge-1.20.1-2.2.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "ecologics-forge-1.20.1-2.2.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ecologics",
+      "fileNameOnDisk": "ecologics-forge-1.20.1-2.2.0.jar"
+    },
+    {
+      "addon_file_id": 6020952,
+      "addon_name": "Oculus",
+      "addon_project_id": 581495,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6020/952/oculus-mc1.20.1-1.8.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "oculus-mc1.20.1-1.8.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/oculus",
+      "fileNameOnDisk": "oculus-mc1.20.1-1.8.0.jar"
+    },
+    {
+      "addon_file_id": 5825801,
+      "addon_name": "Items Displayed [NeoForge]",
+      "addon_project_id": 937042,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5825/801/ItemsDisplayedForge-v1.3.5-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "ItemsDisplayedForge-v1.3.5-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/items-displayed-forge",
+      "fileNameOnDisk": "ItemsDisplayedForge-v1.3.5-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5320028,
+      "addon_name": "Chunky (Forge/NeoForge)",
+      "addon_project_id": 485681,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5320/28/Chunky-1.3.146.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "Chunky-1.3.146.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge",
+      "fileNameOnDisk": "Chunky-1.3.146.jar"
+    },
+    {
+      "addon_file_id": 6499938,
+      "addon_name": "Fetzi's Displays",
+      "addon_project_id": 1257994,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6499/938/fetzisdisplays-forge-1.0.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "fetzisdisplays-forge-1.0.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fetzis-displays",
+      "fileNameOnDisk": "fetzisdisplays-forge-1.0.0.jar"
+    },
+    {
+      "addon_file_id": 5196062,
+      "addon_name": "Royal Variations",
+      "addon_project_id": 989611,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5196/62/royal_variations_%5bForge%5d_1.20.1_1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "royal_variations_[Forge]_1.20.1_1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/royal-variations",
+      "fileNameOnDisk": "royal_variations_[Forge]_1.20.1_1.0.jar"
+    },
+    {
+      "addon_file_id": 5681725,
+      "addon_name": "Embeddium",
+      "addon_project_id": 908741,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5681/725/embeddium-0.3.31%2bmc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "embeddium-0.3.31+mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/embeddium",
+      "fileNameOnDisk": "embeddium-0.3.31+mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6181291,
+      "addon_name": "Concurrent Chunk Management Engine",
+      "addon_project_id": 533097,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6181/291/c2me-fabric-mc1.20.1-0.2.0%2balpha.11.16.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/c2me",
+      "fileNameOnDisk": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar"
+    },
+    {
+      "addon_file_id": 5203366,
+      "addon_name": "Chisels & Bits - For Forge",
+      "addon_project_id": 231095,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5203/366/chisels-and-bits-forge-1.4.148.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "chisels-and-bits-forge-1.4.148.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits",
+      "fileNameOnDisk": "chisels-and-bits-forge-1.4.148.jar"
+    },
+    {
+      "addon_file_id": 4730035,
+      "addon_name": "Callable Horses",
+      "addon_project_id": 331746,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4730/35/callablehorses-1.20.1-1.3.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "callablehorses-1.20.1-1.3.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/callable-horses",
+      "fileNameOnDisk": "callablehorses-1.20.1-1.3.0.1.jar"
+    },
+    {
+      "addon_file_id": 5733302,
+      "addon_name": "Mighty Mail",
+      "addon_project_id": 902986,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5733/302/mighty_mail-forge-1.20.1-1.1.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "mighty_mail-forge-1.20.1-1.1.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mighty-mail",
+      "fileNameOnDisk": "mighty_mail-forge-1.20.1-1.1.2.jar"
+    },
+    {
+      "addon_file_id": 5963449,
+      "addon_name": "aleki's Nifty Ships",
+      "addon_project_id": 1068445,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5963/449/alekiNiftyShips-FORGE-1.20.1-1.0.14.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "alekiNiftyShips-FORGE-1.20.1-1.0.14.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/alekiships",
+      "fileNameOnDisk": "alekiNiftyShips-FORGE-1.20.1-1.0.14.jar"
+    },
+    {
+      "addon_file_id": 6255026,
+      "addon_name": "Raw's Look around",
+      "addon_project_id": 1074518,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6255/26/raws_look_around-1.20.1-0.0.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "raws_look_around-1.20.1-0.0.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/raws-look-around",
+      "fileNameOnDisk": "raws_look_around-1.20.1-0.0.6.jar"
+    },
+    {
+      "addon_file_id": 6453794,
+      "addon_name": "Fusion (Connected Textures)",
+      "addon_project_id": 854949,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6453/794/fusion-1.2.7b-forge-mc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "fusion-1.2.7b-forge-mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
+      "fileNameOnDisk": "fusion-1.2.7b-forge-mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6498509,
+      "addon_name": "Dawn Of Time",
+      "addon_project_id": 312359,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6498/509/Dawn%20Of%20Time-forge-1.20.1-1.5.13.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "Dawn Of Time-forge-1.20.1-1.5.13.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/dawn-of-time",
+      "fileNameOnDisk": "Dawn Of Time-forge-1.20.1-1.5.13.jar"
+    },
+    {
+      "addon_file_id": 6418901,
+      "addon_name": "mutil",
+      "addon_project_id": 351914,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6418/901/mutil-1.20.1-6.2.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "mutil-1.20.1-6.2.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mutil",
+      "fileNameOnDisk": "mutil-1.20.1-6.2.0.jar"
+    },
+    {
+      "addon_file_id": 5848512,
+      "addon_name": "M.R.U",
+      "addon_project_id": 669659,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5848/512/MRU-1.0.4%2b1.20.1%2bforge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "MRU-1.0.4+1.20.1+forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mru",
+      "fileNameOnDisk": "MRU-1.0.4+1.20.1+forge.jar"
+    },
+    {
+      "addon_file_id": 6336646,
+      "addon_name": "YetAnotherConfigLib",
+      "addon_project_id": 667299,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6336/646/yet_another_config_lib_v3-3.6.6%2b1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/yacl",
+      "fileNameOnDisk": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 5293408,
+      "addon_name": "Habitat",
+      "addon_project_id": 422972,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5293/408/habitat-1.3.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "habitat-1.3.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/habitat",
+      "fileNameOnDisk": "habitat-1.3.1.jar"
+    },
+    {
+      "addon_file_id": 5558225,
+      "addon_name": "Regions Unexplored (forge/fabric)",
+      "addon_project_id": 659110,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5558/225/RegionsUnexploredForge-0.5.6%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "RegionsUnexploredForge-0.5.6+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/regions-unexplored",
+      "fileNameOnDisk": "RegionsUnexploredForge-0.5.6+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4691510,
+      "addon_name": "Quickstack",
+      "addon_project_id": 354522,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4691/510/quickstack-1.20.1-1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "quickstack-1.20.1-1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/quickstack",
+      "fileNameOnDisk": "quickstack-1.20.1-1.jar"
+    },
+    {
+      "addon_file_id": 6439524,
+      "addon_name": "Simple Voice Chat",
+      "addon_project_id": 416089,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6439/524/voicechat-forge-1.20.1-2.5.30.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "voicechat-forge-1.20.1-2.5.30.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
+      "fileNameOnDisk": "voicechat-forge-1.20.1-2.5.30.jar"
+    },
+    {
+      "addon_file_id": 6528437,
+      "addon_name": "Create: Structures Arise",
+      "addon_project_id": 1010066,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6528/437/create_structures_arise-158.31.30-forge-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "create_structures_arise-158.31.30-forge-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-structures-arise",
+      "fileNameOnDisk": "create_structures_arise-158.31.30-forge-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6503500,
+      "addon_name": "Blended Compat",
+      "addon_project_id": 1066390,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6503/500/blended-compat-1.1.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "blended-compat-1.1.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/blended-compat",
+      "fileNameOnDisk": "blended-compat-1.1.1.jar"
+    },
+    {
+      "addon_file_id": 5650506,
+      "addon_name": "Noisium",
+      "addon_project_id": 930207,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5650/506/noisium-forge-2.3.0%2bmc1.20-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/noisium",
+      "fileNameOnDisk": "noisium-forge-2.3.0+mc1.20-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5751852,
+      "addon_name": "Variants&Ventures",
+      "addon_project_id": 981139,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5751/852/variantsandventures-forge-mc1.20.1-1.0.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "variantsandventures-forge-mc1.20.1-1.0.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/variants-and-ventures",
+      "fileNameOnDisk": "variantsandventures-forge-mc1.20.1-1.0.6.jar"
+    },
+    {
+      "addon_file_id": 6658856,
+      "addon_name": "Two Players One Horse",
+      "addon_project_id": 432444,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6658/856/twoplayersonehorse-forge-1.20.1-1.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "twoplayersonehorse-forge-1.20.1-1.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/two-players-one-horse",
+      "fileNameOnDisk": "twoplayersonehorse-forge-1.20.1-1.0.3.jar"
+    },
+    {
+      "addon_file_id": 6418957,
+      "addon_name": "Tetra",
+      "addon_project_id": 289712,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6418/957/tetra-1.20.1-6.9.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "tetra-1.20.1-6.9.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/tetra",
+      "fileNameOnDisk": "tetra-1.20.1-6.9.0.jar"
+    },
+    {
+      "addon_file_id": 5939627,
+      "addon_name": "Inventory Tweaks - ReFoxed",
+      "addon_project_id": 976858,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5939/627/invtweaks-1.20.1-1.2.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "invtweaks-1.20.1-1.2.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed",
+      "fileNameOnDisk": "invtweaks-1.20.1-1.2.0.jar"
+    },
+    {
+      "addon_file_id": 6510711,
+      "addon_name": "Art of Forging: A Tetra Addon",
+      "addon_project_id": 596955,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6510/711/art_of_forging-1.8.4-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "art_of_forging-1.8.4-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon",
+      "fileNameOnDisk": "art_of_forging-1.8.4-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5937939,
+      "addon_name": "Dimensional Threading Reforked",
+      "addon_project_id": 955545,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5937/939/dimthread-FORGE-mc1.20.1-v1.2.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "dimthread-FORGE-mc1.20.1-v1.2.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/dimthreads",
+      "fileNameOnDisk": "dimthread-FORGE-mc1.20.1-v1.2.1.jar"
+    },
+    {
+      "addon_file_id": 5074609,
+      "addon_name": "FindMe",
+      "addon_project_id": 291936,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5074/609/findme-3.2.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "findme-3.2.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/findme",
+      "fileNameOnDisk": "findme-3.2.1-forge.jar"
+    },
+    {
+      "addon_file_id": 6474407,
+      "addon_name": "Born in Chaos",
+      "addon_project_id": 686437,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6474/407/born_in_chaos_%5bForge%5d1.20.1_1.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "born_in_chaos_[Forge]1.20.1_1.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/born-in-chaos",
+      "fileNameOnDisk": "born_in_chaos_[Forge]1.20.1_1.7.jar"
+    },
+    {
+      "addon_file_id": 6445117,
+      "addon_name": "Nature's Spirit",
+      "addon_project_id": 1044992,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6445/117/natures_spirit-2.2.4-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "natures_spirit-2.2.4-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/natures-spirit",
+      "fileNameOnDisk": "natures_spirit-2.2.4-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5940443,
+      "addon_name": "Sound​s",
+      "addon_project_id": 925889,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5940/443/Sounds-2.2.1%2b1.20.1%2bforge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "Sounds-2.2.1+1.20.1+forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sound",
+      "fileNameOnDisk": "Sounds-2.2.1+1.20.1+forge.jar"
+    },
+    {
+      "addon_file_id": 6615986,
+      "addon_name": "Chloride (Embeddium++/Sodium++)",
+      "addon_project_id": 931925,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6615/986/chloride-FORGE-mc1.20.1-v1.7.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "chloride-FORGE-mc1.20.1-v1.7.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/chloride",
+      "fileNameOnDisk": "chloride-FORGE-mc1.20.1-v1.7.2.jar"
+    },
+    {
+      "addon_file_id": 5869180,
+      "addon_name": "Cristel Lib",
+      "addon_project_id": 856996,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5869/180/cristellib-1.1.6-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "cristellib-1.1.6-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cristel-lib",
+      "fileNameOnDisk": "cristellib-1.1.6-forge.jar"
+    },
+    {
+      "addon_file_id": 6655718,
+      "addon_name": "Exposure",
+      "addon_project_id": 871755,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6655/718/exposure-1.20.1-1.7.16-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "exposure-1.20.1-1.7.16-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/exposure",
+      "fileNameOnDisk": "exposure-1.20.1-1.7.16-forge.jar"
+    },
+    {
+      "addon_file_id": 6605523,
+      "addon_name": "Horseman",
+      "addon_project_id": 1082085,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6605/523/horseman-1.20.1-1.3.9-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "horseman-1.20.1-1.3.9-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/horseman",
+      "fileNameOnDisk": "horseman-1.20.1-1.3.9-forge.jar"
+    },
+    {
+      "addon_file_id": 5572179,
+      "addon_name": "No Feather Trample",
+      "addon_project_id": 950746,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5572/179/nofeathertrample-1.20.1-1.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "nofeathertrample-1.20.1-1.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/no-feather-trample",
+      "fileNameOnDisk": "nofeathertrample-1.20.1-1.3.jar"
+    },
+    {
+      "addon_file_id": 6173003,
+      "addon_name": "Dimensional Ascension - Blue Skies Tetra Compatibility",
+      "addon_project_id": 957340,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6173/3/dimasctetracompat-1.20.1-1.5.0.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "dimasctetracompat-1.20.1-1.5.0.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/dimensional-ascension-blue-skies-tetra",
+      "fileNameOnDisk": "dimasctetracompat-1.20.1-1.5.0.0.jar"
+    },
+    {
+      "addon_file_id": 5004493,
+      "addon_name": "William Wythers' Expanded Ecosphere",
+      "addon_project_id": 490686,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5004/493/expanded_ecosphere-3.2.4-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "expanded_ecosphere-3.2.4-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/expanded-ecosphere",
+      "fileNameOnDisk": "expanded_ecosphere-3.2.4-forge.jar"
+    },
+    {
+      "addon_file_id": 5345889,
+      "addon_name": "Dynamic View[Forge]",
+      "addon_project_id": 366140,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5345/889/dynview-1.20.1-4.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "dynview-1.20.1-4.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/dynamic-view",
+      "fileNameOnDisk": "dynview-1.20.1-4.0.jar"
+    },
+    {
+      "addon_file_id": 6286722,
+      "addon_name": "Tetranomicon",
+      "addon_project_id": 445385,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6286/722/tetranomicon-1.6.1-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\SteamPunk [LPS] Extra Mods\\mods",
+      "version": "tetranomicon-1.6.1-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/tetranomicon",
+      "fileNameOnDisk": "tetranomicon-1.6.1-1.20.1.jar"
+    }
+  ],
+  "resourcepacks": [],
+  "shaderpacks": [],
+  "datapacks": [],
+  "config_files": []
+}
