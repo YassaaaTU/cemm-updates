@@ -1,0 +1,874 @@
+{
+  "updateType": "full",
+  "mods": [
+    {
+      "addon_file_id": 6808239,
+      "addon_name": "Cobblemon Spawn Notifications",
+      "addon_project_id": 890745,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6808/239/cobblemon-spawn-notification-1.6-neoforge-1.3.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "cobblemon-spawn-notification-1.6-neoforge-1.3.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-spawn-notification",
+      "fileNameOnDisk": "cobblemon-spawn-notification-1.6-neoforge-1.3.8.jar"
+    },
+    {
+      "addon_file_id": 6063191,
+      "addon_name": "Dynamic Surroundings",
+      "addon_project_id": 238891,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6063/191/dynamicsurroundings-neoforge-1.21.1-0.4.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "dynamicsurroundings-neoforge-1.21.1-0.4.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings",
+      "fileNameOnDisk": "dynamicsurroundings-neoforge-1.21.1-0.4.2.jar"
+    },
+    {
+      "addon_file_id": 6460602,
+      "addon_name": "Tomtaru's Cobblemon & Farmer's Delight Tweaks",
+      "addon_project_id": 930346,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6460/602/Tomtaru%27s%20Cobblemon%20%20Farmer%27s%20Delight%20Tweaks%20-%201.21.1%20-%20R.1.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/tomtarus-cobblemon-farmers-delight-tweaks",
+      "fileNameOnDisk": "Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.3.jar"
+    },
+    {
+      "addon_file_id": 6951007,
+      "addon_name": "Cobblemon: Mega Showdown",
+      "addon_project_id": 1189523,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6951/7/Cobblemon_MegaShowdown-10.0.8-release-neoforge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "Cobblemon_MegaShowdown-10.0.8-release-neoforge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown",
+      "fileNameOnDisk": "Cobblemon_MegaShowdown-10.0.8-release-neoforge.jar"
+    },
+    {
+      "addon_file_id": 5731747,
+      "addon_name": "Stoneworks",
+      "addon_project_id": 852663,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5731/747/Stoneworks-v21.1.0-1.21.1-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "Stoneworks-v21.1.0-1.21.1-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/stoneworks",
+      "fileNameOnDisk": "Stoneworks-v21.1.0-1.21.1-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 6250427,
+      "addon_name": "Forge CIT",
+      "addon_project_id": 912099,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6250/427/citresewn-neoforge-1.21.1-0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "citresewn-neoforge-1.21.1-0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/forge-cit",
+      "fileNameOnDisk": "citresewn-neoforge-1.21.1-0.jar"
+    },
+    {
+      "addon_file_id": 6139845,
+      "addon_name": "Cobblemon Poképedia: Cobblepedia",
+      "addon_project_id": 850946,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6139/845/Cobblepedia-NeoForge-0.7.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "Cobblepedia-NeoForge-0.7.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblepedia",
+      "fileNameOnDisk": "Cobblepedia-NeoForge-0.7.0.jar"
+    },
+    {
+      "addon_file_id": 6897792,
+      "addon_name": "Achievements Optimizer",
+      "addon_project_id": 912788,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6897/792/AchievementOptimizer-neoforge-1.21.1-2.1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "AchievementOptimizer-neoforge-1.21.1-2.1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/achievements-optimizer",
+      "fileNameOnDisk": "AchievementOptimizer-neoforge-1.21.1-2.1.0.jar"
+    },
+    {
+      "addon_file_id": 6930020,
+      "addon_name": "Cobblemon: PlayerXP",
+      "addon_project_id": 1261726,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6930/20/playerxp-neoforge-1.0.2%2b1.21.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "playerxp-neoforge-1.0.2+1.21.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-playerxp",
+      "fileNameOnDisk": "playerxp-neoforge-1.0.2+1.21.1.jar"
+    },
+    {
+      "addon_file_id": 6739719,
+      "addon_name": "Cobblemon: Ride On!",
+      "addon_project_id": 1169803,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6739/719/cobbleride-neoforge-0.3.3%2b1.21.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "cobbleride-neoforge-0.3.3+1.21.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-ride-on",
+      "fileNameOnDisk": "cobbleride-neoforge-0.3.3+1.21.1.jar"
+    },
+    {
+      "addon_file_id": 7075190,
+      "addon_name": "Particular ✨ Reforged",
+      "addon_project_id": 1219053,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7075/190/particular-1.21.1-NeoForge-1.1.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "particular-1.21.1-NeoForge-1.1.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/particular-reforged",
+      "fileNameOnDisk": "particular-1.21.1-NeoForge-1.1.7.jar"
+    },
+    {
+      "addon_file_id": 6000439,
+      "addon_name": "iChunUtil",
+      "addon_project_id": 229060,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6000/439/iChunUtil-1.21-NeoForge-1.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "iChunUtil-1.21-NeoForge-1.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ichunutil",
+      "fileNameOnDisk": "iChunUtil-1.21-NeoForge-1.0.3.jar"
+    },
+    {
+      "addon_file_id": 6772065,
+      "addon_name": "MidnightLib",
+      "addon_project_id": 488090,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6772/65/midnightlib-1.7.5-neoforge%2b1.21.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "midnightlib-1.7.5-neoforge+1.21.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/midnightlib",
+      "fileNameOnDisk": "midnightlib-1.7.5-neoforge+1.21.1.jar"
+    },
+    {
+      "addon_file_id": 6418577,
+      "addon_name": "What Are They Up To (Watut)",
+      "addon_project_id": 945479,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6418/577/watut-neoforge-1.21.0-1.2.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "watut-neoforge-1.21.0-1.2.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to",
+      "fileNameOnDisk": "watut-neoforge-1.21.0-1.2.7.jar"
+    },
+    {
+      "addon_file_id": 6520579,
+      "addon_name": "Explosive Enhancement: Reforged",
+      "addon_project_id": 1036246,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6520/579/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/explosive-enhancement-reforged",
+      "fileNameOnDisk": "explosiveenhancement-neoforge-1.21.1-1.1.2.jar"
+    },
+    {
+      "addon_file_id": 6533725,
+      "addon_name": "TxniLib",
+      "addon_project_id": 1104882,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6533/725/txnilib-neoforge-1.0.24-1.21.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/txnilib",
+      "fileNameOnDisk": "txnilib-neoforge-1.0.24-1.21.1.jar"
+    },
+    {
+      "addon_file_id": 6821939,
+      "addon_name": "Dimension Viewer",
+      "addon_project_id": 857799,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6821/939/dimensionviewer-neoforge-1.21-2.1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "dimensionviewer-neoforge-1.21-2.1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/dimension-viewer",
+      "fileNameOnDisk": "dimensionviewer-neoforge-1.21-2.1.0.jar"
+    },
+    {
+      "addon_file_id": 7141948,
+      "addon_name": "Cobblemon Tim Core",
+      "addon_project_id": 1295910,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7141/948/timcore-neoforge-1.6.1-1.15.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "timcore-neoforge-1.6.1-1.15.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-tim-core",
+      "fileNameOnDisk": "timcore-neoforge-1.6.1-1.15.3.jar"
+    },
+    {
+      "addon_file_id": 7039679,
+      "addon_name": "Sound​s",
+      "addon_project_id": 925889,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7039/679/sounds-2.4.15%2blts%2b1.21.1%2bneoforge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "sounds-2.4.15+lts+1.21.1+neoforge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sound",
+      "fileNameOnDisk": "sounds-2.4.15+lts+1.21.1+neoforge.jar"
+    },
+    {
+      "addon_file_id": 6519234,
+      "addon_name": "Wakes Reforged",
+      "addon_project_id": 1223529,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6519/234/wakes-1.21.1-NeoForge-1.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "wakes-1.21.1-NeoForge-1.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/wakes-reforged",
+      "fileNameOnDisk": "wakes-1.21.1-NeoForge-1.0.2.jar"
+    },
+    {
+      "addon_file_id": 6726954,
+      "addon_name": "Cobblemon Integrations",
+      "addon_project_id": 913400,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6726/954/cobblemonintegrations-neoforge-1.21.1-1.1.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "cobblemonintegrations-neoforge-1.21.1-1.1.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-integrations",
+      "fileNameOnDisk": "cobblemonintegrations-neoforge-1.21.1-1.1.3.jar"
+    },
+    {
+      "addon_file_id": 6125026,
+      "addon_name": "Cobblemon",
+      "addon_project_id": 687131,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6125/26/Cobblemon-neoforge-1.6.1%2b1.21.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "Cobblemon-neoforge-1.6.1+1.21.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon",
+      "fileNameOnDisk": "Cobblemon-neoforge-1.6.1+1.21.1.jar"
+    },
+    {
+      "addon_file_id": 7138949,
+      "addon_name": "Collective",
+      "addon_project_id": 342584,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7138/949/collective-1.21.1-8.12.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "collective-1.21.1-8.12.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/collective",
+      "fileNameOnDisk": "collective-1.21.1-8.12.jar"
+    },
+    {
+      "addon_file_id": 6402412,
+      "addon_name": "SimpleTMs: TMs and TRs for Cobblemon",
+      "addon_project_id": 959184,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6402/412/SimpleTMs-neoforge-2.1.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "SimpleTMs-neoforge-2.1.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/simpletms-tms-and-trs-for-cobblemon",
+      "fileNameOnDisk": "SimpleTMs-neoforge-2.1.2.jar"
+    },
+    {
+      "addon_file_id": 7103972,
+      "addon_name": "Cobblemon Counter",
+      "addon_project_id": 900238,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7103/972/counter-neoforge-1.6.1-1.6.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "counter-neoforge-1.6.1-1.6.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-counter",
+      "fileNameOnDisk": "counter-neoforge-1.6.1-1.6.1.jar"
+    },
+    {
+      "addon_file_id": 6803126,
+      "addon_name": "M.R.U",
+      "addon_project_id": 669659,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6803/126/mru-1.0.19%2bLTS%2b1.21.1%2bneoforge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "mru-1.0.19+LTS+1.21.1+neoforge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mru",
+      "fileNameOnDisk": "mru-1.0.19+LTS+1.21.1+neoforge.jar"
+    },
+    {
+      "addon_file_id": 5622966,
+      "addon_name": "CoroUtil",
+      "addon_project_id": 237749,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5622/966/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/coroutil",
+      "fileNameOnDisk": "coroutil-neoforge-1.21.0-1.3.8.jar"
+    },
+    {
+      "addon_file_id": 7140307,
+      "addon_name": "Puzzles Lib",
+      "addon_project_id": 495476,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7140/307/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+      "fileNameOnDisk": "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 5478487,
+      "addon_name": "Death Counter (Forge)",
+      "addon_project_id": 229068,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5478/487/DeathCounter-1.21-NeoForge-1.4.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "DeathCounter-1.21-NeoForge-1.4.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/death-counter",
+      "fileNameOnDisk": "DeathCounter-1.21-NeoForge-1.4.0.jar"
+    },
+    {
+      "addon_file_id": 5733968,
+      "addon_name": "Resource Pack Overrides",
+      "addon_project_id": 832644,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5733/968/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides",
+      "fileNameOnDisk": "ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 6409785,
+      "addon_name": "Pick Up Notifier",
+      "addon_project_id": 351441,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6409/785/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier",
+      "fileNameOnDisk": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 6792541,
+      "addon_name": "Enchanter Fix",
+      "addon_project_id": 1076285,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6792/541/enchanter_fix-1.6%2bmc1.20-1.21.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "enchanter_fix-1.6+mc1.20-1.21.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/enchanter-fix",
+      "fileNameOnDisk": "enchanter_fix-1.6+mc1.20-1.21.8.jar"
+    },
+    {
+      "addon_file_id": 6250442,
+      "addon_name": "Enchantment Level Cap Indicator",
+      "addon_project_id": 1204463,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6250/442/enchantmentlevelcapindicator-1.21.1-1.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "enchantmentlevelcapindicator-1.21.1-1.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/enchantment-level-cap-indicator",
+      "fileNameOnDisk": "enchantmentlevelcapindicator-1.21.1-1.1.jar"
+    },
+    {
+      "addon_file_id": 7073931,
+      "addon_name": "Cobblemon Botany Pots",
+      "addon_project_id": 1359891,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7073/931/cobblemon_pots-neoforge-1.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "cobblemon_pots-neoforge-1.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-botany-pots",
+      "fileNameOnDisk": "cobblemon_pots-neoforge-1.0.1.jar"
+    },
+    {
+      "addon_file_id": 5565656,
+      "addon_name": "Server Started!",
+      "addon_project_id": 1071169,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5565/656/Serverstarted-neoforge-1.21-1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "Serverstarted-neoforge-1.21-1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/server-started",
+      "fileNameOnDisk": "Serverstarted-neoforge-1.21-1.0.jar"
+    },
+    {
+      "addon_file_id": 6041812,
+      "addon_name": "Cobblemon Move Inspector",
+      "addon_project_id": 1022036,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6041/812/CobblemonMoveInspector-neoforge-1.2.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "CobblemonMoveInspector-neoforge-1.2.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-move-inspector",
+      "fileNameOnDisk": "CobblemonMoveInspector-neoforge-1.2.0.jar"
+    },
+    {
+      "addon_file_id": 7112835,
+      "addon_name": "Horseman",
+      "addon_project_id": 1082085,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7112/835/horseman-neoforge-1.21.1-1.5.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "horseman-neoforge-1.21.1-1.5.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/horseman",
+      "fileNameOnDisk": "horseman-neoforge-1.21.1-1.5.6.jar"
+    },
+    {
+      "addon_file_id": 6903607,
+      "addon_name": "Pro Placer",
+      "addon_project_id": 368320,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6903/607/ProPlacer-v21.1.1-1.21.1-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "ProPlacer-v21.1.1-1.21.1-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/pro-placer",
+      "fileNameOnDisk": "ProPlacer-v21.1.1-1.21.1-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 6650033,
+      "addon_name": "Create: Copycats+",
+      "addon_project_id": 968398,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6650/33/copycats-3.0.2%2bmc.1.21.1-neoforge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "copycats-3.0.2+mc.1.21.1-neoforge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/copycats",
+      "fileNameOnDisk": "copycats-3.0.2+mc.1.21.1-neoforge.jar"
+    },
+    {
+      "addon_file_id": 7142035,
+      "addon_name": "Cobblemon Unchained",
+      "addon_project_id": 901476,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7142/35/unchained-neoforge-1.6.1-1.5.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "unchained-neoforge-1.6.1-1.5.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-unchained",
+      "fileNameOnDisk": "unchained-neoforge-1.6.1-1.5.2.jar"
+    },
+    {
+      "addon_file_id": 6922725,
+      "addon_name": "[EMF] Entity Model Features [Fabric & Forge]",
+      "addon_project_id": 844662,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6922/725/entity_model_features_1.21-neoforge-3.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "entity_model_features_1.21-neoforge-3.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/entity-model-features",
+      "fileNameOnDisk": "entity_model_features_1.21-neoforge-3.0.1.jar"
+    },
+    {
+      "addon_file_id": 7110504,
+      "addon_name": "Mod Tabs",
+      "addon_project_id": 1313300,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7110/504/modtabs-1.21.1-2.3.1-Neoforge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "modtabs-1.21.1-2.3.1-Neoforge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mod-tabs",
+      "fileNameOnDisk": "modtabs-1.21.1-2.3.1-Neoforge.jar"
+    },
+    {
+      "addon_file_id": 5591015,
+      "addon_name": "Item Highlighter [Neo/Forge]",
+      "addon_project_id": 521590,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5591/15/Highlighter-1.21-neoforge-1.1.11.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "Highlighter-1.21-neoforge-1.1.11.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/item-highlighter",
+      "fileNameOnDisk": "Highlighter-1.21-neoforge-1.1.11.jar"
+    },
+    {
+      "addon_file_id": 7089353,
+      "addon_name": "Cobblemon Fight or Flight Reborn",
+      "addon_project_id": 1168140,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7089/353/fightorflight-neoforge-0.8.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "fightorflight-neoforge-0.8.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-fight-or-flight-reborn",
+      "fileNameOnDisk": "fightorflight-neoforge-0.8.4.jar"
+    },
+    {
+      "addon_file_id": 6358969,
+      "addon_name": "CobGyms - Unofficial Cobblemon Gyms",
+      "addon_project_id": 1106950,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6358/969/cobgyms-neoforge-3.0.1%2b1.21.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "cobgyms-neoforge-3.0.1+1.21.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobgyms",
+      "fileNameOnDisk": "cobgyms-neoforge-3.0.1+1.21.1.jar"
+    },
+    {
+      "addon_file_id": 6607017,
+      "addon_name": "Cobblemore Lib",
+      "addon_project_id": 1275153,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6607/17/cobblemore_lib-1.1.1-neoforge-1.21.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "cobblemore_lib-1.1.1-neoforge-1.21.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemore-lib",
+      "fileNameOnDisk": "cobblemore_lib-1.1.1-neoforge-1.21.1.jar"
+    },
+    {
+      "addon_file_id": 7128933,
+      "addon_name": "Cobblemon Raid Dens",
+      "addon_project_id": 1349231,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7128/933/cobblemonraiddens-neoforge-0.4.4%2b1.21.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "cobblemonraiddens-neoforge-0.4.4+1.21.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemonraiddens",
+      "fileNameOnDisk": "cobblemonraiddens-neoforge-0.4.4+1.21.1.jar"
+    },
+    {
+      "addon_file_id": 7051075,
+      "addon_name": "Cobblemon: Create Industries (3D Production Models)",
+      "addon_project_id": 1263211,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7051/75/cobblemon_industries-neoforge-1.2.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "cobblemon_industries-neoforge-1.2.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-cobblemon-industries",
+      "fileNameOnDisk": "cobblemon_industries-neoforge-1.2.5.jar"
+    },
+    {
+      "addon_file_id": 6407603,
+      "addon_name": "Create Cobblemon Potion",
+      "addon_project_id": 1238271,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6407/603/create_cobblemon_potion-1.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "create_cobblemon_potion-1.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-cobblemon-potion",
+      "fileNameOnDisk": "create_cobblemon_potion-1.0.1.jar"
+    },
+    {
+      "addon_file_id": 6733254,
+      "addon_name": "JeremySeq's Damage Indicators",
+      "addon_project_id": 881096,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6733/254/jeremyseqsdamageindicators-2.2.1-1.21.1-neo.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "jeremyseqsdamageindicators-2.2.1-1.21.1-neo.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/jeremyseq-damage-indicator",
+      "fileNameOnDisk": "jeremyseqsdamageindicators-2.2.1-1.21.1-neo.jar"
+    },
+    {
+      "addon_file_id": 6740123,
+      "addon_name": "Skeleton AI Fix",
+      "addon_project_id": 319351,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6740/123/SkeletonAIFix-v21.1.1-1.21.1-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "SkeletonAIFix-v21.1.1-1.21.1-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/skeleton-ai-fix",
+      "fileNameOnDisk": "SkeletonAIFix-v21.1.1-1.21.1-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 6861754,
+      "addon_name": "Cobblemon Capture XP",
+      "addon_project_id": 901059,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6861/754/capturexp-neoforge-1.6.1-1.2.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "capturexp-neoforge-1.6.1-1.2.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-capture-xp",
+      "fileNameOnDisk": "capturexp-neoforge-1.6.1-1.2.1.jar"
+    },
+    {
+      "addon_file_id": 6897657,
+      "addon_name": "FTB Quests Optimizer",
+      "addon_project_id": 912469,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6897/657/FTBQuestsOptimizer-neoforge-3.1.0-1.21.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "FTBQuestsOptimizer-neoforge-3.1.0-1.21.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer",
+      "fileNameOnDisk": "FTBQuestsOptimizer-neoforge-3.1.0-1.21.1.jar"
+    },
+    {
+      "addon_file_id": 6620900,
+      "addon_name": "Two Players One Horse",
+      "addon_project_id": 432444,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6620/900/twoplayersonehorse-neoforge-1.21.1-1.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "twoplayersonehorse-neoforge-1.21.1-1.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/two-players-one-horse",
+      "fileNameOnDisk": "twoplayersonehorse-neoforge-1.21.1-1.0.2.jar"
+    },
+    {
+      "addon_file_id": 7045750,
+      "addon_name": "Coastal Waves",
+      "addon_project_id": 1155936,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7045/750/Waves-1.21.x-1.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "Waves-1.21.x-1.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/coastal-waves",
+      "fileNameOnDisk": "Waves-1.21.x-1.6.jar"
+    },
+    {
+      "addon_file_id": 7054233,
+      "addon_name": "Companions!",
+      "addon_project_id": 1300341,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7054/233/companions-neoforge-1.21.1-1.1.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "companions-neoforge-1.21.1-1.1.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/companions-mod",
+      "fileNameOnDisk": "companions-neoforge-1.21.1-1.1.2.jar"
+    },
+    {
+      "addon_file_id": 6954229,
+      "addon_name": "Cobblemon: Parting Gifts",
+      "addon_project_id": 1169308,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6954/229/releaserewards-neoforge-3.0.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "releaserewards-neoforge-3.0.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-release-rewards",
+      "fileNameOnDisk": "releaserewards-neoforge-3.0.0.jar"
+    },
+    {
+      "addon_file_id": 6954772,
+      "addon_name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+      "addon_project_id": 568563,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6954/772/entity_texture_features_1.21-neoforge-7.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "entity_texture_features_1.21-neoforge-7.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+      "fileNameOnDisk": "entity_texture_features_1.21-neoforge-7.0.2.jar"
+    },
+    {
+      "addon_file_id": 7129174,
+      "addon_name": "Armor Quick Swap",
+      "addon_project_id": 1367068,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7129/174/ArmorQuickSwap-v21.1.1-1.21.1-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "ArmorQuickSwap-v21.1.1-1.21.1-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/armor-quick-swap",
+      "fileNameOnDisk": "ArmorQuickSwap-v21.1.1-1.21.1-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 7124360,
+      "addon_name": "Smooth Swapping",
+      "addon_project_id": 513689,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7124/360/smoothswapping-0.9.3-1.21.1-neoforge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "smoothswapping-0.9.3-1.21.1-neoforge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/smooth-swapping",
+      "fileNameOnDisk": "smoothswapping-0.9.3-1.21.1-neoforge.jar"
+    },
+    {
+      "addon_file_id": 6372309,
+      "addon_name": "Better Tooltips",
+      "addon_project_id": 1099922,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6372/309/better_tooltips-1.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "better_tooltips-1.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/better-tooltips-neoforge",
+      "fileNameOnDisk": "better_tooltips-1.0.3.jar"
+    },
+    {
+      "addon_file_id": 5918197,
+      "addon_name": "Diagonal Fences",
+      "addon_project_id": 458048,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5918/197/DiagonalFences-v21.1.1-1.21.1-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "DiagonalFences-v21.1.1-1.21.1-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/diagonal-fences",
+      "fileNameOnDisk": "DiagonalFences-v21.1.1-1.21.1-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 5918894,
+      "addon_name": "Diagonal Walls",
+      "addon_project_id": 969422,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5918/894/DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/diagonal-walls",
+      "fileNameOnDisk": "DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 6608571,
+      "addon_name": "Hold My Items - Reforged",
+      "addon_project_id": 1246920,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6608/571/holdmyitemsnf-1.21.1v2.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "holdmyitemsnf-1.21.1v2.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/hold-my-items-reforged",
+      "fileNameOnDisk": "holdmyitemsnf-1.21.1v2.1.jar"
+    },
+    {
+      "addon_file_id": 6942154,
+      "addon_name": "Knight Lib",
+      "addon_project_id": 1105855,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6942/154/knightlib-neoforge-1.21.1-1.3.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "knightlib-neoforge-1.21.1-1.3.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/knight-lib",
+      "fileNameOnDisk": "knightlib-neoforge-1.21.1-1.3.0.jar"
+    },
+    {
+      "addon_file_id": 5918192,
+      "addon_name": "Diagonal Windows",
+      "addon_project_id": 891328,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5918/192/DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/diagonal-windows",
+      "fileNameOnDisk": "DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 6530094,
+      "addon_name": "[Cobblemon] BadgeBox",
+      "addon_project_id": 1034908,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6530/94/badgebox-neoforge-1.3.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "badgebox-neoforge-1.3.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-badgebox",
+      "fileNameOnDisk": "badgebox-neoforge-1.3.0.jar"
+    },
+    {
+      "addon_file_id": 7016590,
+      "addon_name": "Farsight [Forge/Neo]",
+      "addon_project_id": 495693,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7016/590/farsight-1.21.1-4.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\mods",
+      "version": "farsight-1.21.1-4.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/farsight",
+      "fileNameOnDisk": "farsight-1.21.1-4.5.jar"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "addon_file_id": 6834287,
+      "addon_name": "project-1317721",
+      "addon_project_id": 1317721,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6834/287/AllTheMons%20Release%202.4.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "AllTheMons Release 2.4.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/project-1317721",
+      "fileNameOnDisk": "AllTheMons Release 2.4.zip"
+    },
+    {
+      "addon_file_id": 6153054,
+      "addon_name": "Alittl Axolotl & Friends- Animated 3D bucket friends! [Java Version]",
+      "addon_project_id": 495032,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6153/54/Alittle_Axolotl.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "Alittle_Axolotl.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/alittl-axolotl",
+      "fileNameOnDisk": "Alittle_Axolotl.zip"
+    },
+    {
+      "addon_file_id": 6597394,
+      "addon_name": "Boss Refreshed",
+      "addon_project_id": 882133,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6597/394/boss-refreshed-v2-1.19-1.21.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "boss-refreshed-v2-1.19-1.21.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/boss-refreshed",
+      "fileNameOnDisk": "boss-refreshed-v2-1.19-1.21.zip"
+    },
+    {
+      "addon_file_id": 7050570,
+      "addon_name": "Blinking Ender Eyes",
+      "addon_project_id": 322713,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7050/570/EnderEyes_1.21.9_v3.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "EnderEyes_1.21.9_v3.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/blinking-ender-eyes",
+      "fileNameOnDisk": "EnderEyes_1.21.9_v3.1.zip"
+    },
+    {
+      "addon_file_id": 6482224,
+      "addon_name": "xali's Potions",
+      "addon_project_id": 510849,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6482/224/xali%27s%20Potions%20v1.1.0.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "xali's Potions v1.1.0.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/xalis-potions",
+      "fileNameOnDisk": "xali's Potions v1.1.0.zip"
+    },
+    {
+      "addon_file_id": 6105672,
+      "addon_name": "Fresh Moves",
+      "addon_project_id": 990406,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6105/672/-1.21.2%20Fresh%20Moves%20v3.1%20(With%20Animated%20Eyes).zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fresh-moves",
+      "fileNameOnDisk": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+    },
+    {
+      "addon_file_id": 6820388,
+      "addon_name": "Slim Fire",
+      "addon_project_id": 1063731,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6820/388/%c2%a7eSlim%c2%a70%20%c2%a7eFire%c2%a70.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "§eSlim§0 §eFire§0.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/slim-fire",
+      "fileNameOnDisk": "§eSlim§0 §eFire§0.zip"
+    },
+    {
+      "addon_file_id": 6526716,
+      "addon_name": "Enchantment Descriptions Compat",
+      "addon_project_id": 1250226,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6526/716/Enchantment%20Descriptions%201.2.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "Enchantment Descriptions 1.2.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/enchantment-descriptions-compat",
+      "fileNameOnDisk": "Enchantment Descriptions 1.2.zip"
+    },
+    {
+      "addon_file_id": 6943060,
+      "addon_name": "Fresh Animations",
+      "addon_project_id": 453763,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6943/60/FreshAnimations_v1.10.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "FreshAnimations_v1.10.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fresh-animations",
+      "fileNameOnDisk": "FreshAnimations_v1.10.1.zip"
+    },
+    {
+      "addon_file_id": 5390396,
+      "addon_name": "Mace 3D",
+      "addon_project_id": 1016845,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5390/396/3dMase.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "3dMase.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/mace-3d-by-nestter",
+      "fileNameOnDisk": "3dMase.zip"
+    },
+    {
+      "addon_file_id": 6416405,
+      "addon_name": "Cobblemon Sprites - Integration Journey map",
+      "addon_project_id": 1218088,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6416/405/Cobblemon_Icons_JourneyMap_v1.3.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "Cobblemon_Icons_JourneyMap_v1.3.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/cobblemon-sprites-integration-journey-map",
+      "fileNameOnDisk": "Cobblemon_Icons_JourneyMap_v1.3.zip"
+    },
+    {
+      "addon_file_id": 7002991,
+      "addon_name": "Fresh Animations: Extensions",
+      "addon_project_id": 813608,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7002/991/FA%2bAll_Extensions-v1.6.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "FA+All_Extensions-v1.6.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fresh-animations-extensions",
+      "fileNameOnDisk": "FA+All_Extensions-v1.6.zip"
+    },
+    {
+      "addon_file_id": 7130479,
+      "addon_name": "X's Fresh JourneyMap Icons",
+      "addon_project_id": 1369117,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7130/479/X%27s%20Fresh%20JourneyMap%20Icons-1.21.8-1.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "X's Fresh JourneyMap Icons-1.21.8-1.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/xs-fresh-journeymap-icons",
+      "fileNameOnDisk": "X's Fresh JourneyMap Icons-1.21.8-1.1.zip"
+    },
+    {
+      "addon_file_id": 7146641,
+      "addon_name": "F.M.R.P",
+      "addon_project_id": 961754,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7146/641/Freshly%20Modded%202.0.3.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "Freshly Modded 2.0.3.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/freshly-modded",
+      "fileNameOnDisk": "Freshly Modded 2.0.3.zip"
+    },
+    {
+      "addon_file_id": 6408666,
+      "addon_name": "Chaotix Apotheotic Tweaks",
+      "addon_project_id": 970522,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6408/666/Chaotix%20Apotheotic%20Tweaks%20v2.0%201.21.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "Chaotix Apotheotic Tweaks v2.0 1.21.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/chaotix-apotheotic-tweaks",
+      "fileNameOnDisk": "Chaotix Apotheotic Tweaks v2.0 1.21.1.zip"
+    },
+    {
+      "addon_file_id": 6021369,
+      "addon_name": "Minecolonies Refreshed",
+      "addon_project_id": 567347,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6021/369/Minecolonies%20Refreshed%204.0.0-1.21.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\resourcepacks",
+      "version": "Minecolonies Refreshed 4.0.0-1.21.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/minecolonies-refreshed",
+      "fileNameOnDisk": "Minecolonies Refreshed 4.0.0-1.21.1.zip"
+    }
+  ],
+  "shaderpacks": [],
+  "datapacks": [
+    {
+      "addon_file_id": 6715275,
+      "addon_name": "Cobblemon Additions",
+      "addon_project_id": 1189807,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6715/275/BCA-Datapack-3.8.1_general_M1.21.1_C1.6.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\ATM10 Custom mods\\datapacks",
+      "version": "BCA-Datapack-3.8.1_general_M1.21.1_C1.6.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/data-packs/cobblemon-additions",
+      "fileNameOnDisk": "BCA-Datapack-3.8.1_general_M1.21.1_C1.6.1.zip"
+    }
+  ],
+  "config_files": [
+    {
+      "filename": "main.json",
+      "relative_path": "config/cobblemon/main.json"
+    },
+    {
+      "filename": "holdmyitemsnf-client.toml",
+      "relative_path": "config/holdmyitemsnf-client.toml"
+    },
+    {
+      "filename": "resourcepackoverrides.json",
+      "relative_path": "config/resourcepackoverrides.json"
+    }
+  ]
+}

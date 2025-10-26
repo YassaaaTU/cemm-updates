@@ -1,0 +1,147 @@
+{
+  "schema_version": "2",
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "mod_resources",
+    "modularbees:dynamic_assets",
+    "add_xycraft_overrides_stone",
+    "add_xycraft_overrides_metal",
+    "add_xycraft_overrides_glass",
+    "moonlight:merged_pack",
+    "mod/towntalk:respack",
+    "mod/dyenamicsandfriends:compat_packs/productivemetalworks/",
+    "mod/dyenamicsandfriends:compat_packs/connectedglass/",
+    "mod/dyenamicsandfriends:compat_packs/crystalix/",
+    "mod/dyenamicsandfriends:compat_packs/luminax/",
+    "mod/dyenamicsandfriends:compat_packs/cookingforblockheads/",
+    "mod/dyenamicsandfriends:compat_packs/botanypots/",
+    "mod/dyenamicsandfriends:compat_packs/chromacarvings/",
+    "mod/cobblemon:resourcepacks/gyaradosjump",
+    "mod/cobblemon:resourcepacks/uniqueshinyforms",
+    "mod/cobblemon:resourcepacks/regionbiasforms",
+    "gyaradosjumpingmega",
+    "regionbiasmsd",
+    "mod/pneumaticcraft:fusion_integration",
+    "modern_industrialization/generated",
+    "builtin/aether_tooltips",
+    "builtin/add_pack_finders_test",
+    "file/Enchantment Descriptions 1.2.zip",
+    "file/Cobblemon_Icons_JourneyMap_v1.3.zip",
+    "file/FreshAnimations_v1.10.1.zip",
+    "file/FA+All_Extensions-v1.6.zip",
+    "file/Freshly Modded 2.0.3.zip",
+    "file/X's Fresh JourneyMap Icons-1.21.8-1.1.zip",
+    "file/boss-refreshed-v2-1.19-1.21.zip",
+    "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+    "file/EnderEyes_1.21.9_v3.1.zip",
+    "file/Minecolonies Refreshed 4.0.0-1.21.1.zip",
+    "file/\u00A7eSlim\u00A70 \u00A7eFire\u00A70.zip",
+    "file/Chaotix Apotheotic Tweaks v2.0 1.21.1.zip",
+    "file/xali's Potions v1.1.0.zip",
+    "file/xali's Potions Addon v1.1 for 1.21+.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "vanilla": {
+      "fixed_position": true,
+      "required": true,
+      "hidden": true
+    },
+    "mod_resources": {
+      "fixed_position": true,
+      "required": true,
+      "hidden": true
+    },
+    "1": [
+      "vanilla",
+      "fabric",
+      "mod_resources",
+      "modularbees:dynamic_assets",
+      "add_xycraft_overrides_stone",
+      "add_xycraft_overrides_metal",
+      "add_xycraft_overrides_glass",
+      "moonlight:merged_pack",
+      "mod/towntalk:respack",
+      "mod/dyenamicsandfriends:compat_packs/productivemetalworks/",
+      "mod/dyenamicsandfriends:compat_packs/connectedglass/",
+      "mod/dyenamicsandfriends:compat_packs/crystalix/",
+      "mod/dyenamicsandfriends:compat_packs/luminax/",
+      "mod/dyenamicsandfriends:compat_packs/cookingforblockheads/",
+      "mod/dyenamicsandfriends:compat_packs/botanypots/",
+      "mod/dyenamicsandfriends:compat_packs/chromacarvings/",
+      "mod/cobblemon:resourcepacks/gyaradosjump",
+      "mod/cobblemon:resourcepacks/uniqueshinyforms",
+      "mod/cobblemon:resourcepacks/regionbiasforms",
+      "gyaradosjumpingmega",
+      "regionbiasmsd",
+      "mod/pneumaticcraft:fusion_integration",
+      "modern_industrialization/generated",
+      "builtin/aether_tooltips",
+      "builtin/add_pack_finders_test",
+      "file/Enchantment Descriptions 1.2.zip",
+      "file/Cobblemon_Icons_JourneyMap_v1.3.zip"
+    ],
+    "$$1": {
+      "fixed_position": true,
+      "default_position": "BOTTOM",
+      "force_compatible": true,
+      "required": true,
+      "hidden": true
+    },
+    "2": [
+      "file/FreshAnimations_v1.10.1.zip",
+      "file/FA+All_Extensions-v1.6.zip",
+      "file/Freshly Modded 2.0.3.zip",
+      "file/X's Fresh JourneyMap Icons-1.21.8-1.1.zip",
+      "file/boss-refreshed-v2-1.19-1.21.zip",
+      "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+    ],
+    "$$2": {
+      "fixed_position": true,
+      "default_position": "BOTTOM",
+      "force_compatible": true,
+      "required": true,
+      "hidden": false
+    },
+    "3": [
+      "file/EnderEyes_1.21.9_v3.1.zip",
+      "file/Minecolonies Refreshed 4.0.0-1.21.1.zip",
+      "file/\u00A7eSlim\u00A70 \u00A7eFire\u00A70.zip",
+      "file/Chaotix Apotheotic Tweaks v2.0 1.21.1.zip",
+      "file/xali's Potions v1.1.0.zip",
+      "file/xali's Potions Addon v1.1 for 1.21+.zip"
+    ],
+    "$$3": {
+      "default_position": "BOTTOM",
+      "force_compatible": true,
+      "required": false,
+      "hidden": false
+    },
+    "4": [
+      "mod/megacells:optional_cell_colours",
+      "builtin/2d_item_models",
+      "builtin/aether_colorblind",
+      "builtin/aether_b173_art",
+      "builtin/aether_125_art",
+      "builtin/builtin_resource_packs/legacy_dead_king_resource_pack",
+      "mod/simplylight:optional_fullblock_ctm",
+      "mod/lootr:resourcepacks/old_textures",
+      "sfm:classic",
+      "mod/the_bumblezone:resourcepacks/anti_tropophobia",
+      "supplementaries:darker_ropes",
+      "add_xycraft_override_ae2",
+      "add_xycraft_overrides_optional_mc",
+      "programmer_art",
+      "high_contrast"
+    ],
+    "$$4": {
+      "fixed_position": true,
+      "required": false,
+      "hidden": true
+    }
+  }
+}
