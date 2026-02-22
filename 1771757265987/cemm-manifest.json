@@ -1,0 +1,3731 @@
+{
+  "updateType": "full",
+  "mods": [
+    {
+      "addon_file_id": 7612924,
+      "addon_name": "Crash Assistant",
+      "addon_project_id": 1154099,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7612/924/CrashAssistant-forge-1.19-1.20.1-1.10.30.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "CrashAssistant-forge-1.19-1.20.1-1.10.30.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/crash-assistant",
+      "fileNameOnDisk": "CrashAssistant-forge-1.19-1.20.1-1.10.30.jar"
+    },
+    {
+      "addon_file_id": 6963686,
+      "addon_name": "Create: Splendid Cogs",
+      "addon_project_id": 1335492,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6963/686/create_slime-1.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "create_slime-1.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-slime",
+      "fileNameOnDisk": "create_slime-1.0.1.jar"
+    },
+    {
+      "addon_file_id": 6855440,
+      "addon_name": "Jade 🔍",
+      "addon_project_id": 324717,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6855/440/Jade-1.20.1-Forge-11.13.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Jade-1.20.1-Forge-11.13.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/jade",
+      "fileNameOnDisk": "Jade-1.20.1-Forge-11.13.2.jar"
+    },
+    {
+      "addon_file_id": 7600806,
+      "addon_name": "Advanced Loot Info",
+      "addon_project_id": 1205426,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7600/806/AdvancedLootInfo-forge-1.20.1-1.7.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "AdvancedLootInfo-forge-1.20.1-1.7.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info",
+      "fileNameOnDisk": "AdvancedLootInfo-forge-1.20.1-1.7.2.jar"
+    },
+    {
+      "addon_file_id": 4869702,
+      "addon_name": "Passable Foliage 🌳 (Neo/Forge)",
+      "addon_project_id": 379887,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4869/702/PassableFoliage-1.20.1-forge-8.2.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "PassableFoliage-1.20.1-forge-8.2.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/passable-foliage",
+      "fileNameOnDisk": "PassableFoliage-1.20.1-forge-8.2.1.jar"
+    },
+    {
+      "addon_file_id": 7032387,
+      "addon_name": "Connectivity",
+      "addon_project_id": 470193,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7032/387/connectivity-1.20.1-7.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "connectivity-1.20.1-7.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+      "fileNameOnDisk": "connectivity-1.20.1-7.2.jar"
+    },
+    {
+      "addon_file_id": 5144161,
+      "addon_name": "Building Gadgets",
+      "addon_project_id": 298187,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5144/161/buildinggadgets2-1.0.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "buildinggadgets2-1.0.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets",
+      "fileNameOnDisk": "buildinggadgets2-1.0.7.jar"
+    },
+    {
+      "addon_file_id": 7318663,
+      "addon_name": "MidnightLib",
+      "addon_project_id": 488090,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7318/663/midnightlib-forge-1.9.2%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "midnightlib-forge-1.9.2+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/midnightlib",
+      "fileNameOnDisk": "midnightlib-forge-1.9.2+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7058464,
+      "addon_name": "Create: Extra Gauges",
+      "addon_project_id": 1263228,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7058/464/extra_gauges-2.0.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "extra_gauges-2.0.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-extra-gauges",
+      "fileNameOnDisk": "extra_gauges-2.0.7.jar"
+    },
+    {
+      "addon_file_id": 4712189,
+      "addon_name": "Nature's Compass",
+      "addon_project_id": 252848,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4712/189/NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
+      "fileNameOnDisk": "NaturesCompass-1.20.1-1.11.2-forge.jar"
+    },
+    {
+      "addon_file_id": 5096038,
+      "addon_name": "CoroUtil",
+      "addon_project_id": 237749,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5096/38/coroutil-forge-1.20.1-1.3.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "coroutil-forge-1.20.1-1.3.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/coroutil",
+      "fileNameOnDisk": "coroutil-forge-1.20.1-1.3.7.jar"
+    },
+    {
+      "addon_file_id": 7238548,
+      "addon_name": "Moog's Structure Lib (moogs_structures)",
+      "addon_project_id": 1337167,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7238/548/moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/moogs-structure-lib",
+      "fileNameOnDisk": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar"
+    },
+    {
+      "addon_file_id": 5596310,
+      "addon_name": "Exposure Catalog",
+      "addon_project_id": 1023882,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5596/310/exposure_catalog-1.20.1-1.0.3-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "exposure_catalog-1.20.1-1.0.3-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/exposure-catalog",
+      "fileNameOnDisk": "exposure_catalog-1.20.1-1.0.3-forge.jar"
+    },
+    {
+      "addon_file_id": 5550049,
+      "addon_name": "Watering Cans [Dew Drop]",
+      "addon_project_id": 1062863,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5550/49/dew_drop_watering_cans-1.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "dew_drop_watering_cans-1.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/watering-cans-dew-drop",
+      "fileNameOnDisk": "dew_drop_watering_cans-1.0.2.jar"
+    },
+    {
+      "addon_file_id": 6231176,
+      "addon_name": "Resourceful Config",
+      "addon_project_id": 714059,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6231/176/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
+      "fileNameOnDisk": "resourcefulconfig-forge-1.20.1-2.1.3.jar"
+    },
+    {
+      "addon_file_id": 5503516,
+      "addon_name": "Comforts",
+      "addon_project_id": 276951,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5503/516/comforts-forge-6.4.0%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "comforts-forge-6.4.0+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/comforts",
+      "fileNameOnDisk": "comforts-forge-6.4.0+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4580511,
+      "addon_name": "My Server Is Compatible",
+      "addon_project_id": 492574,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4580/511/MyServerIsCompatible-1.20-1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "MyServerIsCompatible-1.20-1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/my-server-is-compatible",
+      "fileNameOnDisk": "MyServerIsCompatible-1.20-1.0.jar"
+    },
+    {
+      "addon_file_id": 5652315,
+      "addon_name": "[Let's Do] Brewery - Farm&Charm Compat",
+      "addon_project_id": 1038106,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5652/315/letsdo-brewery-forge-2.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-brewery-forge-2.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-brewery-farm-charm-compat",
+      "fileNameOnDisk": "letsdo-brewery-forge-2.0.3.jar"
+    },
+    {
+      "addon_file_id": 7599486,
+      "addon_name": "Create: Hypertubes",
+      "addon_project_id": 1281336,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7599/486/create_hypertube-0.4.0-FORGE.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "create_hypertube-0.4.0-FORGE.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/hypertubes",
+      "fileNameOnDisk": "create_hypertube-0.4.0-FORGE.jar"
+    },
+    {
+      "addon_file_id": 4627738,
+      "addon_name": "Too Fast",
+      "addon_project_id": 550678,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4627/738/toofast-1.20-0.4.3.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "toofast-1.20-0.4.3.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/too-fast",
+      "fileNameOnDisk": "toofast-1.20-0.4.3.5.jar"
+    },
+    {
+      "addon_file_id": 7344370,
+      "addon_name": "Classic Pipes",
+      "addon_project_id": 1351745,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7344/370/classicpipes-forge-1.20.1-1.0.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "classicpipes-forge-1.20.1-1.0.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/classic-pipes",
+      "fileNameOnDisk": "classicpipes-forge-1.20.1-1.0.10.jar"
+    },
+    {
+      "addon_file_id": 4964550,
+      "addon_name": "Simple Discord Rich Presence (Forge /  Fabric)",
+      "addon_project_id": 334853,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4964/550/SimpleDiscordRichPresence-forge-4.0.3-build.40%2bmc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "SimpleDiscordRichPresence-forge-4.0.3-build.40+mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence",
+      "fileNameOnDisk": "SimpleDiscordRichPresence-forge-4.0.3-build.40+mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5760231,
+      "addon_name": "Not Enough Recipe Book [NERB]",
+      "addon_project_id": 738663,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5760/231/Not%20Enough%20Recipe%20Book-FORGE-0.4.1%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook",
+      "fileNameOnDisk": "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5080064,
+      "addon_name": "Observable",
+      "addon_project_id": 509575,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5080/64/observable-4.4.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "observable-4.4.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/observable",
+      "fileNameOnDisk": "observable-4.4.1.jar"
+    },
+    {
+      "addon_file_id": 7184549,
+      "addon_name": "Create:Entity Control",
+      "addon_project_id": 1256076,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7184/549/CreateEntityControl-0.2.8-6.0-forge-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "CreateEntityControl-0.2.8-6.0-forge-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-entitycontroller",
+      "fileNameOnDisk": "CreateEntityControl-0.2.8-6.0-forge-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7443695,
+      "addon_name": "Create: Steam 'n' Rails",
+      "addon_project_id": 688231,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7443/695/Steam_Rails-1.6.15-beta%2bforge-mc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Steam_Rails-1.6.15-beta+forge-mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails",
+      "fileNameOnDisk": "Steam_Rails-1.6.15-beta+forge-mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6717213,
+      "addon_name": "Domestication Innovation Fixed",
+      "addon_project_id": 1298091,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6717/213/domesticationinnovation-1.7.2-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "domesticationinnovation-1.7.2-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/domestication-innovation-fixed",
+      "fileNameOnDisk": "domesticationinnovation-1.7.2-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4992038,
+      "addon_name": "CERBON's API [Forge | Fabric | NeoForge]",
+      "addon_project_id": 955605,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4992/38/CerbonsApi-Forge-1.20.1-1.0.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "CerbonsApi-Forge-1.20.1-1.0.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cerbons-api",
+      "fileNameOnDisk": "CerbonsApi-Forge-1.20.1-1.0.0.jar"
+    },
+    {
+      "addon_file_id": 5652318,
+      "addon_name": "[Let's Do] Candlelight - Farm&Charm Compat",
+      "addon_project_id": 1038117,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5652/318/letsdo-candlelight-forge-2.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-candlelight-forge-2.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight-farm-charm-compat",
+      "fileNameOnDisk": "letsdo-candlelight-forge-2.0.2.jar"
+    },
+    {
+      "addon_file_id": 5693368,
+      "addon_name": "Better Archeology",
+      "addon_project_id": 835687,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5693/368/betterarcheology-1.2.1-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "betterarcheology-1.2.1-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/better-archeology",
+      "fileNameOnDisk": "betterarcheology-1.2.1-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4892299,
+      "addon_name": "Load My F***ing Tags",
+      "addon_project_id": 656346,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4892/299/lmft-1.0.4%2b1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "lmft-1.0.4+1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lmft",
+      "fileNameOnDisk": "lmft-1.0.4+1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 5547510,
+      "addon_name": "Tips",
+      "addon_project_id": 306549,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5547/510/Tips-Forge-1.20.1-12.1.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Tips-Forge-1.20.1-12.1.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/tips",
+      "fileNameOnDisk": "Tips-Forge-1.20.1-12.1.8.jar"
+    },
+    {
+      "addon_file_id": 7235989,
+      "addon_name": "AllTheLeaks (Memory Leak Fix)",
+      "addon_project_id": 1091339,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7235/989/alltheleaks-1.1.1%2b1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "alltheleaks-1.1.1+1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/alltheleaks",
+      "fileNameOnDisk": "alltheleaks-1.1.1+1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 5320668,
+      "addon_name": "[Let's Do] Beachparty",
+      "addon_project_id": 858691,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5320/668/letsdo-beachparty-forge-1.1.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-beachparty-forge-1.1.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-beachparty",
+      "fileNameOnDisk": "letsdo-beachparty-forge-1.1.5.jar"
+    },
+    {
+      "addon_file_id": 6469886,
+      "addon_name": "Game Discs",
+      "addon_project_id": 1099059,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6469/886/gamediscs-0.3.2-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "gamediscs-0.3.2-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/game-discs",
+      "fileNameOnDisk": "gamediscs-0.3.2-forge.jar"
+    },
+    {
+      "addon_file_id": 5259004,
+      "addon_name": "Trofers",
+      "addon_project_id": 482265,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5259/4/trofers-forge-5.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "trofers-forge-5.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/trofers",
+      "fileNameOnDisk": "trofers-forge-5.0.2.jar"
+    },
+    {
+      "addon_file_id": 6274231,
+      "addon_name": "Placebo",
+      "addon_project_id": 283644,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6274/231/Placebo-1.20.1-8.6.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Placebo-1.20.1-8.6.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/placebo",
+      "fileNameOnDisk": "Placebo-1.20.1-8.6.3.jar"
+    },
+    {
+      "addon_file_id": 7391695,
+      "addon_name": "Just Enough Items (JEI)",
+      "addon_project_id": 238222,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7391/695/jei-1.20.1-forge-15.20.0.129.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "jei-1.20.1-forge-15.20.0.129.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/jei",
+      "fileNameOnDisk": "jei-1.20.1-forge-15.20.0.129.jar"
+    },
+    {
+      "addon_file_id": 6965729,
+      "addon_name": "WATERMeDIA: Multimedia API",
+      "addon_project_id": 869524,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6965/729/watermedia-2.1.34.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "watermedia-2.1.34.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/watermedia",
+      "fileNameOnDisk": "watermedia-2.1.34.jar"
+    },
+    {
+      "addon_file_id": 4688940,
+      "addon_name": "Better Compatibility Checker",
+      "addon_project_id": 551894,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4688/940/BetterCompatibilityChecker-forge-4.0.8%2bmc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker",
+      "fileNameOnDisk": "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6742615,
+      "addon_name": "Lithostitched",
+      "addon_project_id": 936015,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6742/615/lithostitched-forge-1.20.1-1.4.11.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lithostitched",
+      "fileNameOnDisk": "lithostitched-forge-1.20.1-1.4.11.jar"
+    },
+    {
+      "addon_file_id": 5095685,
+      "addon_name": "Plonk",
+      "addon_project_id": 345779,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5095/685/plonk-1.20.1-10.0.5-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "plonk-1.20.1-10.0.5-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/plonk",
+      "fileNameOnDisk": "plonk-1.20.1-10.0.5-forge.jar"
+    },
+    {
+      "addon_file_id": 4749360,
+      "addon_name": "Farming for Blockheads",
+      "addon_project_id": 261924,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4749/360/farmingforblockheads-forge-1.20.1-14.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "farmingforblockheads-forge-1.20.1-14.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads",
+      "fileNameOnDisk": "farmingforblockheads-forge-1.20.1-14.0.2.jar"
+    },
+    {
+      "addon_file_id": 6094337,
+      "addon_name": "Iron's Rpg Tweaks",
+      "addon_project_id": 871799,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6094/337/irons_rpg_tweaks-1.20-1.4.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "irons_rpg_tweaks-1.20-1.4.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/irons-rpg-tweaks",
+      "fileNameOnDisk": "irons_rpg_tweaks-1.20-1.4.0.jar"
+    },
+    {
+      "addon_file_id": 6652836,
+      "addon_name": "Create: Enchantment Industry",
+      "addon_project_id": 688768,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6652/836/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry",
+      "fileNameOnDisk": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar"
+    },
+    {
+      "addon_file_id": 6609254,
+      "addon_name": "Daily Weather",
+      "addon_project_id": 1062904,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6609/254/dew_drop_daily_weather-1.1.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "dew_drop_daily_weather-1.1.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/daily-weather",
+      "fileNameOnDisk": "dew_drop_daily_weather-1.1.1.jar"
+    },
+    {
+      "addon_file_id": 7127544,
+      "addon_name": "Unusual Fish Mod",
+      "addon_project_id": 568300,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7127/544/unusualfishmod-1.1.9.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "unusualfishmod-1.1.9.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/unusual-fish-mod",
+      "fileNameOnDisk": "unusualfishmod-1.1.9.jar"
+    },
+    {
+      "addon_file_id": 7630585,
+      "addon_name": "Sophisticated Core",
+      "addon_project_id": 618298,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7630/585/sophisticatedcore-1.20.1-1.3.4.1491.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "sophisticatedcore-1.20.1-1.3.4.1491.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+      "fileNameOnDisk": "sophisticatedcore-1.20.1-1.3.4.1491.jar"
+    },
+    {
+      "addon_file_id": 5188041,
+      "addon_name": "Sewing Kit",
+      "addon_project_id": 411896,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5188/41/SewingKit-1.20.1-1.8.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "SewingKit-1.20.1-1.8.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sewing-kit",
+      "fileNameOnDisk": "SewingKit-1.20.1-1.8.1.jar"
+    },
+    {
+      "addon_file_id": 6029352,
+      "addon_name": "Radiant Gear (Fabric/Forge/Quilt)",
+      "addon_project_id": 602199,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6029/352/radiantgear-forge-2.2.0%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "radiantgear-forge-2.2.0+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/radiant-gear",
+      "fileNameOnDisk": "radiantgear-forge-2.2.0+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7358298,
+      "addon_name": "Fusion (Connected Textures)",
+      "addon_project_id": 854949,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7358/298/fusion-1.2.11c-forge-mc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "fusion-1.2.11c-forge-mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
+      "fileNameOnDisk": "fusion-1.2.11c-forge-mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6987710,
+      "addon_name": "Create: Central Kitchen",
+      "addon_project_id": 820977,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6987/710/create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen",
+      "fileNameOnDisk": "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar"
+    },
+    {
+      "addon_file_id": 6570130,
+      "addon_name": "AmbientSounds 6",
+      "addon_project_id": 254284,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6570/130/AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds",
+      "fileNameOnDisk": "AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5089406,
+      "addon_name": "Decorative Blocks",
+      "addon_project_id": 362528,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5089/406/decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks",
+      "fileNameOnDisk": "decorative_blocks-forge-1.20.1-4.1.3.jar"
+    },
+    {
+      "addon_file_id": 4654401,
+      "addon_name": "Kambrik",
+      "addon_project_id": 455585,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4654/401/Kambrik-6.1.1%2b1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Kambrik-6.1.1+1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/kambrik",
+      "fileNameOnDisk": "Kambrik-6.1.1+1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 7392390,
+      "addon_name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+      "addon_project_id": 568563,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7392/390/entity_texture_features_1.20.1-forge-7.0.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "entity_texture_features_1.20.1-forge-7.0.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+      "fileNameOnDisk": "entity_texture_features_1.20.1-forge-7.0.8.jar"
+    },
+    {
+      "addon_file_id": 5706069,
+      "addon_name": "Radium Reforged",
+      "addon_project_id": 570017,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5706/69/radium-mc1.20.1-0.12.4%2bgit.26c9d8e.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/radium-reforged",
+      "fileNameOnDisk": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar"
+    },
+    {
+      "addon_file_id": 6960912,
+      "addon_name": "Little Tractor",
+      "addon_project_id": 1029980,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6960/912/LittleTractor-1.20.1-1.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "LittleTractor-1.20.1-1.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/little-tractor",
+      "fileNameOnDisk": "LittleTractor-1.20.1-1.2.jar"
+    },
+    {
+      "addon_file_id": 7256555,
+      "addon_name": "Data Anchor",
+      "addon_project_id": 1203668,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7256/555/Data_Anchor-forge-1.20.1-1.0.0.20.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Data_Anchor-forge-1.20.1-1.0.0.20.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/data-anchor",
+      "fileNameOnDisk": "Data_Anchor-forge-1.20.1-1.0.0.20.jar"
+    },
+    {
+      "addon_file_id": 6701786,
+      "addon_name": "Create Utilities (Fabric/Forge)",
+      "addon_project_id": 881586,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6701/786/createutilities-0.3.2%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "createutilities-0.3.2+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/createutilities",
+      "fileNameOnDisk": "createutilities-0.3.2+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6531428,
+      "addon_name": "Framework",
+      "addon_project_id": 549225,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6531/428/framework-forge-1.20.1-0.7.15.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "framework-forge-1.20.1-0.7.15.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/framework",
+      "fileNameOnDisk": "framework-forge-1.20.1-0.7.15.jar"
+    },
+    {
+      "addon_file_id": 4998195,
+      "addon_name": "Twigs",
+      "addon_project_id": 496913,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4998/195/Twigs-1.20.1-3.1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Twigs-1.20.1-3.1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/twigs",
+      "fileNameOnDisk": "Twigs-1.20.1-3.1.0.jar"
+    },
+    {
+      "addon_file_id": 5855251,
+      "addon_name": "Enchantment Descriptions",
+      "addon_project_id": 250419,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5855/251/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions",
+      "fileNameOnDisk": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
+    },
+    {
+      "addon_file_id": 5078298,
+      "addon_name": "Mob Lassos",
+      "addon_project_id": 852670,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5078/298/MobLassos-v8.0.1-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "MobLassos-v8.0.1-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mob-lassos",
+      "fileNameOnDisk": "MobLassos-v8.0.1-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 7603098,
+      "addon_name": "Sophisticated Storage",
+      "addon_project_id": 619320,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7603/98/sophisticatedstorage-1.20.1-1.4.25.1488.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "sophisticatedstorage-1.20.1-1.4.25.1488.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage",
+      "fileNameOnDisk": "sophisticatedstorage-1.20.1-1.4.25.1488.jar"
+    },
+    {
+      "addon_file_id": 7240735,
+      "addon_name": "Amendments",
+      "addon_project_id": 896746,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7240/735/amendments-1.20-2.2.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "amendments-1.20-2.2.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/amendments",
+      "fileNameOnDisk": "amendments-1.20-2.2.3.jar"
+    },
+    {
+      "addon_file_id": 5470032,
+      "addon_name": "Cupboard",
+      "addon_project_id": 326652,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5470/32/cupboard-1.20.1-2.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "cupboard-1.20.1-2.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+      "fileNameOnDisk": "cupboard-1.20.1-2.7.jar"
+    },
+    {
+      "addon_file_id": 6918565,
+      "addon_name": "Puzzles Lib",
+      "addon_project_id": 495476,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6918/565/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+      "fileNameOnDisk": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 5498979,
+      "addon_name": "Extreme sound muffler - (Neo)Forge",
+      "addon_project_id": 363363,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5498/979/ExtremeSoundMuffler-3.48-forge-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ExtremeSoundMuffler-3.48-forge-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler",
+      "fileNameOnDisk": "ExtremeSoundMuffler-3.48-forge-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6972483,
+      "addon_name": "Default Options",
+      "addon_project_id": 232131,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6972/483/defaultoptions-forge-1.20.1-18.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "defaultoptions-forge-1.20.1-18.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/default-options",
+      "fileNameOnDisk": "defaultoptions-forge-1.20.1-18.0.4.jar"
+    },
+    {
+      "addon_file_id": 7400722,
+      "addon_name": "[EMF] Entity Model Features [Fabric & Forge]",
+      "addon_project_id": 844662,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7400/722/entity_model_features_1.20.1-forge-3.0.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "entity_model_features_1.20.1-forge-3.0.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/entity-model-features",
+      "fileNameOnDisk": "entity_model_features_1.20.1-forge-3.0.10.jar"
+    },
+    {
+      "addon_file_id": 6353910,
+      "addon_name": "Croptania",
+      "addon_project_id": 1205372,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6353/910/croptania-0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "croptania-0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/croptania",
+      "fileNameOnDisk": "croptania-0.3.jar"
+    },
+    {
+      "addon_file_id": 5838149,
+      "addon_name": "Iceberg [Neo/Forge]",
+      "addon_project_id": 520110,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5838/149/Iceberg-1.20.1-forge-1.1.25.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Iceberg-1.20.1-forge-1.1.25.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/iceberg",
+      "fileNameOnDisk": "Iceberg-1.20.1-forge-1.1.25.jar"
+    },
+    {
+      "addon_file_id": 6264591,
+      "addon_name": "Create: Numismatics",
+      "addon_project_id": 889722,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6264/591/CreateNumismatics-1.0.15%2bforge-mc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "CreateNumismatics-1.0.15+forge-mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/numismatics",
+      "fileNameOnDisk": "CreateNumismatics-1.0.15+forge-mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6412211,
+      "addon_name": "Drippy Loading Screen",
+      "addon_project_id": 511770,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6412/211/drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen",
+      "fileNameOnDisk": "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4995650,
+      "addon_name": "JustHammers",
+      "addon_project_id": 681606,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4995/650/justhammers-forge-2.0.3%2bmc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "justhammers-forge-2.0.3+mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/justhammers",
+      "fileNameOnDisk": "justhammers-forge-2.0.3+mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6151411,
+      "addon_name": "Buzzier Bees",
+      "addon_project_id": 355458,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6151/411/buzzier_bees-1.20.1-6.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "buzzier_bees-1.20.1-6.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/buzzier-bees",
+      "fileNameOnDisk": "buzzier_bees-1.20.1-6.0.1.jar"
+    },
+    {
+      "addon_file_id": 6186971,
+      "addon_name": "Rhino",
+      "addon_project_id": 416294,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6186/971/rhino-forge-2001.2.3-build.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "rhino-forge-2001.2.3-build.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/rhino",
+      "fileNameOnDisk": "rhino-forge-2001.2.3-build.10.jar"
+    },
+    {
+      "addon_file_id": 6003074,
+      "addon_name": "NeoAuth",
+      "addon_project_id": 1140741,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6003/74/NeoAuth-1.20.1-1.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "NeoAuth-1.20.1-1.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/neoauth",
+      "fileNameOnDisk": "NeoAuth-1.20.1-1.0.3.jar"
+    },
+    {
+      "addon_file_id": 4672310,
+      "addon_name": "Emojiful",
+      "addon_project_id": 284324,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4672/310/Emojiful-Forge-1.20.1-4.2.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Emojiful-Forge-1.20.1-4.2.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/emojiful",
+      "fileNameOnDisk": "Emojiful-Forge-1.20.1-4.2.0.jar"
+    },
+    {
+      "addon_file_id": 5301414,
+      "addon_name": "ExpandAbility",
+      "addon_project_id": 465066,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5301/414/expandability-9.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "expandability-9.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/expandability",
+      "fileNameOnDisk": "expandability-9.0.4.jar"
+    },
+    {
+      "addon_file_id": 5046069,
+      "addon_name": "Paragliders",
+      "addon_project_id": 289240,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5046/69/Paraglider-forge-20.1.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Paraglider-forge-20.1.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/paragliders",
+      "fileNameOnDisk": "Paraglider-forge-20.1.3.jar"
+    },
+    {
+      "addon_file_id": 4600191,
+      "addon_name": "Cosmetic Armor Reworked",
+      "addon_project_id": 237307,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4600/191/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "cosmeticarmorreworked-1.20.1-v1a.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked",
+      "fileNameOnDisk": "cosmeticarmorreworked-1.20.1-v1a.jar"
+    },
+    {
+      "addon_file_id": 6349198,
+      "addon_name": "GeckoJS",
+      "addon_project_id": 977922,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6349/198/GeckoJS-2001forge-1.5.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "GeckoJS-2001forge-1.5.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/geckojs",
+      "fileNameOnDisk": "GeckoJS-2001forge-1.5.2.jar"
+    },
+    {
+      "addon_file_id": 7188949,
+      "addon_name": "Ponder for KubeJS",
+      "addon_project_id": 622888,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7188/949/ponderjs-1.20.1-2.1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ponderjs-1.20.1-2.1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ponder",
+      "fileNameOnDisk": "ponderjs-1.20.1-2.1.0.jar"
+    },
+    {
+      "addon_file_id": 6713691,
+      "addon_name": "SkillExpNotifier",
+      "addon_project_id": 1290362,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6713/691/skillsexpnotifier-5.4.1-SNAPSHOT.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "skillsexpnotifier-5.4.1-SNAPSHOT.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/skillexpnotifier",
+      "fileNameOnDisk": "skillsexpnotifier-5.4.1-SNAPSHOT.jar"
+    },
+    {
+      "addon_file_id": 5156621,
+      "addon_name": "Easy Anvils",
+      "addon_project_id": 682567,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5156/621/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/easy-anvils",
+      "fileNameOnDisk": "EasyAnvils-v8.0.2-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 7449738,
+      "addon_name": "Snuffles",
+      "addon_project_id": 556372,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7449/738/snuffles-1.2.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "snuffles-1.2.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/snuffles",
+      "fileNameOnDisk": "snuffles-1.2.0.1.jar"
+    },
+    {
+      "addon_file_id": 4939735,
+      "addon_name": "NetherPortalFix",
+      "addon_project_id": 241160,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4939/735/netherportalfix-forge-1.20-13.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "netherportalfix-forge-1.20-13.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/netherportalfix",
+      "fileNameOnDisk": "netherportalfix-forge-1.20-13.0.1.jar"
+    },
+    {
+      "addon_file_id": 5969233,
+      "addon_name": "Bad Wither No Cookie - Reloaded",
+      "addon_project_id": 261251,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5969/233/bwncr-forge-1.20.1-3.17.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "bwncr-forge-1.20.1-3.17.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded",
+      "fileNameOnDisk": "bwncr-forge-1.20.1-3.17.2.jar"
+    },
+    {
+      "addon_file_id": 5324825,
+      "addon_name": "Fast Paintings",
+      "addon_project_id": 883287,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5324/825/fastpaintings-1.20-1.2.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "fastpaintings-1.20-1.2.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fast-paintings",
+      "fileNameOnDisk": "fastpaintings-1.20-1.2.7.jar"
+    },
+    {
+      "addon_file_id": 5281700,
+      "addon_name": "Caelus API",
+      "addon_project_id": 308989,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5281/700/caelus-forge-3.2.0%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "caelus-forge-3.2.0+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/caelus",
+      "fileNameOnDisk": "caelus-forge-3.2.0+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6383884,
+      "addon_name": "CreativeCore",
+      "addon_project_id": 257814,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6383/884/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+      "fileNameOnDisk": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6420945,
+      "addon_name": "EMI",
+      "addon_project_id": 580555,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6420/945/emi-1.1.22%2b1.20.1%2bforge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "emi-1.1.22+1.20.1+forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/emi",
+      "fileNameOnDisk": "emi-1.1.22+1.20.1+forge.jar"
+    },
+    {
+      "addon_file_id": 7287117,
+      "addon_name": "Easy NPC: Core",
+      "addon_project_id": 1308987,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7287/117/easy_npc-forge-1.20.1-6.1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "easy_npc-forge-1.20.1-6.1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/easy-npc-core",
+      "fileNameOnDisk": "easy_npc-forge-1.20.1-6.1.0.jar"
+    },
+    {
+      "addon_file_id": 4863801,
+      "addon_name": "Extractinator",
+      "addon_project_id": 567114,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4863/801/extractinator-forge-1.20.1-2.3.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "extractinator-forge-1.20.1-2.3.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/extractinator",
+      "fileNameOnDisk": "extractinator-forge-1.20.1-2.3.0.jar"
+    },
+    {
+      "addon_file_id": 7499810,
+      "addon_name": "FTB Teams (NeoForge)",
+      "addon_project_id": 404468,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7499/810/ftb-teams-forge-2001.3.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ftb-teams-forge-2001.3.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge",
+      "fileNameOnDisk": "ftb-teams-forge-2001.3.2.jar"
+    },
+    {
+      "addon_file_id": 5468182,
+      "addon_name": "[Let's Do] API ",
+      "addon_project_id": 864599,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5468/182/letsdo-API-forge-1.2.15-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-API-forge-1.2.15-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/do-api",
+      "fileNameOnDisk": "letsdo-API-forge-1.2.15-forge.jar"
+    },
+    {
+      "addon_file_id": 6886321,
+      "addon_name": "Species",
+      "addon_project_id": 857737,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6886/321/species-3.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "species-3.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/species",
+      "fileNameOnDisk": "species-3.5.jar"
+    },
+    {
+      "addon_file_id": 4715408,
+      "addon_name": "SuperMartijn642's Config Lib",
+      "addon_project_id": 438332,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4715/408/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+      "fileNameOnDisk": "supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+    },
+    {
+      "addon_file_id": 6164451,
+      "addon_name": "[Let's Do] Meadow",
+      "addon_project_id": 821483,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6164/451/letsdo-meadow-forge-1.3.23.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-meadow-forge-1.3.23.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-meadow",
+      "fileNameOnDisk": "letsdo-meadow-forge-1.3.23.jar"
+    },
+    {
+      "addon_file_id": 7515974,
+      "addon_name": "Windswept!",
+      "addon_project_id": 636321,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7515/974/windswept-1.20.1-3.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "windswept-1.20.1-3.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/windsweptmod",
+      "fileNameOnDisk": "windswept-1.20.1-3.0.4.jar"
+    },
+    {
+      "addon_file_id": 7426391,
+      "addon_name": "SuperMartijn642's Core Lib",
+      "addon_project_id": 454372,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7426/391/supermartijn642corelib-1.1.19-forge-mc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "supermartijn642corelib-1.1.19-forge-mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+      "fileNameOnDisk": "supermartijn642corelib-1.1.19-forge-mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7260736,
+      "addon_name": "FTB Quests (NeoForge)",
+      "addon_project_id": 289412,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7260/736/ftb-quests-forge-2001.4.17.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ftb-quests-forge-2001.4.17.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge",
+      "fileNameOnDisk": "ftb-quests-forge-2001.4.17.jar"
+    },
+    {
+      "addon_file_id": 5454907,
+      "addon_name": "Better Advancements",
+      "addon_project_id": 272515,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5454/907/BetterAdvancements-Forge-1.20.1-0.4.2.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "BetterAdvancements-Forge-1.20.1-0.4.2.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/better-advancements",
+      "fileNameOnDisk": "BetterAdvancements-Forge-1.20.1-0.4.2.10.jar"
+    },
+    {
+      "addon_file_id": 6321203,
+      "addon_name": "Gallery",
+      "addon_project_id": 1173553,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6321/203/gallery-1.20.1-1.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "gallery-1.20.1-1.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/gallery",
+      "fileNameOnDisk": "gallery-1.20.1-1.0.3.jar"
+    },
+    {
+      "addon_file_id": 5961411,
+      "addon_name": "Crabber's Delight",
+      "addon_project_id": 892827,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5961/411/CrabbersDelight-1.20.1-1.1.7d.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "CrabbersDelight-1.20.1-1.1.7d.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/crabbers-delight",
+      "fileNameOnDisk": "CrabbersDelight-1.20.1-1.1.7d.jar"
+    },
+    {
+      "addon_file_id": 5284015,
+      "addon_name": "Searchables",
+      "addon_project_id": 858542,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5284/15/Searchables-forge-1.20.1-1.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Searchables-forge-1.20.1-1.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+      "fileNameOnDisk": "Searchables-forge-1.20.1-1.0.3.jar"
+    },
+    {
+      "addon_file_id": 6004490,
+      "addon_name": "Quests Additions (Forge)",
+      "addon_project_id": 580129,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6004/490/questsadditions-1.4.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "questsadditions-1.4.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/quests-additions",
+      "fileNameOnDisk": "questsadditions-1.4.7.jar"
+    },
+    {
+      "addon_file_id": 7594373,
+      "addon_name": "Portable blueprints",
+      "addon_project_id": 1231499,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7594/373/portable_blueprints-v2.0.9-mv1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "portable_blueprints-v2.0.9-mv1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/portable-blueprints",
+      "fileNameOnDisk": "portable_blueprints-v2.0.9-mv1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6826898,
+      "addon_name": "Legendary Creatures",
+      "addon_project_id": 837157,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6826/898/legendarycreatures-1.20.1-1.1.1.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "legendarycreatures-1.20.1-1.1.1.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/legendary-creatures",
+      "fileNameOnDisk": "legendarycreatures-1.20.1-1.1.1.3.jar"
+    },
+    {
+      "addon_file_id": 4951461,
+      "addon_name": "PowerfulJS",
+      "addon_project_id": 819845,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4951/461/powerfuljs-1.6.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "powerfuljs-1.6.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/powerfuljs",
+      "fileNameOnDisk": "powerfuljs-1.6.1.jar"
+    },
+    {
+      "addon_file_id": 6408581,
+      "addon_name": "Blueprint",
+      "addon_project_id": 382216,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6408/581/blueprint-1.20.1-7.1.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "blueprint-1.20.1-7.1.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/blueprint",
+      "fileNameOnDisk": "blueprint-1.20.1-7.1.3.jar"
+    },
+    {
+      "addon_file_id": 7397710,
+      "addon_name": "Sophisticated Storage Create Integration",
+      "addon_project_id": 1226755,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7397/710/sophisticatedstoragecreateintegration-1.20.1-0.1.15.63.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "sophisticatedstoragecreateintegration-1.20.1-0.1.15.63.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-create-integration",
+      "fileNameOnDisk": "sophisticatedstoragecreateintegration-1.20.1-0.1.15.63.jar"
+    },
+    {
+      "addon_file_id": 5456879,
+      "addon_name": "Dracovita Farm Life",
+      "addon_project_id": 585764,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5456/879/farmlife-1.20.1-1.1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "farmlife-1.20.1-1.1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/dracovita-farm-life",
+      "fileNameOnDisk": "farmlife-1.20.1-1.1.0.jar"
+    },
+    {
+      "addon_file_id": 4819758,
+      "addon_name": "Faster Ladder Climbing",
+      "addon_project_id": 258881,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4819/758/FasterLadderClimbing-1.20.1-0.2.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "FasterLadderClimbing-1.20.1-0.2.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/faster-ladder-climbing",
+      "fileNameOnDisk": "FasterLadderClimbing-1.20.1-0.2.10.jar"
+    },
+    {
+      "addon_file_id": 5338457,
+      "addon_name": "Mouse Tweaks",
+      "addon_project_id": 60089,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5338/457/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+      "fileNameOnDisk": "MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+    },
+    {
+      "addon_file_id": 4784395,
+      "addon_name": "bad packets",
+      "addon_project_id": 615134,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4784/395/badpackets-forge-0.4.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "badpackets-forge-0.4.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/badpackets",
+      "fileNameOnDisk": "badpackets-forge-0.4.3.jar"
+    },
+    {
+      "addon_file_id": 7537759,
+      "addon_name": "ImmediatelyFast",
+      "addon_project_id": 686911,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7537/759/ImmediatelyFast-Forge-1.5.4%2b1.20.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
+      "fileNameOnDisk": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar"
+    },
+    {
+      "addon_file_id": 6856603,
+      "addon_name": "Waystones",
+      "addon_project_id": 245755,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6856/603/waystones-forge-1.20.1-14.1.17.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "waystones-forge-1.20.1-14.1.17.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+      "fileNameOnDisk": "waystones-forge-1.20.1-14.1.17.jar"
+    },
+    {
+      "addon_file_id": 7005578,
+      "addon_name": "WATERFrAMES: Multimedia Displays",
+      "addon_project_id": 834607,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7005/578/waterframes-FORGE-mc1.20.1-v2.1.20.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "waterframes-FORGE-mc1.20.1-v2.1.20.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/waterframes",
+      "fileNameOnDisk": "waterframes-FORGE-mc1.20.1-v2.1.20.jar"
+    },
+    {
+      "addon_file_id": 7529012,
+      "addon_name": "Chimes",
+      "addon_project_id": 350464,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7529/12/Chimes-v2.1.1-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Chimes-v2.1.1-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/chimes",
+      "fileNameOnDisk": "Chimes-v2.1.1-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 6041724,
+      "addon_name": "Display Delight",
+      "addon_project_id": 1144296,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6041/724/displaydelight-0.0.1-lite.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "displaydelight-0.0.1-lite.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/display-delight",
+      "fileNameOnDisk": "displaydelight-0.0.1-lite.jar"
+    },
+    {
+      "addon_file_id": 7420617,
+      "addon_name": "Balm",
+      "addon_project_id": 531761,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7420/617/balm-forge-1.20.1-7.3.38-all.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "balm-forge-1.20.1-7.3.38-all.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/balm",
+      "fileNameOnDisk": "balm-forge-1.20.1-7.3.38-all.jar"
+    },
+    {
+      "addon_file_id": 5929264,
+      "addon_name": "ServerCore",
+      "addon_project_id": 550579,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5929/264/servercore-forge-1.5.2%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "servercore-forge-1.5.2+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/servercore",
+      "fileNameOnDisk": "servercore-forge-1.5.2+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7609676,
+      "addon_name": "Platform",
+      "addon_project_id": 997634,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7609/676/Platform-forge-1.20.1-1.2.11.6.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Platform-forge-1.20.1-1.2.11.6.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/platform",
+      "fileNameOnDisk": "Platform-forge-1.20.1-1.2.11.6.2.jar"
+    },
+    {
+      "addon_file_id": 6157071,
+      "addon_name": "Pufferfish's Attributes [Fabric & Forge & NeoForge]",
+      "addon_project_id": 991341,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6157/71/puffish_attributes-0.7.2-1.20-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "puffish_attributes-0.7.2-1.20-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/puffish-attributes",
+      "fileNameOnDisk": "puffish_attributes-0.7.2-1.20-forge.jar"
+    },
+    {
+      "addon_file_id": 4684054,
+      "addon_name": "Construction Wand",
+      "addon_project_id": 399558,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4684/54/constructionwand-1.20.1-2.11.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "constructionwand-1.20.1-2.11.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/construction-wand",
+      "fileNameOnDisk": "constructionwand-1.20.1-2.11.jar"
+    },
+    {
+      "addon_file_id": 5929061,
+      "addon_name": "Tool Belt",
+      "addon_project_id": 260262,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5929/61/ToolBelt-1.20.1-1.20.02.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ToolBelt-1.20.1-1.20.02.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/tool-belt",
+      "fileNameOnDisk": "ToolBelt-1.20.1-1.20.02.jar"
+    },
+    {
+      "addon_file_id": 5847856,
+      "addon_name": "Vintage Delight",
+      "addon_project_id": 949719,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5847/856/vintagedelight-0.1.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "vintagedelight-0.1.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/vintage-delight",
+      "fileNameOnDisk": "vintagedelight-0.1.6.jar"
+    },
+    {
+      "addon_file_id": 7021437,
+      "addon_name": "WATERViSION: Videoplayer",
+      "addon_project_id": 1167473,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7021/437/watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/watervision",
+      "fileNameOnDisk": "watervision-FG-mc1.20.1-v0.1.0-alpha.jar"
+    },
+    {
+      "addon_file_id": 5724977,
+      "addon_name": "Colorful Hearts",
+      "addon_project_id": 854213,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5724/977/colorfulhearts-forge-1.20.1-4.3.16.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "colorfulhearts-forge-1.20.1-4.3.16.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/colorful-hearts",
+      "fileNameOnDisk": "colorfulhearts-forge-1.20.1-4.3.16.jar"
+    },
+    {
+      "addon_file_id": 5480675,
+      "addon_name": "Enchantment Disable Tag",
+      "addon_project_id": 1012987,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5480/675/enchantmentdisabletag-forge-1.1.0%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "enchantmentdisabletag-forge-1.1.0+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/enchantment-disable-tag",
+      "fileNameOnDisk": "enchantmentdisabletag-forge-1.1.0+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4715994,
+      "addon_name": "Balloon Box",
+      "addon_project_id": 649028,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4715/994/BalloonBox1.20.1(Forge)vs.1.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "BalloonBox1.20.1(Forge)vs.1.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/balloon-box",
+      "fileNameOnDisk": "BalloonBox1.20.1(Forge)vs.1.0.3.jar"
+    },
+    {
+      "addon_file_id": 7427731,
+      "addon_name": "Via Romana: Infrastructure-Driven Fast Travel",
+      "addon_project_id": 1026508,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7427/731/via_romana-2.2.2%2b1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "via_romana-2.2.2+1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/via-romana",
+      "fileNameOnDisk": "via_romana-2.2.2+1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 6172935,
+      "addon_name": "Just Enough Effect Descriptions (JEED)",
+      "addon_project_id": 532286,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6172/935/jeed-1.20-2.2.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "jeed-1.20-2.2.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed",
+      "fileNameOnDisk": "jeed-1.20-2.2.5.jar"
+    },
+    {
+      "addon_file_id": 7651725,
+      "addon_name": "Society Trading",
+      "addon_project_id": 1347329,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7651/725/society_trading-1.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "society_trading-1.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/society-trading",
+      "fileNameOnDisk": "society_trading-1.0.2.jar"
+    },
+    {
+      "addon_file_id": 5340329,
+      "addon_name": "Nether Depths Upgrade",
+      "addon_project_id": 670011,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5340/329/netherdepthsupgrade-3.1.5-1.20.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "netherdepthsupgrade-3.1.5-1.20.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/nether-depths-upgrade",
+      "fileNameOnDisk": "netherdepthsupgrade-3.1.5-1.20.jar"
+    },
+    {
+      "addon_file_id": 4838266,
+      "addon_name": "Item Filters",
+      "addon_project_id": 309674,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4838/266/item-filters-forge-2001.1.0-build.59.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "item-filters-forge-2001.1.0-build.59.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/item-filters",
+      "fileNameOnDisk": "item-filters-forge-2001.1.0-build.59.jar"
+    },
+    {
+      "addon_file_id": 4661335,
+      "addon_name": "Etcetera",
+      "addon_project_id": 891054,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4661/335/Etcetera-1.20.1-1.1.3-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Etcetera-1.20.1-1.1.3-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/etcetera",
+      "fileNameOnDisk": "Etcetera-1.20.1-1.1.3-Forge.jar"
+    },
+    {
+      "addon_file_id": 7472648,
+      "addon_name": "Snow! Real Magic! ⛄ (Neo/Forge)",
+      "addon_project_id": 308663,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7472/648/SnowRealMagic-1.20.1-Forge-10.7.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "SnowRealMagic-1.20.1-Forge-10.7.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/snow-real-magic",
+      "fileNameOnDisk": "SnowRealMagic-1.20.1-Forge-10.7.0.jar"
+    },
+    {
+      "addon_file_id": 5824225,
+      "addon_name": "[Let's Do] Farm & Charm",
+      "addon_project_id": 1038103,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5824/225/letsdo-farm_and_charm-forge-1.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-farm_and_charm-forge-1.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-charm",
+      "fileNameOnDisk": "letsdo-farm_and_charm-forge-1.0.4.jar"
+    },
+    {
+      "addon_file_id": 6020952,
+      "addon_name": "Oculus",
+      "addon_project_id": 581495,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6020/952/oculus-mc1.20.1-1.8.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "oculus-mc1.20.1-1.8.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/oculus",
+      "fileNameOnDisk": "oculus-mc1.20.1-1.8.0.jar"
+    },
+    {
+      "addon_file_id": 5603815,
+      "addon_name": "Simple Hats",
+      "addon_project_id": 631990,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5603/815/simplehats-forge-1.20.1-0.3.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "simplehats-forge-1.20.1-0.3.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/simplehats",
+      "fileNameOnDisk": "simplehats-forge-1.20.1-0.3.2.jar"
+    },
+    {
+      "addon_file_id": 5028413,
+      "addon_name": "Konkrete",
+      "addon_project_id": 410295,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5028/413/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/konkrete",
+      "fileNameOnDisk": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7597658,
+      "addon_name": "Vanilla Backport",
+      "addon_project_id": 417430,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7597/658/VanillaBackport-forge-1.20.1-1.1.5.4.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "VanillaBackport-forge-1.20.1-1.1.5.4.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/vanillabackport",
+      "fileNameOnDisk": "VanillaBackport-forge-1.20.1-1.1.5.4.2.jar"
+    },
+    {
+      "addon_file_id": 7296807,
+      "addon_name": "EntityJS",
+      "addon_project_id": 967617,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7296/807/entityjs-0.6.6-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "entityjs-0.6.6-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/entityjs",
+      "fileNameOnDisk": "entityjs-0.6.6-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6028801,
+      "addon_name": "SerializerDebug",
+      "addon_project_id": 1166778,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6028/801/serializer_debug-1.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "serializer_debug-1.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/serializerdebug",
+      "fileNameOnDisk": "serializer_debug-1.0.1.jar"
+    },
+    {
+      "addon_file_id": 7296748,
+      "addon_name": "FTB Library (Forge)",
+      "addon_project_id": 404465,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7296/748/ftb-library-forge-2001.2.12.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ftb-library-forge-2001.2.12.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge",
+      "fileNameOnDisk": "ftb-library-forge-2001.2.12.jar"
+    },
+    {
+      "addon_file_id": 6870713,
+      "addon_name": "Botania",
+      "addon_project_id": 225643,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6870/713/Botania-1.20.1-450-FORGE.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Botania-1.20.1-450-FORGE.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/botania",
+      "fileNameOnDisk": "Botania-1.20.1-450-FORGE.jar"
+    },
+    {
+      "addon_file_id": 5787839,
+      "addon_name": "GlitchCore",
+      "addon_project_id": 955399,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5787/839/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/glitchcore",
+      "fileNameOnDisk": "GlitchCore-forge-1.20.1-0.0.1.1.jar"
+    },
+    {
+      "addon_file_id": 6933150,
+      "addon_name": "Every Compat (Wood Good)",
+      "addon_project_id": 628539,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6933/150/everycomp-1.20-2.9.2-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "everycomp-1.20-2.9.2-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/every-compat",
+      "fileNameOnDisk": "everycomp-1.20-2.9.2-forge.jar"
+    },
+    {
+      "addon_file_id": 4882500,
+      "addon_name": "Carry On",
+      "addon_project_id": 274259,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4882/500/carryon-forge-1.20.1-2.1.2.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/carry-on",
+      "fileNameOnDisk": "carryon-forge-1.20.1-2.1.2.7.jar"
+    },
+    {
+      "addon_file_id": 6274623,
+      "addon_name": "OctoLib",
+      "addon_project_id": 916747,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6274/623/OctoLib-FORGE-0.5.0.1%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/octo-lib",
+      "fileNameOnDisk": "OctoLib-FORGE-0.5.0.1+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5681725,
+      "addon_name": "Embeddium",
+      "addon_project_id": 908741,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5681/725/embeddium-0.3.31%2bmc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "embeddium-0.3.31+mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/embeddium",
+      "fileNameOnDisk": "embeddium-0.3.31+mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5762256,
+      "addon_name": "Advancement Plaques [Neo/Forge]",
+      "addon_project_id": 499826,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5762/256/AdvancementPlaques-1.20.1-forge-1.6.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "AdvancementPlaques-1.20.1-forge-1.6.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/advancement-plaques",
+      "fileNameOnDisk": "AdvancementPlaques-1.20.1-forge-1.6.7.jar"
+    },
+    {
+      "addon_file_id": 5169765,
+      "addon_name": "Functional Storage",
+      "addon_project_id": 556861,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5169/765/functionalstorage-1.20.1-1.2.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "functionalstorage-1.20.1-1.2.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/functional-storage",
+      "fileNameOnDisk": "functionalstorage-1.20.1-1.2.10.jar"
+    },
+    {
+      "addon_file_id": 5654964,
+      "addon_name": "SmartBrainLib (Forge/Fabric/Quilt)",
+      "addon_project_id": 661293,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5654/964/SmartBrainLib-forge-1.20.1-1.15.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "SmartBrainLib-forge-1.20.1-1.15.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/smartbrainlib",
+      "fileNameOnDisk": "SmartBrainLib-forge-1.20.1-1.15.jar"
+    },
+    {
+      "addon_file_id": 4740032,
+      "addon_name": "Max Enchant X",
+      "addon_project_id": 664443,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4740/32/MaxEnchantX-1.20.X-1.3-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "MaxEnchantX-1.20.X-1.3-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/max-enchant-x",
+      "fileNameOnDisk": "MaxEnchantX-1.20.X-1.3-Forge.jar"
+    },
+    {
+      "addon_file_id": 4592948,
+      "addon_name": "CleanView",
+      "addon_project_id": 226889,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4592/948/cleanview-1.20.1-v1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "cleanview-1.20.1-v1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cleanview",
+      "fileNameOnDisk": "cleanview-1.20.1-v1.jar"
+    },
+    {
+      "addon_file_id": 7335229,
+      "addon_name": "Zeta",
+      "addon_project_id": 968868,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7335/229/Zeta-1.0-31.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Zeta-1.0-31.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/zeta",
+      "fileNameOnDisk": "Zeta-1.0-31.jar"
+    },
+    {
+      "addon_file_id": 5242480,
+      "addon_name": "Armor Statues",
+      "addon_project_id": 682566,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5242/480/ArmorStatues-v8.0.6-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ArmorStatues-v8.0.6-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/armor-statues",
+      "fileNameOnDisk": "ArmorStatues-v8.0.6-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 5828475,
+      "addon_name": "Simple Magnets",
+      "addon_project_id": 394140,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5828/475/simplemagnets-1.1.12-forge-mc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "simplemagnets-1.1.12-forge-mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/simple-magnets",
+      "fileNameOnDisk": "simplemagnets-1.1.12-forge-mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7249331,
+      "addon_name": "Shoulder Surfing Reloaded",
+      "addon_project_id": 243190,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7249/331/ShoulderSurfing-Forge-1.20.1-4.16.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ShoulderSurfing-Forge-1.20.1-4.16.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded",
+      "fileNameOnDisk": "ShoulderSurfing-Forge-1.20.1-4.16.0.jar"
+    },
+    {
+      "addon_file_id": 5101541,
+      "addon_name": "Resource Pack Overrides",
+      "addon_project_id": 832644,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5101/541/ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides",
+      "fileNameOnDisk": "ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 7551186,
+      "addon_name": "LootJS: KubeJS Addon",
+      "addon_project_id": 570630,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7551/186/lootjs-forge-1.20.1-2.13.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "lootjs-forge-1.20.1-2.13.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lootjs",
+      "fileNameOnDisk": "lootjs-forge-1.20.1-2.13.1.jar"
+    },
+    {
+      "addon_file_id": 7385618,
+      "addon_name": "Cluttered",
+      "addon_project_id": 826308,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7385/618/cluttered-%5bForge%5d-3.0.3-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "cluttered-[Forge]-3.0.3-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cluttered",
+      "fileNameOnDisk": "cluttered-[Forge]-3.0.3-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6491455,
+      "addon_name": "SelectiveBounds",
+      "addon_project_id": 1179699,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6491/455/selectivebounds-forge-1.20.1-0.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "selectivebounds-forge-1.20.1-0.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/selectivebounds",
+      "fileNameOnDisk": "selectivebounds-forge-1.20.1-0.0.2.jar"
+    },
+    {
+      "addon_file_id": 5936595,
+      "addon_name": "Chat Heads",
+      "addon_project_id": 407206,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5936/595/chat_heads-0.13.7-forge-1.20.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "chat_heads-0.13.7-forge-1.20.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
+      "fileNameOnDisk": "chat_heads-0.13.7-forge-1.20.jar"
+    },
+    {
+      "addon_file_id": 5109692,
+      "addon_name": "Melody",
+      "addon_project_id": 938643,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5109/692/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/melody",
+      "fileNameOnDisk": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+    },
+    {
+      "addon_file_id": 7266979,
+      "addon_name": "Trials Chambers Reuploaded",
+      "addon_project_id": 1392862,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7266/979/Trials-2.3.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Trials-2.3.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/trials-chambers-reuploaded",
+      "fileNameOnDisk": "Trials-2.3.3.jar"
+    },
+    {
+      "addon_file_id": 6341096,
+      "addon_name": "ReHooked",
+      "addon_project_id": 1096531,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6341/96/rehooked-1.8.3-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "rehooked-1.8.3-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/rehooked",
+      "fileNameOnDisk": "rehooked-1.8.3-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4583425,
+      "addon_name": "Log Begone",
+      "addon_project_id": 623560,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4583/425/Log-Begone-Forge-1.20.1-1.0.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Log-Begone-Forge-1.20.1-1.0.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/log-begone",
+      "fileNameOnDisk": "Log-Begone-Forge-1.20.1-1.0.8.jar"
+    },
+    {
+      "addon_file_id": 6151402,
+      "addon_name": "Autumnity",
+      "addon_project_id": 365045,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6151/402/autumnity-1.20.1-5.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "autumnity-1.20.1-5.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/autumnity",
+      "fileNameOnDisk": "autumnity-1.20.1-5.0.2.jar"
+    },
+    {
+      "addon_file_id": 7548782,
+      "addon_name": "Tooltip Overhaul",
+      "addon_project_id": 1327508,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7548/782/tooltipoverhaul-forge-1.20.1-1.4.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "tooltipoverhaul-forge-1.20.1-1.4.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul",
+      "fileNameOnDisk": "tooltipoverhaul-forge-1.20.1-1.4.2.jar"
+    },
+    {
+      "addon_file_id": 7147523,
+      "addon_name": "Critters and Companions",
+      "addon_project_id": 574913,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7147/523/crittersandcompanions-forge-1.20.1-2.3.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "crittersandcompanions-forge-1.20.1-2.3.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/critters-and-companions",
+      "fileNameOnDisk": "crittersandcompanions-forge-1.20.1-2.3.5.jar"
+    },
+    {
+      "addon_file_id": 7175842,
+      "addon_name": "Create: Numismatics Utils",
+      "addon_project_id": 1339392,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7175/842/numismatics_utils-2.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "numismatics_utils-2.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-numismatics-utils",
+      "fileNameOnDisk": "numismatics_utils-2.0.jar"
+    },
+    {
+      "addon_file_id": 5814102,
+      "addon_name": "RSInfinityBooster",
+      "addon_project_id": 446870,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5814/102/RSInfinityBooster-1.20.1-1.0%2b41.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "RSInfinityBooster-1.20.1-1.0+41.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/rsinfinitybooster",
+      "fileNameOnDisk": "RSInfinityBooster-1.20.1-1.0+41.jar"
+    },
+    {
+      "addon_file_id": 6675233,
+      "addon_name": "Perfect Plushies",
+      "addon_project_id": 867232,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6675/233/perfectplushies-forge-1.20.1-1.13.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "perfectplushies-forge-1.20.1-1.13.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/perfect-plushies",
+      "fileNameOnDisk": "perfectplushies-forge-1.20.1-1.13.3.jar"
+    },
+    {
+      "addon_file_id": 7270480,
+      "addon_name": "Gnetum",
+      "addon_project_id": 1220460,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7270/480/gnetum-2.3.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "gnetum-2.3.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/gnetum",
+      "fileNameOnDisk": "gnetum-2.3.4.jar"
+    },
+    {
+      "addon_file_id": 7584065,
+      "addon_name": "Flerovium",
+      "addon_project_id": 1142875,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7584/65/flerovium-forge-1.20.1-1.2.18-all.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "flerovium-forge-1.20.1-1.2.18-all.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/flerovium",
+      "fileNameOnDisk": "flerovium-forge-1.20.1-1.2.18-all.jar"
+    },
+    {
+      "addon_file_id": 6402486,
+      "addon_name": "FTB XMod Compat",
+      "addon_project_id": 889915,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6402/486/ftb-xmod-compat-forge-2.1.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ftb-xmod-compat-forge-2.1.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat",
+      "fileNameOnDisk": "ftb-xmod-compat-forge-2.1.3.jar"
+    },
+    {
+      "addon_file_id": 4834403,
+      "addon_name": "FTB Backups 2",
+      "addon_project_id": 622737,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ftbbackups2-forge-1.20-1.0.23.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2",
+      "fileNameOnDisk": "ftbbackups2-forge-1.20-1.0.23.jar"
+    },
+    {
+      "addon_file_id": 4610474,
+      "addon_name": "No Chat Reports",
+      "addon_project_id": 634062,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4610/474/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/no-chat-reports",
+      "fileNameOnDisk": "NoChatReports-FORGE-1.20.1-v2.2.2.jar"
+    },
+    {
+      "addon_file_id": 5207884,
+      "addon_name": "Straw Statues",
+      "addon_project_id": 682564,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5207/884/StrawStatues-v8.0.3-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "StrawStatues-v8.0.3-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/straw-statues",
+      "fileNameOnDisk": "StrawStatues-v8.0.3-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 5959231,
+      "addon_name": "XXL Packets",
+      "addon_project_id": 962921,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5959/231/xlpackets-forge-1.20.1-1.0.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "xlpackets-forge-1.20.1-1.0.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/xxl-packets",
+      "fileNameOnDisk": "xlpackets-forge-1.20.1-1.0.5.jar"
+    },
+    {
+      "addon_file_id": 6166552,
+      "addon_name": "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)",
+      "addon_project_id": 412013,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6166/552/ears-forge-1.19.4-1.4.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ears-forge-1.19.4-1.4.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ears",
+      "fileNameOnDisk": "ears-forge-1.19.4-1.4.7.jar"
+    },
+    {
+      "addon_file_id": 6458889,
+      "addon_name": "[Let's Do] HerbalBrews",
+      "addon_project_id": 951221,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6458/889/letsdo-herbalbrews-forge-1.0.12.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-herbalbrews-forge-1.0.12.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews",
+      "fileNameOnDisk": "letsdo-herbalbrews-forge-1.0.12.jar"
+    },
+    {
+      "addon_file_id": 7646574,
+      "addon_name": "SVDialog",
+      "addon_project_id": 1441305,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7646/574/SVDialog-0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "SVDialog-0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/svdialog",
+      "fileNameOnDisk": "SVDialog-0.3.jar"
+    },
+    {
+      "addon_file_id": 7515215,
+      "addon_name": "ModernFix",
+      "addon_project_id": 790626,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7515/215/modernfix-forge-5.26.2%2bmc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "modernfix-forge-5.26.2+mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+      "fileNameOnDisk": "modernfix-forge-5.26.2+mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6336646,
+      "addon_name": "YetAnotherConfigLib",
+      "addon_project_id": 667299,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6336/646/yet_another_config_lib_v3-3.6.6%2b1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/yacl",
+      "fileNameOnDisk": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 6607248,
+      "addon_name": "Bot's Lib",
+      "addon_project_id": 1062753,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6607/248/bots_lib-4.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "bots_lib-4.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/bots-lib",
+      "fileNameOnDisk": "bots_lib-4.1.jar"
+    },
+    {
+      "addon_file_id": 5101229,
+      "addon_name": "FastWorkbench",
+      "addon_project_id": 288885,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5101/229/FastWorkbench-1.20.1-8.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "FastWorkbench-1.20.1-8.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fastworkbench",
+      "fileNameOnDisk": "FastWorkbench-1.20.1-8.0.4.jar"
+    },
+    {
+      "addon_file_id": 7397574,
+      "addon_name": "Colorwheel Patcher",
+      "addon_project_id": 1285475,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7397/574/colorwheel_patcher-forge-1.0.4%2bmc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "colorwheel_patcher-forge-1.0.4+mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/colorwheel-patcher",
+      "fileNameOnDisk": "colorwheel_patcher-forge-1.0.4+mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6614501,
+      "addon_name": "Pufferfish's Skills [Fabric & Forge & NeoForge]",
+      "addon_project_id": 835091,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6614/501/puffish_skills-0.16.1-1.20-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "puffish_skills-0.16.1-1.20-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/puffish-skills",
+      "fileNameOnDisk": "puffish_skills-0.16.1-1.20-forge.jar"
+    },
+    {
+      "addon_file_id": 6398227,
+      "addon_name": "Serene Seasons",
+      "addon_project_id": 291874,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6398/227/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons",
+      "fileNameOnDisk": "SereneSeasons-forge-1.20.1-9.1.0.2.jar"
+    },
+    {
+      "addon_file_id": 7484359,
+      "addon_name": "Golem Overhaul",
+      "addon_project_id": 618752,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7484/359/golemoverhaul-forge-1.20.1-1.1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "golemoverhaul-forge-1.20.1-1.1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/golem-overhaul",
+      "fileNameOnDisk": "golemoverhaul-forge-1.20.1-1.1.0.jar"
+    },
+    {
+      "addon_file_id": 5320028,
+      "addon_name": "Chunky (Forge/NeoForge)",
+      "addon_project_id": 485681,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5320/28/Chunky-1.3.146.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Chunky-1.3.146.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge",
+      "fileNameOnDisk": "Chunky-1.3.146.jar"
+    },
+    {
+      "addon_file_id": 6965751,
+      "addon_name": "[Let's Do] Vinery",
+      "addon_project_id": 704465,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6965/751/letsdo-vinery-forge-1.4.41.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-vinery-forge-1.4.41.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery",
+      "fileNameOnDisk": "letsdo-vinery-forge-1.4.41.jar"
+    },
+    {
+      "addon_file_id": 5659871,
+      "addon_name": "Resourceful Lib",
+      "addon_project_id": 570073,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5659/871/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/resourceful-lib",
+      "fileNameOnDisk": "resourcefullib-forge-1.20.1-2.1.29.jar"
+    },
+    {
+      "addon_file_id": 5486134,
+      "addon_name": "Common Network",
+      "addon_project_id": 806044,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5486/134/common-networking-forge-1.0.5-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "common-networking-forge-1.0.5-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/common-network",
+      "fileNameOnDisk": "common-networking-forge-1.0.5-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4646682,
+      "addon_name": "Controlling",
+      "addon_project_id": 250398,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4646/682/Controlling-forge-1.20.1-12.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Controlling-forge-1.20.1-12.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+      "fileNameOnDisk": "Controlling-forge-1.20.1-12.0.2.jar"
+    },
+    {
+      "addon_file_id": 7017796,
+      "addon_name": "GeckoLib",
+      "addon_project_id": 388172,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7017/796/geckolib-forge-1.20.1-4.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "geckolib-forge-1.20.1-4.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+      "fileNameOnDisk": "geckolib-forge-1.20.1-4.8.jar"
+    },
+    {
+      "addon_file_id": 5565422,
+      "addon_name": "HT's TreeChop",
+      "addon_project_id": 421377,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5565/422/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/treechop",
+      "fileNameOnDisk": "TreeChop-1.20.1-forge-0.19.0-fixed.jar"
+    },
+    {
+      "addon_file_id": 6321200,
+      "addon_name": "Clayworks",
+      "addon_project_id": 592162,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6321/200/clayworks-1.20.1-3.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "clayworks-1.20.1-3.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/clayworks",
+      "fileNameOnDisk": "clayworks-1.20.1-3.0.4.jar"
+    },
+    {
+      "addon_file_id": 4844585,
+      "addon_name": "Refined Storage",
+      "addon_project_id": 243076,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4844/585/refinedstorage-1.12.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "refinedstorage-1.12.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/refined-storage",
+      "fileNameOnDisk": "refinedstorage-1.12.4.jar"
+    },
+    {
+      "addon_file_id": 7420638,
+      "addon_name": "Create: Schematic Checker",
+      "addon_project_id": 1357430,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7420/638/CreateSchematicChecker-0.21.13-6.0-forge-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "CreateSchematicChecker-0.21.13-6.0-forge-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-schematicchecker",
+      "fileNameOnDisk": "CreateSchematicChecker-0.21.13-6.0-forge-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7503929,
+      "addon_name": "Ember's Text API",
+      "addon_project_id": 1345948,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7503/929/emberstextapi-1.4.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "emberstextapi-1.4.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/embers-text-api",
+      "fileNameOnDisk": "emberstextapi-1.4.1.jar"
+    },
+    {
+      "addon_file_id": 4911084,
+      "addon_name": "AttributeFix",
+      "addon_project_id": 280510,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4911/84/AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+      "fileNameOnDisk": "AttributeFix-Forge-1.20.1-21.0.4.jar"
+    },
+    {
+      "addon_file_id": 6120294,
+      "addon_name": "Gadgets Against Grind",
+      "addon_project_id": 694962,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6120/294/gag-forge-3.0.0-build.13.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "gag-forge-3.0.0-build.13.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/gag",
+      "fileNameOnDisk": "gag-forge-3.0.0-build.13.jar"
+    },
+    {
+      "addon_file_id": 4612683,
+      "addon_name": "ServerConfig Updater",
+      "addon_project_id": 365281,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4612/683/serverconfigupdater-4.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "serverconfigupdater-4.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/serverconfig-updater",
+      "fileNameOnDisk": "serverconfigupdater-4.0.2.jar"
+    },
+    {
+      "addon_file_id": 7221527,
+      "addon_name": "Packet Fixer",
+      "addon_project_id": 689467,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7221/527/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/packet-fixer",
+      "fileNameOnDisk": "packetfixer-3.3.1-1.18-1.20.4-merged.jar"
+    },
+    {
+      "addon_file_id": 5137938,
+      "addon_name": "Architectury API",
+      "addon_project_id": 419699,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5137/938/architectury-9.2.14-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "architectury-9.2.14-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+      "fileNameOnDisk": "architectury-9.2.14-forge.jar"
+    },
+    {
+      "addon_file_id": 7354928,
+      "addon_name": "Ribbits",
+      "addon_project_id": 622967,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7354/928/Ribbits-1.20.1-Forge-3.0.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Ribbits-1.20.1-Forge-3.0.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ribbits",
+      "fileNameOnDisk": "Ribbits-1.20.1-Forge-3.0.5.jar"
+    },
+    {
+      "addon_file_id": 7113231,
+      "addon_name": "Supplementaries",
+      "addon_project_id": 412082,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7113/231/supplementaries-1.20-3.1.41.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "supplementaries-1.20-3.1.41.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+      "fileNameOnDisk": "supplementaries-1.20-3.1.41.jar"
+    },
+    {
+      "addon_file_id": 6907020,
+      "addon_name": "Kiwi 🥝 (Neo/Forge)",
+      "addon_project_id": 303657,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6907/20/Kiwi-1.20.1-Forge-11.9.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Kiwi-1.20.1-Forge-11.9.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/kiwi",
+      "fileNameOnDisk": "Kiwi-1.20.1-Forge-11.9.2.jar"
+    },
+    {
+      "addon_file_id": 4587214,
+      "addon_name": "playerAnimator",
+      "addon_project_id": 658587,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4587/214/player-animation-lib-forge-1.0.2-rc1%2b1.20.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
+      "fileNameOnDisk": "player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+    },
+    {
+      "addon_file_id": 5818385,
+      "addon_name": "Shipping Bin",
+      "addon_project_id": 1058468,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5818/385/ShippingBin-forge-1.20.1-4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ShippingBin-forge-1.20.1-4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/shipping-bin",
+      "fileNameOnDisk": "ShippingBin-forge-1.20.1-4.jar"
+    },
+    {
+      "addon_file_id": 7445417,
+      "addon_name": "Dramatic Doors",
+      "addon_project_id": 380617,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7445/417/DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/dramatic-doors",
+      "fileNameOnDisk": "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar"
+    },
+    {
+      "addon_file_id": 6918987,
+      "addon_name": "FancyMenu",
+      "addon_project_id": 367706,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6918/987/fancymenu_forge_3.7.0_MC_1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fancymenu",
+      "fileNameOnDisk": "fancymenu_forge_3.7.0_MC_1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6404009,
+      "addon_name": "Ok Zoomer - It's Zoom!",
+      "addon_project_id": 354047,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6404/9/ok_zoomer-forge-5.4.0-beta.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ok_zoomer-forge-5.4.0-beta.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ok-zoomer",
+      "fileNameOnDisk": "ok_zoomer-forge-5.4.0-beta.8.jar"
+    },
+    {
+      "addon_file_id": 7443458,
+      "addon_name": "Veggies Delight (A Farmer's Delight Add-on)",
+      "addon_project_id": 1082807,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7443/458/VeggiesDelight-1.20.1-1.9.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "VeggiesDelight-1.20.1-1.9.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/veggies-delight",
+      "fileNameOnDisk": "VeggiesDelight-1.20.1-1.9.2.jar"
+    },
+    {
+      "addon_file_id": 7364652,
+      "addon_name": "TrashSlot",
+      "addon_project_id": 235577,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7364/652/trashslot-forge-1.20.1-15.1.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "trashslot-forge-1.20.1-15.1.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/trashslot",
+      "fileNameOnDisk": "trashslot-forge-1.20.1-15.1.3.jar"
+    },
+    {
+      "addon_file_id": 7378848,
+      "addon_name": "Particle Rain",
+      "addon_project_id": 421897,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7378/848/particlerain-4.0.0-beta.5%2b1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "particlerain-4.0.0-beta.5+1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/particle-rain",
+      "fileNameOnDisk": "particlerain-4.0.0-beta.5+1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 5976109,
+      "addon_name": "Lootr (Forge & NeoForge)",
+      "addon_project_id": 361276,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5976/109/lootr-forge-1.20-0.7.35.90.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "lootr-forge-1.20-0.7.35.90.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lootr",
+      "fileNameOnDisk": "lootr-forge-1.20-0.7.35.90.jar"
+    },
+    {
+      "addon_file_id": 6885853,
+      "addon_name": "Forgified Fabric API",
+      "addon_project_id": 889079,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6885/853/fabric-api-0.92.6%2b1.11.14%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api",
+      "fileNameOnDisk": "fabric-api-0.92.6+1.11.14+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7517593,
+      "addon_name": "MVS - Moog's Voyager Structures",
+      "addon_project_id": 656977,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7517/593/MoogsVoyagerStructures-1.20-5.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "MoogsVoyagerStructures-1.20-5.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures",
+      "fileNameOnDisk": "MoogsVoyagerStructures-1.20-5.0.4.jar"
+    },
+    {
+      "addon_file_id": 7047902,
+      "addon_name": "Simple Recall Potion",
+      "addon_project_id": 1234653,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7047/902/simplerecall-1.0.5-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "simplerecall-1.0.5-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/simple-recall-potion",
+      "fileNameOnDisk": "simplerecall-1.0.5-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6542592,
+      "addon_name": "MoreJS",
+      "addon_project_id": 666198,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6542/592/morejs-forge-1.20.1-0.10.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "morejs-forge-1.20.1-0.10.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/morejs",
+      "fileNameOnDisk": "morejs-forge-1.20.1-0.10.1.jar"
+    },
+    {
+      "addon_file_id": 7191950,
+      "addon_name": "Moonlight Lib",
+      "addon_project_id": 499980,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7191/950/moonlight-1.20-2.16.16-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "moonlight-1.20-2.16.16-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/selene",
+      "fileNameOnDisk": "moonlight-1.20-2.16.16-forge.jar"
+    },
+    {
+      "addon_file_id": 5139065,
+      "addon_name": "Tanuki Decor",
+      "addon_project_id": 953094,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5139/65/tanukidecor-20.1.1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "tanukidecor-20.1.1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/tanukidecor",
+      "fileNameOnDisk": "tanukidecor-20.1.1.0.jar"
+    },
+    {
+      "addon_file_id": 7618171,
+      "addon_name": "Quality Food",
+      "addon_project_id": 973932,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7618/171/quality_food-1.20.1-2.3.0-all.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "quality_food-1.20.1-2.3.0-all.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/quality-food",
+      "fileNameOnDisk": "quality_food-1.20.1-2.3.0-all.jar"
+    },
+    {
+      "addon_file_id": 5840216,
+      "addon_name": "Collective",
+      "addon_project_id": 342584,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5840/216/collective-1.20.1-7.87.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "collective-1.20.1-7.87.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/collective",
+      "fileNameOnDisk": "collective-1.20.1-7.87.jar"
+    },
+    {
+      "addon_file_id": 5429170,
+      "addon_name": "Crafting on a stick",
+      "addon_project_id": 577850,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5429/170/crafting-on-a-stick-1.20.1-1.1.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "crafting-on-a-stick-1.20.1-1.1.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/crafting-on-a-stick",
+      "fileNameOnDisk": "crafting-on-a-stick-1.20.1-1.1.5.jar"
+    },
+    {
+      "addon_file_id": 7291067,
+      "addon_name": "Kotlin for Forge",
+      "addon_project_id": 351264,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7291/67/kotlinforforge-4.12.0-all.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "kotlinforforge-4.12.0-all.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge",
+      "fileNameOnDisk": "kotlinforforge-4.12.0-all.jar"
+    },
+    {
+      "addon_file_id": 7227531,
+      "addon_name": "Longwings",
+      "addon_project_id": 1277025,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7227/531/Longwings-v0.9.4-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Longwings-v0.9.4-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/longwings",
+      "fileNameOnDisk": "Longwings-v0.9.4-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 5769971,
+      "addon_name": "YUNG's API (Forge/NeoForge)",
+      "addon_project_id": 421850,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5769/971/YungsApi-1.20-Forge-4.0.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "YungsApi-1.20-Forge-4.0.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/yungs-api",
+      "fileNameOnDisk": "YungsApi-1.20-Forge-4.0.6.jar"
+    },
+    {
+      "addon_file_id": 7236701,
+      "addon_name": "Zetter — Painting Mod",
+      "addon_project_id": 465532,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7236/701/zetter-1.20.1-0.21.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "zetter-1.20.1-0.21.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/zetter",
+      "fileNameOnDisk": "zetter-1.20.1-0.21.7.jar"
+    },
+    {
+      "addon_file_id": 4716086,
+      "addon_name": "Crash Utilities",
+      "addon_project_id": 371813,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4716/86/crashutilities-8.1.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "crashutilities-8.1.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/crash-utilities",
+      "fileNameOnDisk": "crashutilities-8.1.4.jar"
+    },
+    {
+      "addon_file_id": 5990872,
+      "addon_name": "Creeper Confetti",
+      "addon_project_id": 222548,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5990/872/creeperconfetti-4.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "creeperconfetti-4.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/creeper-confetti",
+      "fileNameOnDisk": "creeperconfetti-4.3.jar"
+    },
+    {
+      "addon_file_id": 5918171,
+      "addon_name": "Diagonal Walls",
+      "addon_project_id": 969422,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5918/171/DiagonalWalls-v8.0.4-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "DiagonalWalls-v8.0.4-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/diagonal-walls",
+      "fileNameOnDisk": "DiagonalWalls-v8.0.4-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 5572449,
+      "addon_name": "GUI Clock",
+      "addon_project_id": 347529,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5572/449/guiclock-1.20.1-4.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "guiclock-1.20.1-4.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/gui-clock",
+      "fileNameOnDisk": "guiclock-1.20.1-4.6.jar"
+    },
+    {
+      "addon_file_id": 5468426,
+      "addon_name": "Titanium",
+      "addon_project_id": 287342,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5468/426/titanium-1.20.1-3.8.32.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "titanium-1.20.1-3.8.32.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/titanium",
+      "fileNameOnDisk": "titanium-1.20.1-3.8.32.jar"
+    },
+    {
+      "addon_file_id": 5403962,
+      "addon_name": "Curious Armor Stands",
+      "addon_project_id": 398784,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5403/962/curious_armor_stands-1.20-5.1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "curious_armor_stands-1.20-5.1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/curious-armor-stands",
+      "fileNameOnDisk": "curious_armor_stands-1.20-5.1.0.jar"
+    },
+    {
+      "addon_file_id": 4574905,
+      "addon_name": "Online Detector (Forge)",
+      "addon_project_id": 454487,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4574/905/online_detector-1.20-6.0.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "online_detector-1.20-6.0.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/online-detector",
+      "fileNameOnDisk": "online_detector-1.20-6.0.0.jar"
+    },
+    {
+      "addon_file_id": 7409704,
+      "addon_name": "Stardew Fishing",
+      "addon_project_id": 1066037,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7409/704/stardew_fishing-3.5-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "stardew_fishing-3.5-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/stardew-fishing",
+      "fileNameOnDisk": "stardew_fishing-3.5-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6393127,
+      "addon_name": "Atmospheric",
+      "addon_project_id": 362393,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6393/127/atmospheric-1.20.1-6.1.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "atmospheric-1.20.1-6.1.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/atmospheric",
+      "fileNameOnDisk": "atmospheric-1.20.1-6.1.1.jar"
+    },
+    {
+      "addon_file_id": 7641116,
+      "addon_name": "Timeline",
+      "addon_project_id": 1454051,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7641/116/rpgtimeline-forge-1.20.1-2.0.4.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "rpgtimeline-forge-1.20.1-2.0.4.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/timeline",
+      "fileNameOnDisk": "rpgtimeline-forge-1.20.1-2.0.4.0.jar"
+    },
+    {
+      "addon_file_id": 7490340,
+      "addon_name": "Colorwheel",
+      "addon_project_id": 1254143,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7490/340/colorwheel-forge-1.2.1%2bmc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "colorwheel-forge-1.2.1+mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/colorwheel",
+      "fileNameOnDisk": "colorwheel-forge-1.2.1+mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7182747,
+      "addon_name": "Oreganized",
+      "addon_project_id": 769203,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7182/747/Oreganized%201.20.1-4.3.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Oreganized 1.20.1-4.3.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/oreganized",
+      "fileNameOnDisk": "Oreganized 1.20.1-4.3.1.jar"
+    },
+    {
+      "addon_file_id": 7527943,
+      "addon_name": "FastSuite",
+      "addon_project_id": 475117,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7527/943/FastSuite-1.20.1-5.1.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "FastSuite-1.20.1-5.1.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fastsuite",
+      "fileNameOnDisk": "FastSuite-1.20.1-5.1.2.jar"
+    },
+    {
+      "addon_file_id": 6164482,
+      "addon_name": "[Let's Do] WilderNature",
+      "addon_project_id": 1071657,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6164/482/letsdo-wildernature-forge-1.0.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-wildernature-forge-1.0.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-wildernature",
+      "fileNameOnDisk": "letsdo-wildernature-forge-1.0.5.jar"
+    },
+    {
+      "addon_file_id": 6201654,
+      "addon_name": "Storage Labels",
+      "addon_project_id": 688223,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6201/654/labels-1.20-2.0.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "labels-1.20-2.0.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/labels",
+      "fileNameOnDisk": "labels-1.20-2.0.0.jar"
+    },
+    {
+      "addon_file_id": 7476570,
+      "addon_name": "Citadel",
+      "addon_project_id": 331936,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7476/570/citadel-2.6.3-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "citadel-2.6.3-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/citadel",
+      "fileNameOnDisk": "citadel-2.6.3-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4618572,
+      "addon_name": "Night Lights",
+      "addon_project_id": 651876,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4618/572/nightlights-1.20.1-1.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "nightlights-1.20.1-1.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/nightlights",
+      "fileNameOnDisk": "nightlights-1.20.1-1.1.jar"
+    },
+    {
+      "addon_file_id": 5423987,
+      "addon_name": "Bookshelf",
+      "addon_project_id": 228525,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5423/987/Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+      "fileNameOnDisk": "Bookshelf-Forge-1.20.1-20.2.13.jar"
+    },
+    {
+      "addon_file_id": 7331172,
+      "addon_name": "Aquaculture 2",
+      "addon_project_id": 60028,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7331/172/Aquaculture-1.20.1-2.5.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Aquaculture-1.20.1-2.5.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/aquaculture",
+      "fileNameOnDisk": "Aquaculture-1.20.1-2.5.7.jar"
+    },
+    {
+      "addon_file_id": 4781709,
+      "addon_name": "Beautify!",
+      "addon_project_id": 633252,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4781/709/beautify-2.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "beautify-2.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/beautify-decorate",
+      "fileNameOnDisk": "beautify-2.0.2.jar"
+    },
+    {
+      "addon_file_id": 6948522,
+      "addon_name": "Sawmill",
+      "addon_project_id": 964817,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6948/522/sawmill-1.20-1.4.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "sawmill-1.20-1.4.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sawmill",
+      "fileNameOnDisk": "sawmill-1.20-1.4.10.jar"
+    },
+    {
+      "addon_file_id": 7178761,
+      "addon_name": "Create",
+      "addon_project_id": 328085,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7178/761/create-1.20.1-6.0.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "create-1.20.1-6.0.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create",
+      "fileNameOnDisk": "create-1.20.1-6.0.8.jar"
+    },
+    {
+      "addon_file_id": 7102154,
+      "addon_name": "Portfolio",
+      "addon_project_id": 851131,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7102/154/portfolio-1.20.1-1.5.0-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "portfolio-1.20.1-1.5.0-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/portfolio",
+      "fileNameOnDisk": "portfolio-1.20.1-1.5.0-forge.jar"
+    },
+    {
+      "addon_file_id": 6998294,
+      "addon_name": "Loot Journal (Forge)",
+      "addon_project_id": 700723,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6998/294/Loot%20Journal-forge-1.20.1-5.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Loot Journal-forge-1.20.1-5.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/loot-journal",
+      "fileNameOnDisk": "Loot Journal-forge-1.20.1-5.0.1.jar"
+    },
+    {
+      "addon_file_id": 5918173,
+      "addon_name": "Diagonal Fences",
+      "addon_project_id": 458048,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5918/173/DiagonalFences-v8.1.5-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "DiagonalFences-v8.1.5-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/diagonal-fences",
+      "fileNameOnDisk": "DiagonalFences-v8.1.5-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 5278538,
+      "addon_name": "Clumps",
+      "addon_project_id": 256717,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+      "fileNameOnDisk": "Clumps-forge-1.20.1-12.0.0.4.jar"
+    },
+    {
+      "addon_file_id": 6164575,
+      "addon_name": "Patchouli",
+      "addon_project_id": 306770,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6164/575/Patchouli-1.20.1-84.1-FORGE.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Patchouli-1.20.1-84.1-FORGE.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/patchouli",
+      "fileNameOnDisk": "Patchouli-1.20.1-84.1-FORGE.jar"
+    },
+    {
+      "addon_file_id": 6938482,
+      "addon_name": "In Control!",
+      "addon_project_id": 257356,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6938/482/incontrol-1.20-9.4.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "incontrol-1.20-9.4.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/in-control",
+      "fileNameOnDisk": "incontrol-1.20-9.4.1.jar"
+    },
+    {
+      "addon_file_id": 7629183,
+      "addon_name": "Splendid Slimes",
+      "addon_project_id": 1240935,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7629/183/splendid_slimes-0.19.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "splendid_slimes-0.19.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/splendid-slimes",
+      "fileNameOnDisk": "splendid_slimes-0.19.1.jar"
+    },
+    {
+      "addon_file_id": 5181098,
+      "addon_name": "FastFurnace",
+      "addon_project_id": 299540,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5181/98/FastFurnace-1.20.1-8.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "FastFurnace-1.20.1-8.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fastfurnace",
+      "fileNameOnDisk": "FastFurnace-1.20.1-8.0.2.jar"
+    },
+    {
+      "addon_file_id": 6631774,
+      "addon_name": "Hopo Better Mineshaft",
+      "addon_project_id": 623723,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6631/774/HopoBetterMineshaft-%5b1.20.1-1.20.4%5d-1.2.2d.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/hopo-better-mineshaft",
+      "fileNameOnDisk": "HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar"
+    },
+    {
+      "addon_file_id": 6431735,
+      "addon_name": "FTB Chunks (NeoForge)",
+      "addon_project_id": 314906,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6431/735/ftb-chunks-forge-2001.3.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ftb-chunks-forge-2001.3.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge",
+      "fileNameOnDisk": "ftb-chunks-forge-2001.3.6.jar"
+    },
+    {
+      "addon_file_id": 5988125,
+      "addon_name": "[Let's Do] Furniture",
+      "addon_project_id": 1062363,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5988/125/letsdo-furniture-forge-1.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-furniture-forge-1.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-furniture",
+      "fileNameOnDisk": "letsdo-furniture-forge-1.0.4.jar"
+    },
+    {
+      "addon_file_id": 7410800,
+      "addon_name": "Sturdy Farmland - Growth Edition",
+      "addon_project_id": 1172429,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7410/800/dew_drop_farmland_growth-6.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "dew_drop_farmland_growth-6.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sturdy-farmland-growth-edition",
+      "fileNameOnDisk": "dew_drop_farmland_growth-6.0.jar"
+    },
+    {
+      "addon_file_id": 7634682,
+      "addon_name": "Create: Copycats+",
+      "addon_project_id": 968398,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7634/682/copycats-3.0.7%2bmc.1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "copycats-3.0.7+mc.1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/copycats",
+      "fileNameOnDisk": "copycats-3.0.7+mc.1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 7227738,
+      "addon_name": "Create Railways Navigator",
+      "addon_project_id": 935929,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7227/738/createrailwaysnavigator-forge-1.20.1-beta-0.8.5-C6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "createrailwaysnavigator-forge-1.20.1-beta-0.8.5-C6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-railways-navigator",
+      "fileNameOnDisk": "createrailwaysnavigator-forge-1.20.1-beta-0.8.5-C6.jar"
+    },
+    {
+      "addon_file_id": 6197443,
+      "addon_name": "Raw's Visual keybinder",
+      "addon_project_id": 1020759,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6197/443/visual_keybinder-1.20.1%20-%200.1.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "visual_keybinder-1.20.1 - 0.1.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/raws-visual-keybinder",
+      "fileNameOnDisk": "visual_keybinder-1.20.1 - 0.1.7.jar"
+    },
+    {
+      "addon_file_id": 6245108,
+      "addon_name": "PandaLib",
+      "addon_project_id": 975460,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6245/108/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/pandalib",
+      "fileNameOnDisk": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar"
+    },
+    {
+      "addon_file_id": 5510356,
+      "addon_name": "JourneyMap Integration",
+      "addon_project_id": 525447,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5510/356/jmi-forge-1.20.1-0.14-48.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "jmi-forge-1.20.1-0.14-48.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/journeymap-integration",
+      "fileNameOnDisk": "jmi-forge-1.20.1-0.14-48.jar"
+    },
+    {
+      "addon_file_id": 6976293,
+      "addon_name": "Relics",
+      "addon_project_id": 445274,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6976/293/relics-1.20.1-0.8.0.11.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "relics-1.20.1-0.8.0.11.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/relics-mod",
+      "fileNameOnDisk": "relics-1.20.1-0.8.0.11.jar"
+    },
+    {
+      "addon_file_id": 5134064,
+      "addon_name": "More Minecarts and Rails",
+      "addon_project_id": 440845,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5134/64/moreminecarts-1.8.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "moreminecarts-1.8.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/more-minecarts",
+      "fileNameOnDisk": "moreminecarts-1.8.3.jar"
+    },
+    {
+      "addon_file_id": 6241090,
+      "addon_name": "Falling Leaves (NeoForge/Forge)",
+      "addon_project_id": 463155,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6241/90/fallingleaves-1.20.1-2.1.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "fallingleaves-1.20.1-2.1.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge",
+      "fileNameOnDisk": "fallingleaves-1.20.1-2.1.2.jar"
+    },
+    {
+      "addon_file_id": 7526036,
+      "addon_name": "Polytone",
+      "addon_project_id": 958094,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7526/36/polytone-1.20-3.5.22.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "polytone-1.20-3.5.22.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/polytone",
+      "fileNameOnDisk": "polytone-1.20-3.5.22.jar"
+    },
+    {
+      "addon_file_id": 5121305,
+      "addon_name": "Hamsters Plus Lite",
+      "addon_project_id": 952435,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5121/305/hamsters-forge-1.0.3-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "hamsters-forge-1.0.3-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/hamsters",
+      "fileNameOnDisk": "hamsters-forge-1.0.3-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4626171,
+      "addon_name": "Refined Storage Addons",
+      "addon_project_id": 272302,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4626/171/refinedstorageaddons-0.10.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "refinedstorageaddons-0.10.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons",
+      "fileNameOnDisk": "refinedstorageaddons-0.10.0.jar"
+    },
+    {
+      "addon_file_id": 4625518,
+      "addon_name": "Pam's HarvestCraft 2 - Trees",
+      "addon_project_id": 365460,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4625/518/pamhc2trees-1.20-1.0.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "pamhc2trees-1.20-1.0.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees",
+      "fileNameOnDisk": "pamhc2trees-1.20-1.0.2.jar"
+    },
+    {
+      "addon_file_id": 4738952,
+      "addon_name": "spark",
+      "addon_project_id": 361579,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4738/952/spark-1.10.53-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "spark-1.10.53-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/spark",
+      "fileNameOnDisk": "spark-1.10.53-forge.jar"
+    },
+    {
+      "addon_file_id": 6855728,
+      "addon_name": "[Let's Do] NetherVinery (unsupported)",
+      "addon_project_id": 930072,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6855/728/letsdo-nethervinery-forge-1.2.19.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-nethervinery-forge-1.2.19.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-nethervinery",
+      "fileNameOnDisk": "letsdo-nethervinery-forge-1.2.19.jar"
+    },
+    {
+      "addon_file_id": 6732854,
+      "addon_name": "Structure Essentials[Forge/Fabric]",
+      "addon_project_id": 832882,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6732/854/structureessentials-1.20.1-4.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "structureessentials-1.20.1-4.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric",
+      "fileNameOnDisk": "structureessentials-1.20.1-4.8.jar"
+    },
+    {
+      "addon_file_id": 6841863,
+      "addon_name": "Little Joys",
+      "addon_project_id": 1235950,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6841/863/littlejoys-forge-1.20.1-20.1.14.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "littlejoys-forge-1.20.1-20.1.14.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/little-joys",
+      "fileNameOnDisk": "littlejoys-forge-1.20.1-20.1.14.jar"
+    },
+    {
+      "addon_file_id": 6231030,
+      "addon_name": "Panda's Falling Trees",
+      "addon_project_id": 880630,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6231/30/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/pandas-falling-trees",
+      "fileNameOnDisk": "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar"
+    },
+    {
+      "addon_file_id": 5566900,
+      "addon_name": "Small Ships [Fabric & Forge]",
+      "addon_project_id": 450659,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5566/900/smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/small-ships",
+      "fileNameOnDisk": "smallships-forge-1.20.1-2.0.0-b1.4.jar"
+    },
+    {
+      "addon_file_id": 5955879,
+      "addon_name": "Cherished Worlds",
+      "addon_project_id": 308240,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5955/879/cherishedworlds-forge-6.1.7%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "cherishedworlds-forge-6.1.7+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cherished-worlds",
+      "fileNameOnDisk": "cherishedworlds-forge-6.1.7+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5981334,
+      "addon_name": "Continuity",
+      "addon_project_id": 531351,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5981/334/continuity-3.0.0%2b1.20.1.forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "continuity-3.0.0+1.20.1.forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/continuity",
+      "fileNameOnDisk": "continuity-3.0.0+1.20.1.forge.jar"
+    },
+    {
+      "addon_file_id": 5853326,
+      "addon_name": "KubeJS",
+      "addon_project_id": 238086,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5853/326/kubejs-forge-2001.6.5-build.16.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "kubejs-forge-2001.6.5-build.16.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/kubejs",
+      "fileNameOnDisk": "kubejs-forge-2001.6.5-build.16.jar"
+    },
+    {
+      "addon_file_id": 7653796,
+      "addon_name": "Society Tweaks",
+      "addon_project_id": 1424785,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7653/796/society-1.14.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "society-1.14.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/society-tweaks",
+      "fileNameOnDisk": "society-1.14.jar"
+    },
+    {
+      "addon_file_id": 5937417,
+      "addon_name": "Bountiful",
+      "addon_project_id": 309516,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5937/417/Bountiful-6.0.4%2b1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Bountiful-6.0.4+1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/bountiful",
+      "fileNameOnDisk": "Bountiful-6.0.4+1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 6315241,
+      "addon_name": "What Are They Up To (Watut)",
+      "addon_project_id": 945479,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6315/241/watut-forge-1.20.1-1.2.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "watut-forge-1.20.1-1.2.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to",
+      "fileNameOnDisk": "watut-forge-1.20.1-1.2.3.jar"
+    },
+    {
+      "addon_file_id": 4654234,
+      "addon_name": "Mystical Oak Tree",
+      "addon_project_id": 691002,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4654/234/mysticaloaktree-1.20-1.11.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "mysticaloaktree-1.20-1.11.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mystical-oak-tree",
+      "fileNameOnDisk": "mysticaloaktree-1.20-1.11.jar"
+    },
+    {
+      "addon_file_id": 6274674,
+      "addon_name": "Jade Addons (Neo/Forge)",
+      "addon_project_id": 583345,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6274/674/JadeAddons-1.20.1-Forge-5.5.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "JadeAddons-1.20.1-Forge-5.5.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/jade-addons",
+      "fileNameOnDisk": "JadeAddons-1.20.1-Forge-5.5.0.jar"
+    },
+    {
+      "addon_file_id": 7110922,
+      "addon_name": "MrCrayfish's Furniture Mod: Refurbished",
+      "addon_project_id": 897116,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7110/922/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture",
+      "fileNameOnDisk": "refurbished_furniture-forge-1.20.1-1.0.20.jar"
+    },
+    {
+      "addon_file_id": 7596353,
+      "addon_name": "Farmer's Delight",
+      "addon_project_id": 398521,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7596/353/FarmersDelight-1.20.1-1.2.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "FarmersDelight-1.20.1-1.2.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+      "fileNameOnDisk": "FarmersDelight-1.20.1-1.2.10.jar"
+    },
+    {
+      "addon_file_id": 6672642,
+      "addon_name": "Immersive Paintings [Fabric/Forge]",
+      "addon_project_id": 639584,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6672/642/immersive_paintings-0.6.8%2b1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "immersive_paintings-0.6.8+1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/immersive-paintings",
+      "fileNameOnDisk": "immersive_paintings-0.6.8+1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 7450465,
+      "addon_name": "Certain Questing Additions",
+      "addon_project_id": 1372051,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7450/465/certain_questing_additions-forge-1.1.3%2bmc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "certain_questing_additions-forge-1.1.3+mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions",
+      "fileNameOnDisk": "certain_questing_additions-forge-1.1.3+mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5729105,
+      "addon_name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "addon_project_id": 348521,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5729/105/cloth-config-11.1.136-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "cloth-config-11.1.136-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+      "fileNameOnDisk": "cloth-config-11.1.136-forge.jar"
+    },
+    {
+      "addon_file_id": 7632353,
+      "addon_name": "Serene Seasons Fix - Revived",
+      "addon_project_id": 1462779,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7632/353/sereneseasonsfix-1.20.1-1.2.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "sereneseasonsfix-1.20.1-1.2.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix-revived",
+      "fileNameOnDisk": "sereneseasonsfix-1.20.1-1.2.0.jar"
+    },
+    {
+      "addon_file_id": 5928029,
+      "addon_name": "Snowy Spirit",
+      "addon_project_id": 566142,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5928/29/snowyspirit-1.20-3.0.10.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "snowyspirit-1.20-3.0.10.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/snowy-spirit",
+      "fileNameOnDisk": "snowyspirit-1.20-3.0.10.jar"
+    },
+    {
+      "addon_file_id": 6427817,
+      "addon_name": "Quark",
+      "addon_project_id": 243121,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6427/817/Quark-4.0-462.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Quark-4.0-462.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/quark",
+      "fileNameOnDisk": "Quark-4.0-462.jar"
+    },
+    {
+      "addon_file_id": 5350440,
+      "addon_name": "PolyLib",
+      "addon_project_id": 576589,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5350/440/polylib-forge-2000.0.3-build.143.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "polylib-forge-2000.0.3-build.143.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/polylib",
+      "fileNameOnDisk": "polylib-forge-2000.0.3-build.143.jar"
+    },
+    {
+      "addon_file_id": 7069249,
+      "addon_name": "FindMe",
+      "addon_project_id": 291936,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7069/249/findme-3.2.3-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "findme-3.2.3-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/findme",
+      "fileNameOnDisk": "findme-3.2.3-forge.jar"
+    },
+    {
+      "addon_file_id": 4903601,
+      "addon_name": "VerdantVibes",
+      "addon_project_id": 917969,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4903/601/verdantvibes-1.0.3-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "verdantvibes-1.0.3-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/verdantvibes",
+      "fileNameOnDisk": "verdantvibes-1.0.3-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 6933197,
+      "addon_name": "SeasonHUD",
+      "addon_project_id": 690971,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6933/197/seasonhud-forge-1.20.1-1.13.9.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "seasonhud-forge-1.20.1-1.13.9.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/seasonhud",
+      "fileNameOnDisk": "seasonhud-forge-1.20.1-1.13.9.jar"
+    },
+    {
+      "addon_file_id": 7058899,
+      "addon_name": "Whimsy Deco",
+      "addon_project_id": 1351466,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7058/899/whimsy_deco-1.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "whimsy_deco-1.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/whimsy-deco",
+      "fileNameOnDisk": "whimsy_deco-1.1.jar"
+    },
+    {
+      "addon_file_id": 6782138,
+      "addon_name": "Additional Attributes",
+      "addon_project_id": 986624,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6782/138/additional_attributes-1.20.1-1.3.6-all.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "additional_attributes-1.20.1-1.3.6-all.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/additional-attributes",
+      "fileNameOnDisk": "additional_attributes-1.20.1-1.3.6-all.jar"
+    },
+    {
+      "addon_file_id": 4711316,
+      "addon_name": "Toast Control",
+      "addon_project_id": 271740,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4711/316/ToastControl-1.20.1-8.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ToastControl-1.20.1-8.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/toast-control",
+      "fileNameOnDisk": "ToastControl-1.20.1-8.0.3.jar"
+    },
+    {
+      "addon_file_id": 5999495,
+      "addon_name": "Etched",
+      "addon_project_id": 491890,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5999/495/etched-3.0.4.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "etched-3.0.4.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/etched",
+      "fileNameOnDisk": "etched-3.0.4.jar"
+    },
+    {
+      "addon_file_id": 5849456,
+      "addon_name": "Torchmaster",
+      "addon_project_id": 254268,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5849/456/torchmaster-20.1.9.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "torchmaster-20.1.9.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/torchmaster",
+      "fileNameOnDisk": "torchmaster-20.1.9.jar"
+    },
+    {
+      "addon_file_id": 6858579,
+      "addon_name": "Structurify",
+      "addon_project_id": 1087551,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6858/579/structurify-forge-1.0.21%2bmc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "structurify-forge-1.0.21+mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/structurify",
+      "fileNameOnDisk": "structurify-forge-1.0.21+mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5817338,
+      "addon_name": "KubeJS Additions",
+      "addon_project_id": 594387,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5817/338/kubejsadditions-forge-4.3.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "kubejsadditions-forge-4.3.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/kubejs-additions",
+      "fileNameOnDisk": "kubejsadditions-forge-4.3.3.jar"
+    },
+    {
+      "addon_file_id": 7047189,
+      "addon_name": "Horseman",
+      "addon_project_id": 1082085,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7047/189/horseman-1.20.1-1.3.14-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "horseman-1.20.1-1.3.14-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/horseman",
+      "fileNameOnDisk": "horseman-1.20.1-1.3.14-forge.jar"
+    },
+    {
+      "addon_file_id": 4770828,
+      "addon_name": "AppleSkin",
+      "addon_project_id": 248787,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4770/828/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+      "fileNameOnDisk": "appleskin-forge-mc1.20.1-2.5.1.jar"
+    },
+    {
+      "addon_file_id": 6945288,
+      "addon_name": "More Overlays Updated",
+      "addon_project_id": 391382,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6945/288/moreoverlays-1.24.1-mc1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "moreoverlays-1.24.1-mc1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated",
+      "fileNameOnDisk": "moreoverlays-1.24.1-mc1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 4613497,
+      "addon_name": "Automobility",
+      "addon_project_id": 658286,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4613/497/automobility-0.4.2%2b1.20.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "automobility-0.4.2+1.20.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/automobility",
+      "fileNameOnDisk": "automobility-0.4.2+1.20.1-forge.jar"
+    },
+    {
+      "addon_file_id": 5789363,
+      "addon_name": "JourneyMap",
+      "addon_project_id": 32274,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5789/363/journeymap-1.20.1-5.10.3-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "journeymap-1.20.1-5.10.3-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
+      "fileNameOnDisk": "journeymap-1.20.1-5.10.3-forge.jar"
+    },
+    {
+      "addon_file_id": 7529230,
+      "addon_name": "FTB Quest Localizer",
+      "addon_project_id": 1071737,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7529/230/ftbquestlocalizer-1.20.1-forge-3.2.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ftbquestlocalizer-1.20.1-forge-3.2.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ftb-quest-localizer",
+      "fileNameOnDisk": "ftbquestlocalizer-1.20.1-forge-3.2.3.jar"
+    },
+    {
+      "addon_file_id": 7608120,
+      "addon_name": "Sophisticated Backpacks",
+      "addon_project_id": 422301,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7608/120/sophisticatedbackpacks-1.20.1-3.24.23.1529.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "sophisticatedbackpacks-1.20.1-3.24.23.1529.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks",
+      "fileNameOnDisk": "sophisticatedbackpacks-1.20.1-3.24.23.1529.jar"
+    },
+    {
+      "addon_file_id": 5572902,
+      "addon_name": "Biome Spawn Point",
+      "addon_project_id": 695238,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5572/902/biomespawnpoint-1.20.1-2.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "biomespawnpoint-1.20.1-2.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/biome-spawn-point",
+      "fileNameOnDisk": "biomespawnpoint-1.20.1-2.3.jar"
+    },
+    {
+      "addon_file_id": 6368313,
+      "addon_name": "Pipez",
+      "addon_project_id": 443900,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6368/313/pipez-forge-1.20.1-1.2.21.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "pipez-forge-1.20.1-1.2.21.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/pipez",
+      "fileNameOnDisk": "pipez-forge-1.20.1-1.2.21.jar"
+    },
+    {
+      "addon_file_id": 7594389,
+      "addon_name": "Sinytra Connector",
+      "addon_project_id": 890127,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7594/389/Connector-1.0.0-beta.48%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "Connector-1.0.0-beta.48+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sinytra-connector",
+      "fileNameOnDisk": "Connector-1.0.0-beta.48+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4650227,
+      "addon_name": "Bobby Reforged",
+      "addon_project_id": 883502,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4650/227/bobby-1.20.1_v5.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "bobby-1.20.1_v5.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/bobby-reforged",
+      "fileNameOnDisk": "bobby-1.20.1_v5.0.1.jar"
+    },
+    {
+      "addon_file_id": 6418456,
+      "addon_name": "Curios API (Forge/NeoForge)",
+      "addon_project_id": 309927,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6418/456/curios-forge-5.14.1%2b1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "curios-forge-5.14.1+1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/curios",
+      "fileNameOnDisk": "curios-forge-5.14.1+1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4702176,
+      "addon_name": "Fantasy's Furniture",
+      "addon_project_id": 579564,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4702/176/fantasyfurniture-1.20.1-9.0.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "fantasyfurniture-1.20.1-9.0.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture",
+      "fileNameOnDisk": "fantasyfurniture-1.20.1-9.0.0.jar"
+    },
+    {
+      "addon_file_id": 6655718,
+      "addon_name": "Exposure",
+      "addon_project_id": 871755,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6655/718/exposure-1.20.1-1.7.16-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "exposure-1.20.1-1.7.16-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/exposure",
+      "fileNameOnDisk": "exposure-1.20.1-1.7.16-forge.jar"
+    },
+    {
+      "addon_file_id": 6353856,
+      "addon_name": "Botania Seeds",
+      "addon_project_id": 1197807,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6353/856/botania_seeds-1.1.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "botania_seeds-1.1.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/botania-seeds",
+      "fileNameOnDisk": "botania_seeds-1.1.1.jar"
+    },
+    {
+      "addon_file_id": 6336745,
+      "addon_name": "Rotten Creatures",
+      "addon_project_id": 371033,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6336/745/rottencreatures-forge-1.20.1-1.1.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "rottencreatures-forge-1.20.1-1.1.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/rotten-creatures",
+      "fileNameOnDisk": "rottencreatures-forge-1.20.1-1.1.0.jar"
+    },
+    {
+      "addon_file_id": 6944732,
+      "addon_name": "Create Mechanical Extruder",
+      "addon_project_id": 686100,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6944/732/create_mecanical_extruder-1.20.1-1.6.11-6.0.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "create_mecanical_extruder-1.20.1-1.6.11-6.0.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-mechanical-extruder",
+      "fileNameOnDisk": "create_mecanical_extruder-1.20.1-1.6.11-6.0.6.jar"
+    },
+    {
+      "addon_file_id": 4810975,
+      "addon_name": "FerriteCore ((Neo)Forge)",
+      "addon_project_id": 429235,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "ferritecore-6.0.1-forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
+      "fileNameOnDisk": "ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "addon_file_id": 5375681,
+      "addon_name": "Fast Leaf Decay",
+      "addon_project_id": 230976,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5375/681/FastLeafDecay-32.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "FastLeafDecay-32.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay",
+      "fileNameOnDisk": "FastLeafDecay-32.jar"
+    },
+    {
+      "addon_file_id": 5824482,
+      "addon_name": "[Let's Do] Bakery - Farm&Charm Compat",
+      "addon_project_id": 1038130,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5824/482/letsdo-bakery-forge-2.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "letsdo-bakery-forge-2.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat",
+      "fileNameOnDisk": "letsdo-bakery-forge-2.0.3.jar"
+    },
+    {
+      "addon_file_id": 5816336,
+      "addon_name": "Spice of Life Onion",
+      "addon_project_id": 878047,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5816/336/SoLOnion_FORGE_v1.4.5_mc1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "SoLOnion_FORGE_v1.4.5_mc1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/spice-of-life-onion",
+      "fileNameOnDisk": "SoLOnion_FORGE_v1.4.5_mc1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4721662,
+      "addon_name": "Alternate Current",
+      "addon_project_id": 548115,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4721/662/alternate_current-mc1.20-1.7.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "alternate_current-mc1.20-1.7.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/alternate-current",
+      "fileNameOnDisk": "alternate_current-mc1.20-1.7.0.jar"
+    },
+    {
+      "addon_file_id": 5167239,
+      "addon_name": "Rainbow Oaks Renewed",
+      "addon_project_id": 984099,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5167/239/rainbowoaks-forge-1.20-1.0.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "rainbowoaks-forge-1.20-1.0.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/rainbow-oaks-3",
+      "fileNameOnDisk": "rainbowoaks-forge-1.20-1.0.0.jar"
+    },
+    {
+      "addon_file_id": 7454498,
+      "addon_name": "Crafting Tweaks",
+      "addon_project_id": 233071,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7454/498/craftingtweaks-forge-1.20.1-18.2.8.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "craftingtweaks-forge-1.20.1-18.2.8.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks",
+      "fileNameOnDisk": "craftingtweaks-forge-1.20.1-18.2.8.jar"
+    },
+    {
+      "addon_file_id": 6100812,
+      "addon_name": "Sodium/Embeddium Options API",
+      "addon_project_id": 1103431,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6100/812/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sodium-options-api",
+      "fileNameOnDisk": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 7570011,
+      "addon_name": "Untitled Duck Mod (Forge)",
+      "addon_project_id": 451789,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7570/11/untitledduckmod-1.5.2-forge-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "untitledduckmod-1.5.2-forge-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/untitled-duck-mod-forge",
+      "fileNameOnDisk": "untitledduckmod-1.5.2-forge-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 4613293,
+      "addon_name": "Leaves Be Gone",
+      "addon_project_id": 686435,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4613/293/LeavesBeGone-v8.0.0-1.20.1-Forge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "LeavesBeGone-v8.0.0-1.20.1-Forge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone",
+      "fileNameOnDisk": "LeavesBeGone-v8.0.0-1.20.1-Forge.jar"
+    },
+    {
+      "addon_file_id": 6044481,
+      "addon_name": "Sodium/Embeddium Dynamic Lights",
+      "addon_project_id": 551736,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6044/481/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged",
+      "fileNameOnDisk": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+    },
+    {
+      "addon_file_id": 5301670,
+      "addon_name": "Snow Pig [Forge]",
+      "addon_project_id": 410500,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5301/670/snowpig-1.20.1-6.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "snowpig-1.20.1-6.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/snow-pig",
+      "fileNameOnDisk": "snowpig-1.20.1-6.0.3.jar"
+    },
+    {
+      "addon_file_id": 7159834,
+      "addon_name": "Create Factory Logistics",
+      "addon_project_id": 1218807,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7159/834/create_factory_logistics-1.20.1-1.4.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\mods",
+      "version": "create_factory_logistics-1.20.1-1.4.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/create-factory-logistics",
+      "fileNameOnDisk": "create_factory_logistics-1.20.1-1.4.7.jar"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "addon_file_id": 7387390,
+      "addon_name": "Angel's Font",
+      "addon_project_id": 1239428,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7387/390/Angel%27s_Font_v0.8.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "Angel's_Font_v0.8.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/angels-font",
+      "fileNameOnDisk": "Angel's_Font_v0.8.zip"
+    },
+    {
+      "addon_file_id": 5656300,
+      "addon_name": "Icon Journey",
+      "addon_project_id": 978219,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5656/300/Icon%20Journey%201.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "Icon Journey 1.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/icon-journey",
+      "fileNameOnDisk": "Icon Journey 1.1.zip"
+    },
+    {
+      "addon_file_id": 7352023,
+      "addon_name": "Fresh Animations",
+      "addon_project_id": 453763,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7352/23/FreshAnimations_v1.10.3.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "FreshAnimations_v1.10.3.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fresh-animations",
+      "fileNameOnDisk": "FreshAnimations_v1.10.3.zip"
+    },
+    {
+      "addon_file_id": 7216337,
+      "addon_name": "Grassy Grass",
+      "addon_project_id": 1383776,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7216/337/%c2%a72Grassy%c2%a70_%c2%a72Grass%c2%a70_%c2%a78%5bv1%5d%c2%a70.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "§2Grassy§0_§2Grass§0_§8[v1]§0.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/grassy-grass",
+      "fileNameOnDisk": "§2Grassy§0_§2Grass§0_§8[v1]§0.zip"
+    },
+    {
+      "addon_file_id": 4784566,
+      "addon_name": "Better Cats",
+      "addon_project_id": 683123,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4784/566/Better_Cats_V0.09.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "Better_Cats_V0.09.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/better-cats-minecraft",
+      "fileNameOnDisk": "Better_Cats_V0.09.zip"
+    },
+    {
+      "addon_file_id": 6155118,
+      "addon_name": "Stardew Valley Theme for Jade",
+      "addon_project_id": 897337,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6155/118/JadeStardewValleyTheme.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "JadeStardewValleyTheme.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/stardew-valley-theme-for-jade",
+      "fileNameOnDisk": "JadeStardewValleyTheme.zip"
+    },
+    {
+      "addon_file_id": 5284016,
+      "addon_name": "Adventurer's Chest (Lootr)",
+      "addon_project_id": 704616,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5284/16/Adventurer%27sChest_v2%5bLootr%5d.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "Adventurer'sChest_v2[Lootr].zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/adventurers-chest-lootr",
+      "fileNameOnDisk": "Adventurer'sChest_v2[Lootr].zip"
+    },
+    {
+      "addon_file_id": 4691998,
+      "addon_name": "Lopy's Create Style Pipez",
+      "addon_project_id": 901091,
+      "cdn_download_url": "https://edge.forgecdn.net/files/4691/998/Lopy-Create-Pipez.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "Lopy-Create-Pipez.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/create-pipez",
+      "fileNameOnDisk": "Lopy-Create-Pipez.zip"
+    },
+    {
+      "addon_file_id": 6445218,
+      "addon_name": "Fairy Wings Elytra",
+      "addon_project_id": 1246471,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6445/218/Fairy%20Wings%20Elytra.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "Fairy Wings Elytra.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fairy-wings-elytra",
+      "fileNameOnDisk": "Fairy Wings Elytra.zip"
+    },
+    {
+      "addon_file_id": 5170422,
+      "addon_name": "JourneyMap Extended Mob Icons",
+      "addon_project_id": 985057,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5170/422/JourneyMap%20Extended%20Mob%20Icons%20v2.0.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "JourneyMap Extended Mob Icons v2.0.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/journeymap-extended-mob-icons",
+      "fileNameOnDisk": "JourneyMap Extended Mob Icons v2.0.zip"
+    },
+    {
+      "addon_file_id": 7292372,
+      "addon_name": "Fresh Animations: Extensions",
+      "addon_project_id": 813608,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7292/372/FA%2bAll_Extensions-v1.7.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "FA+All_Extensions-v1.7.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fresh-animations-extensions",
+      "fileNameOnDisk": "FA+All_Extensions-v1.7.zip"
+    },
+    {
+      "addon_file_id": 6105672,
+      "addon_name": "Fresh Moves",
+      "addon_project_id": 990406,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6105/672/-1.21.2%20Fresh%20Moves%20v3.1%20(With%20Animated%20Eyes).zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fresh-moves",
+      "fileNameOnDisk": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+    },
+    {
+      "addon_file_id": 7200986,
+      "addon_name": "Reimagined | Fresh Animations Patch",
+      "addon_project_id": 634130,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7200/986/%c2%a7aReimagined%c2%a78-%c2%a7aFA-PATCH%c2%a70.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "§aReimagined§8-§aFA-PATCH§0.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/reimagined-fresh-animations-patch",
+      "fileNameOnDisk": "§aReimagined§8-§aFA-PATCH§0.zip"
+    },
+    {
+      "addon_file_id": 5268152,
+      "addon_name": "Reimagined Fixes",
+      "addon_project_id": 492712,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5268/152/%c2%a76Reimagined%c2%a70_%c2%a76Fixes%c2%a70_%c2%a78%5bv1.1%5d%c2%a70.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "§6Reimagined§0_§6Fixes§0_§8[v1.1]§0.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/reimagined-fixes",
+      "fileNameOnDisk": "§6Reimagined§0_§6Fixes§0_§8[v1.1]§0.zip"
+    },
+    {
+      "addon_file_id": 6392870,
+      "addon_name": "Updated Aquaculture",
+      "addon_project_id": 640645,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6392/870/updated_aquaculture-1.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "updated_aquaculture-1.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/aquaculture-updated",
+      "fileNameOnDisk": "updated_aquaculture-1.1.zip"
+    },
+    {
+      "addon_file_id": 7456429,
+      "addon_name": "Glow Up - Emissive Ores",
+      "addon_project_id": 1162010,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7456/429/glow_up-1.5-1.20.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "glow_up-1.5-1.20.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/glow-up",
+      "fileNameOnDisk": "glow_up-1.5-1.20.1.zip"
+    },
+    {
+      "addon_file_id": 7653206,
+      "addon_name": "Reimagined",
+      "addon_project_id": 477204,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7653/206/%c2%a7aReimagined%c2%a70_%c2%a78%5bv1.61%5d%c2%a70.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "§aReimagined§0_§8[v1.61]§0.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/minecraft-reimagined",
+      "fileNameOnDisk": "§aReimagined§0_§8[v1.61]§0.zip"
+    },
+    {
+      "addon_file_id": 6868450,
+      "addon_name": "Longwing Nuker",
+      "addon_project_id": 1324038,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6868/450/longwing_nuker.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "longwing_nuker.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/longwing-nuker",
+      "fileNameOnDisk": "longwing_nuker.zip"
+    },
+    {
+      "addon_file_id": 6157360,
+      "addon_name": "Create Style Sophisticated Backpacks",
+      "addon_project_id": 899330,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6157/360/CreateSophisticatedBackpacks.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "CreateSophisticatedBackpacks.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/create-sophisticated-backpacks",
+      "fileNameOnDisk": "CreateSophisticatedBackpacks.zip"
+    },
+    {
+      "addon_file_id": 5560059,
+      "addon_name": "Mob Crates",
+      "addon_project_id": 1068335,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5560/59/MobCrates_1.20.1_v1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "MobCrates_1.20.1_v1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/mob-crates",
+      "fileNameOnDisk": "MobCrates_1.20.1_v1.zip"
+    },
+    {
+      "addon_file_id": 6102638,
+      "addon_name": "Extra Flowery GUI",
+      "addon_project_id": 1114790,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6102/638/Extra%20Flowery%20GUI.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "Extra Flowery GUI.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/extra-flowery-gui",
+      "fileNameOnDisk": "Extra Flowery GUI.zip"
+    },
+    {
+      "addon_file_id": 6102487,
+      "addon_name": "Overgrown Flowery GUI",
+      "addon_project_id": 627173,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6102/487/Overgrown%20Flowery%20GUI.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "Overgrown Flowery GUI.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/overgrown-flowery-gui",
+      "fileNameOnDisk": "Overgrown Flowery GUI.zip"
+    },
+    {
+      "addon_file_id": 6168001,
+      "addon_name": "Create Style for Refined Storage",
+      "addon_project_id": 941802,
+      "cdn_download_url": "https://edge.forgecdn.net/files/6168/1/Create%20Style%20for%20Refined%20Storage.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "Create Style for Refined Storage.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/create-style-for-refined-storage",
+      "fileNameOnDisk": "Create Style for Refined Storage.zip"
+    },
+    {
+      "addon_file_id": 5801228,
+      "addon_name": "Stardewful Plaques",
+      "addon_project_id": 1119120,
+      "cdn_download_url": "https://edge.forgecdn.net/files/5801/228/Stardew_plaques%20v1.0.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\resourcepacks",
+      "version": "Stardew_plaques v1.0.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/stardewful-plaques",
+      "fileNameOnDisk": "Stardew_plaques v1.0.zip"
+    }
+  ],
+  "shaderpacks": [
+    {
+      "addon_file_id": 7090226,
+      "addon_name": "Complementary Shaders - Reimagined",
+      "addon_project_id": 627557,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7090/226/ComplementaryReimagined_r5.6.1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\Society Sunlit Valley\\shaderpacks",
+      "version": "ComplementaryReimagined_r5.6.1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/shaders/complementary-reimagined",
+      "fileNameOnDisk": "ComplementaryReimagined_r5.6.1.zip"
+    }
+  ],
+  "datapacks": [],
+  "config_files": []
+}
