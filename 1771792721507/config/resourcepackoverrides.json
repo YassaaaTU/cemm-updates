@@ -1,0 +1,89 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "vanilla",
+    "mod_resources",
+    "fabric",
+    "Moonlight Mods Dynamic Assets",
+    "file/sunlit_overrides.zip",
+    "file/Lopy-Create-Pipez.zip",
+    "file/glow_up-1.5-1.20.1.zip",
+    "file/Icon Journey 1.1.zip",
+    "file/JourneyMap Extended Mob Icons v2.0.zip",
+    "file/updated_aquaculture-1.1.zip",
+    "file/MobCrates_1.20.1_v1.zip",
+    "file/JadeStardewValleyTheme.zip",
+    "file/Stardew_plaques v1.0.zip",
+    "file/CreateSophisticatedBackpacks.zip",
+    "file/Create Simple Storage 2.1.zip",
+    "file/Better tom's create storage 1.1.zip",
+    "file/Fairy Wings Elytra.zip",
+    "file/Better_Cats_V0.09.zip",
+    "file/Create Style for Refined Storage.zip",
+    "file/FreshAnimations_v1.10.3.zip",
+    "file/FA+All_Extensions-v1.7.zip",
+    "file/FA+Player-v1.0.zip",
+    "file/\u00A7aReimagined\u00A70_\u00A78[v1.61]\u00A70.zip",
+    "file/\u00A7aReimagined\u00A78-\u00A7aFA-PATCH\u00A70.zip",
+    "vanillabackport:freshly_animated",
+    "file/Overgrown Flowery GUI.zip",
+    "file/Extra Flowery GUI.zip",
+    "file/Angel's_Font_v0.8.zip",
+    "file/Adventurer'sChest_v2[Lootr].zip",
+    "vinery:bushy_leaves",
+    "builtin/crittersandcompanions"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "1": [
+    "vanilla",
+    "mod_resources",
+    "fabric",
+    "file/sunlit_overrides.zip",
+    "file/Lopy-Create-Pipez.zip",
+    "file/glow_up-1.5-1.20.1.zip",
+    "file/Icon Journey 1.1.zip",
+    "file/JourneyMap Extended Mob Icons v2.0.zip",
+    "file/updated_aquaculture-1.1.zip",
+    "file/MobCrates_1.20.1_v1.zip",
+    "file/JadeStardewValleyTheme.zip",
+    "file/Stardew_plaques v1.0.zip",
+    "file/CreateSophisticatedBackpacks.zip",
+    "file/Create Simple Storage 2.1.zip",
+    "file/Better tom's create storage 1.1.zip",
+    "file/Fairy Wings Elytra.zip",
+    "file/Better_Cats_V0.09.zip",
+    "file/Create Style for Refined Storage.zip"
+  ],
+    "$$1": {
+      "hidden": false,
+      "required": true,
+      "fixed_position": true,
+      "default_position": "BOTTOM",
+      "force_compatible": true
+
+    },
+    "2": [
+      "file/FreshAnimations_v1.10.3.zip",
+      "file/FA+All_Extensions-v1.7.zip",
+      "file/FA+Player-v1.0.zip",
+      "file/\u00A7aReimagined\u00A70_\u00A78[v1.61]\u00A70.zip",
+      "file/\u00A7aReimagined\u00A78-\u00A7aFA-PATCH\u00A70.zip",
+      "vanillabackport:freshly_animated",
+      "file/Overgrown Flowery GUI.zip",
+      "file/Extra Flowery GUI.zip",
+      "file/Angel's_Font_v0.8.zip",
+      "file/Adventurer'sChest_v2[Lootr].zip",
+      "vinery:bushy_leaves",
+      "builtin/crittersandcompanions"
+    ],
+    "$$2": {
+      "hidden": false,
+      "required": false,
+      "force_compatible": true
+    }
+  }
+}
