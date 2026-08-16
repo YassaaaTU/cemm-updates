@@ -1,4 +1,5 @@
 {
+  "updateType": "full",
   "mods": [
     {
       "addon_file_id": 8628891,
@@ -881,17 +882,6 @@
       "fileNameOnDisk": "wirelesschargers-1.0.9a-neoforge-mc1.21.jar"
     },
     {
-      "addon_file_id": 6407807,
-      "addon_name": "Inventory Tweaks - ReFoxed",
-      "addon_project_id": 976858,
-      "cdn_download_url": "https://edge.forgecdn.net/files/6407/807/invtweaks-1.21.1-1.3.2.jar",
-      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\All the Mods 10 - ATM10 (4)\\mods",
-      "version": "invtweaks-1.21.1-1.3.2.jar",
-      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed",
-      "disabled": true,
-      "fileNameOnDisk": "invtweaks-1.21.1-1.3.2.jar"
-    },
-    {
       "addon_file_id": 8243791,
       "addon_name": "StarbuncleMania",
       "addon_project_id": 746215,
@@ -1680,17 +1670,6 @@
       "version": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
       "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/euphoria-patches",
       "fileNameOnDisk": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar"
-    },
-    {
-      "addon_file_id": 7583320,
-      "addon_name": "Accessories",
-      "addon_project_id": 938917,
-      "cdn_download_url": "https://edge.forgecdn.net/files/7583/320/accessories-neoforge-1.1.0-beta.53%2b1.21.1.jar",
-      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\All the Mods 10 - ATM10 (4)\\mods",
-      "version": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
-      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/accessories",
-      "disabled": true,
-      "fileNameOnDisk": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
     },
     {
       "addon_file_id": 6316527,
@@ -2541,6 +2520,16 @@
       "version": "EdivadLib-1.21-3.0.0.jar",
       "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/edivadlib",
       "fileNameOnDisk": "EdivadLib-1.21-3.0.0.jar"
+    },
+    {
+      "addon_file_id": 8590971,
+      "addon_name": "Legendary Tabs",
+      "addon_project_id": 1172469,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8590/971/legendarytabs-1.21.1-2.0.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\All the Mods 10 - ATM10 (4)\\mods",
+      "version": "legendarytabs-1.21.1-2.0.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/legendary-tabs",
+      "fileNameOnDisk": "legendarytabs-1.21.1-2.0.jar"
     },
     {
       "addon_file_id": 8459650,
@@ -3581,17 +3570,6 @@
       "version": "productivebees-1.21.1-13.13.5.jar",
       "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/productivebees",
       "fileNameOnDisk": "productivebees-1.21.1-13.13.5.jar"
-    },
-    {
-      "addon_file_id": 7965880,
-      "addon_name": "Simple Backups",
-      "addon_project_id": 583228,
-      "cdn_download_url": "https://edge.forgecdn.net/files/7965/880/SimpleBackups-1.21-4.0.30.jar",
-      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\All the Mods 10 - ATM10 (4)\\mods",
-      "version": "SimpleBackups-1.21-4.0.30.jar",
-      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/simple-backups",
-      "disabled": true,
-      "fileNameOnDisk": "SimpleBackups-1.21-4.0.30.jar"
     },
     {
       "addon_file_id": 8335560,
@@ -5319,5 +5297,18 @@
       "fileNameOnDisk": "curio-slot-for-lantern.zip"
     }
   ],
-  "config_files": []
+  "config_files": [
+    {
+      "filename": "freecam.json5",
+      "relative_path": "config/freecam.json5"
+    },
+    {
+      "filename": "ftbchunks-world.snbt",
+      "relative_path": "config/ftbchunks-world.snbt"
+    },
+    {
+      "filename": "frameable.json",
+      "relative_path": "kubejs/data/framedblocks/tags/block/frameable.json"
+    }
+  ]
 }
