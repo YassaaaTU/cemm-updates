@@ -1,5 +1,4 @@
 {
-  "updateType": "full",
   "mods": [
     {
       "addon_file_id": 8628891,
@@ -1690,6 +1689,7 @@
       "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\All the Mods 10 - ATM10 (4)\\mods",
       "version": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
       "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/accessories",
+      "disabled": true,
       "fileNameOnDisk": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
     },
     {
@@ -2543,16 +2543,6 @@
       "fileNameOnDisk": "EdivadLib-1.21-3.0.0.jar"
     },
     {
-      "addon_file_id": 8590971,
-      "addon_name": "Legendary Tabs",
-      "addon_project_id": 1172469,
-      "cdn_download_url": "https://edge.forgecdn.net/files/8590/971/legendarytabs-1.21.1-2.0.jar",
-      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\All the Mods 10 - ATM10 (4)\\mods",
-      "version": "legendarytabs-1.21.1-2.0.jar",
-      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/legendary-tabs",
-      "fileNameOnDisk": "legendarytabs-1.21.1-2.0.jar"
-    },
-    {
       "addon_file_id": 8459650,
       "addon_name": "ModernFix",
       "addon_project_id": 790626,
@@ -2973,14 +2963,14 @@
       "fileNameOnDisk": "waystones-neoforge-1.21.1-21.1.40.jar"
     },
     {
-      "addon_file_id": 8638293,
+      "addon_file_id": 8660377,
       "addon_name": "Sophisticated Inventory Interactions",
       "addon_project_id": 1491239,
-      "cdn_download_url": "https://edge.forgecdn.net/files/8638/293/sophisticatedinventoryinteractions-1.21.1-0.1.13.201.jar",
+      "cdn_download_url": "https://edge.forgecdn.net/files/8660/377/sophisticatedinventoryinteractions-1.21.1-0.1.13.218.jar",
       "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\All the Mods 10 - ATM10 (4)\\mods",
-      "version": "sophisticatedinventoryinteractions-1.21.1-0.1.13.201.jar",
+      "version": "sophisticatedinventoryinteractions-1.21.1-0.1.13.218.jar",
       "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-inventory-interactions",
-      "fileNameOnDisk": "sophisticatedinventoryinteractions-1.21.1-0.1.13.201.jar"
+      "fileNameOnDisk": "sophisticatedinventoryinteractions-1.21.1-0.1.13.218.jar"
     },
     {
       "addon_file_id": 7589396,
@@ -5329,18 +5319,5 @@
       "fileNameOnDisk": "curio-slot-for-lantern.zip"
     }
   ],
-  "config_files": [
-    {
-      "filename": "freecam.json5",
-      "relative_path": "config/freecam.json5"
-    },
-    {
-      "filename": "ftbchunks-world.snbt",
-      "relative_path": "config/ftbchunks-world.snbt"
-    },
-    {
-      "filename": "frameable.json",
-      "relative_path": "kubejs/data/framedblocks/tags/block/frameable.json"
-    }
-  ]
+  "config_files": []
 }
