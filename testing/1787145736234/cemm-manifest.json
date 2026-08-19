@@ -1,0 +1,317 @@
+{
+  "updateType": "full",
+  "mods": [
+    {
+      "addon_file_id": 8682765,
+      "addon_name": "Sophisticated Storage",
+      "addon_project_id": 619320,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8682/765/sophisticatedstorage-26.2-1.5.111.2112.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "sophisticatedstorage-26.2-1.5.111.2112.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage",
+      "fileNameOnDisk": "sophisticatedstorage-26.2-1.5.111.2112.jar"
+    },
+    {
+      "addon_file_id": 8581778,
+      "addon_name": "Puzzles Lib",
+      "addon_project_id": 495476,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8581/778/PuzzlesLib-v26.2.3-mc26.2.x-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "PuzzlesLib-v26.2.3-mc26.2.x-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+      "fileNameOnDisk": "PuzzlesLib-v26.2.3-mc26.2.x-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 8303507,
+      "addon_name": "Comforts",
+      "addon_project_id": 276951,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8303/507/comforts-neoforge-16.0.0%2b26.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "comforts-neoforge-16.0.0+26.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/comforts",
+      "fileNameOnDisk": "comforts-neoforge-16.0.0+26.2.jar"
+    },
+    {
+      "addon_file_id": 8269700,
+      "addon_name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "addon_project_id": 348521,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8269/700/cloth-config-26.2.155.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "cloth-config-26.2.155.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+      "fileNameOnDisk": "cloth-config-26.2.155.jar"
+    },
+    {
+      "addon_file_id": 8645594,
+      "addon_name": "Shogi",
+      "addon_project_id": 1475746,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8645/594/shogi-neoforge-26.2-26.2.0.5.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "shogi-neoforge-26.2-26.2.0.5.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/shogi",
+      "fileNameOnDisk": "shogi-neoforge-26.2-26.2.0.5.jar"
+    },
+    {
+      "addon_file_id": 8278118,
+      "addon_name": "Overflowing Bars",
+      "addon_project_id": 852662,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8278/118/OverflowingBars-v26.2.0-mc26.2.x-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "OverflowingBars-v26.2.0-mc26.2.x-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/overflowing-bars",
+      "fileNameOnDisk": "OverflowingBars-v26.2.0-mc26.2.x-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 8608522,
+      "addon_name": "Traveler's Backpack",
+      "addon_project_id": 321117,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8608/522/travelersbackpack-neoforge-26.2-11.3.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "travelersbackpack-neoforge-26.2-11.3.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/travelers-backpack",
+      "fileNameOnDisk": "travelersbackpack-neoforge-26.2-11.3.2.jar"
+    },
+    {
+      "addon_file_id": 8650925,
+      "addon_name": "Jade 🔍",
+      "addon_project_id": 324717,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8650/925/Jade-mc26.2-NeoForge-26.2.9.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "Jade-mc26.2-NeoForge-26.2.9.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/jade",
+      "fileNameOnDisk": "Jade-mc26.2-NeoForge-26.2.9.jar"
+    },
+    {
+      "addon_file_id": 8261077,
+      "addon_name": "Mouse Tweaks",
+      "addon_project_id": 60089,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8261/77/MouseTweaks-neoforge-mc26.2-2.31.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "MouseTweaks-neoforge-mc26.2-2.31.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+      "fileNameOnDisk": "MouseTweaks-neoforge-mc26.2-2.31.jar"
+    },
+    {
+      "addon_file_id": 8278140,
+      "addon_name": "FallingTree",
+      "addon_project_id": 349559,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8278/140/FallingTree-26.2-25.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "FallingTree-26.2-25.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/falling-tree",
+      "fileNameOnDisk": "FallingTree-26.2-25.jar"
+    },
+    {
+      "addon_file_id": 8262511,
+      "addon_name": "Searchables",
+      "addon_project_id": 858542,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8262/511/Searchables-neoforge-26.2-1.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "Searchables-neoforge-26.2-1.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+      "fileNameOnDisk": "Searchables-neoforge-26.2-1.0.1.jar"
+    },
+    {
+      "addon_file_id": 8271756,
+      "addon_name": "Roughly Enough Items Fabric/Forge/NeoForge (REI)",
+      "addon_project_id": 310111,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8271/756/RoughlyEnoughItems-26.2.820.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "RoughlyEnoughItems-26.2.820.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items",
+      "fileNameOnDisk": "RoughlyEnoughItems-26.2.820.jar"
+    },
+    {
+      "addon_file_id": 8272591,
+      "addon_name": "Pick Up Notifier",
+      "addon_project_id": 351441,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8272/591/PickUpNotifier-v26.2.0-mc26.2.x-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "PickUpNotifier-v26.2.0-mc26.2.x-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier",
+      "fileNameOnDisk": "PickUpNotifier-v26.2.0-mc26.2.x-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 8270122,
+      "addon_name": "AttributeFix",
+      "addon_project_id": 280510,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8270/122/AttributeFix-neoforge-MC26.2-26.2.0.1.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "AttributeFix-neoforge-MC26.2-26.2.0.1.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+      "fileNameOnDisk": "AttributeFix-neoforge-MC26.2-26.2.0.1.jar"
+    },
+    {
+      "addon_file_id": 8664246,
+      "addon_name": "ImmediatelyFast",
+      "addon_project_id": 686911,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8664/246/ImmediatelyFast-NeoForge-1.16.3%2b26.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "ImmediatelyFast-NeoForge-1.16.3+26.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
+      "fileNameOnDisk": "ImmediatelyFast-NeoForge-1.16.3+26.2.jar"
+    },
+    {
+      "addon_file_id": 8562968,
+      "addon_name": "Architectury API",
+      "addon_project_id": 419699,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8562/968/architectury-neoforge-21.0.7.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "architectury-neoforge-21.0.7.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+      "fileNameOnDisk": "architectury-neoforge-21.0.7.jar"
+    },
+    {
+      "addon_file_id": 8645562,
+      "addon_name": "Balm",
+      "addon_project_id": 531761,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8645/562/balm-neoforge-26.2-26.2.0.6.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "balm-neoforge-26.2-26.2.0.6.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/balm",
+      "fileNameOnDisk": "balm-neoforge-26.2-26.2.0.6.jar"
+    },
+    {
+      "addon_file_id": 8268834,
+      "addon_name": "Controlling",
+      "addon_project_id": 250398,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8268/834/Controlling-neoforge-26.2-26.2.2.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "Controlling-neoforge-26.2-26.2.2.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+      "fileNameOnDisk": "Controlling-neoforge-26.2-26.2.2.jar"
+    },
+    {
+      "addon_file_id": 8665849,
+      "addon_name": "Sophisticated Core",
+      "addon_project_id": 618298,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8665/849/sophisticatedcore-26.2-1.4.101.2276.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "sophisticatedcore-26.2-1.4.101.2276.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+      "fileNameOnDisk": "sophisticatedcore-26.2-1.4.101.2276.jar"
+    },
+    {
+      "addon_file_id": 8271180,
+      "addon_name": "Resource Pack Overrides",
+      "addon_project_id": 832644,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8271/180/ResourcePackOverrides-v26.2.0-mc26.2.x-NeoForge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "ResourcePackOverrides-v26.2.0-mc26.2.x-NeoForge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides",
+      "fileNameOnDisk": "ResourcePackOverrides-v26.2.0-mc26.2.x-NeoForge.jar"
+    },
+    {
+      "addon_file_id": 7806039,
+      "addon_name": "FerriteCore ((Neo)Forge)",
+      "addon_project_id": 429235,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7806/39/ferritecore-9.0.0-neoforge.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "ferritecore-9.0.0-neoforge.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
+      "fileNameOnDisk": "ferritecore-9.0.0-neoforge.jar"
+    },
+    {
+      "addon_file_id": 8646820,
+      "addon_name": "Waystones",
+      "addon_project_id": 245755,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8646/820/waystones-neoforge-26.2-26.2.0.9.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "waystones-neoforge-26.2-26.2.0.9.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+      "fileNameOnDisk": "waystones-neoforge-26.2-26.2.0.9.jar"
+    },
+    {
+      "addon_file_id": 8397202,
+      "addon_name": "Prickle",
+      "addon_project_id": 1023259,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8397/202/PrickleMC-neoforge-MC26.2-26.2.0.3.jar",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\mods",
+      "version": "PrickleMC-neoforge-MC26.2-26.2.0.3.jar",
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/prickle",
+      "fileNameOnDisk": "PrickleMC-neoforge-MC26.2-26.2.0.3.jar"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "addon_file_id": 7825035,
+      "addon_name": "Low On Fire",
+      "addon_project_id": 580683,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7825/35/LowOnFire%20v26.1%c2%a78.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\resourcepacks",
+      "version": "LowOnFire v26.1§8.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/low-on-fire",
+      "fileNameOnDisk": "LowOnFire v26.1§8.zip"
+    },
+    {
+      "addon_file_id": 8511314,
+      "addon_name": "CUTE AND BETTER BOATS",
+      "addon_project_id": 1625900,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8511/314/Cute%20and%20Better%20Boats.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\resourcepacks",
+      "version": "Cute and Better Boats.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/cute-and-better-boats",
+      "fileNameOnDisk": "Cute and Better Boats.zip"
+    },
+    {
+      "addon_file_id": 7094029,
+      "addon_name": "(Bee's) Fancy Crops",
+      "addon_project_id": 884709,
+      "cdn_download_url": "https://edge.forgecdn.net/files/7094/29/Fancy%20Crops%20v1.3.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\resourcepacks",
+      "version": "Fancy Crops v1.3.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/texture-packs/fancy-crops",
+      "fileNameOnDisk": "Fancy Crops v1.3.zip"
+    }
+  ],
+  "shaderpacks": [
+    {
+      "addon_file_id": 8527944,
+      "addon_name": "Mellow",
+      "addon_project_id": 1113130,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8527/944/Mellow%20Shader%20v3.3.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\shaderpacks",
+      "version": "Mellow Shader v3.3.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/shaders/mellow",
+      "fileNameOnDisk": "Mellow Shader v3.3.zip"
+    },
+    {
+      "addon_file_id": 8302648,
+      "addon_name": "Sildur's Vibrant shaders",
+      "addon_project_id": 544096,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8302/648/Sildur%27s%20Vibrant%20Shaders%20v2.01%20Extreme.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\shaderpacks",
+      "version": "Sildur's Vibrant Shaders v2.01 Extreme.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders",
+      "fileNameOnDisk": "Sildur's Vibrant Shaders v2.01 Extreme.zip"
+    }
+  ],
+  "datapacks": [
+    {
+      "addon_file_id": 8259081,
+      "addon_name": "FallingTree Enchantments",
+      "addon_project_id": 1037547,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8259/81/FallingTree%20Enchantments%2026.2.0-1.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\datapacks",
+      "version": "FallingTree Enchantments 26.2.0-1.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/data-packs/fallingtree-enchantments",
+      "fileNameOnDisk": "FallingTree Enchantments 26.2.0-1.zip"
+    },
+    {
+      "addon_file_id": 8296258,
+      "addon_name": "Trek",
+      "addon_project_id": 1233784,
+      "cdn_download_url": "https://edge.forgecdn.net/files/8296/258/Trek%201.21-26.2%20B0.6.2.zip",
+      "mod_folder_path": "D:\\Games\\Curseforge\\minecraft\\Instances\\cemmTestingUpdaterFunction\\datapacks",
+      "version": "Trek 1.21-26.2 B0.6.2.zip",
+      "webSiteURL": "https://www.curseforge.com/minecraft/data-packs/trek",
+      "fileNameOnDisk": "Trek 1.21-26.2 B0.6.2.zip"
+    }
+  ],
+  "config_files": [
+    {
+      "filename": "waystones-common.toml",
+      "relative_path": "config/waystones-common.toml"
+    }
+  ]
+}
