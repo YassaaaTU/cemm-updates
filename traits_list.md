@@ -1,6 +1,6 @@
 # Traits
 
-Generated in-game by `sgear_traits dump_md` command on 2026/03/01 21:29:53
+Generated in-game by `sgear_traits dump_md` command on 2026/09/01 02:53:58
 
 This data may or may not be accurate depending on the mod pack you are playing and the mods or data packs installed.
 
@@ -8,7 +8,7 @@ This data may or may not be accurate depending on the mod pack you are playing a
 
 The following mods and data packs have added traits to the output. Running the dump command yourself may produce different results.
 
-- Silent Gear (silentgear) 4.0.30
+- Silent Gear (silentgear) 4.2.1.1
 
 ## Trait Effects
 
@@ -21,6 +21,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 - `silentgear:bonus_drops` - Multiplies drops for given items
 - `silentgear:cancel_effects` - Cancels certain effects applied to the player
 - `silentgear:durability` - Adds a chance of either canceling durability loss or losing extra durability
+- `silentgear:enchantment` - Adds enchantments to an item without conflicting with traditional enchantments
 - `silentgear:extra_damage` - Deals extra damage when attacking certain types of mobs
 - `silentgear:fireproof` - Prevents items from being destroyed when dropped in fire or lava
 - `silentgear:item_magnet` - Attracts certain items to the player
@@ -36,8 +37,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Accelerate](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/accelerate.json)
 - Gains harvest speed, attack speed, and ranged speed as damaged
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **Azure Electrum** _(Main, Tool Rod)_, **Fine Silk Cloth** _(Grip)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:accelerate`
 - Max Level: 5
 - Effects:
@@ -58,18 +59,44 @@ Traits can be assigned any number of effects. Each effect type has its own codec
       - Resistance: [1, 1, 1, 2] (by armor piece count)
   - `silentgear:extra_damage`
 
+### [Advanced Aquatic](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/advanced_aquatic.json)
+- Advanced Aquatic gives waterbreathing without a full set
+- Found On:
+  - Materials: **Vibranium** _(Main)_, **Allthemodium** _(Main)_, **Unobtainium** _(Main)_
+- ID: `silentgear:advanced_aquatic`
+- Max Level: 5
+- Effects:
+  - `silentgear:wielder_effect`
+    - Armor
+      - Water Breathing: [1] (by armor piece count)
+
+### [Advanced Flame Ward](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/advanced_flame_ward.json)
+- Gives fire resistance without a full set
+- Found On:
+  - Materials: **Vibranium** _(Main)_, **Allthemodium** _(Main)_, **Unobtainium** _(Main)_
+- ID: `silentgear:advanced_flame_ward`
+- Max Level: 1
+- Effects:
+  - `silentgear:fireproof`
+    - The item cannot be destroyed by fire or lava
+  - `silentgear:wielder_effect`
+    - Armor
+      - Fire Resistance: [1] (by armor piece count)
+- Extra Info:
+  - The item cannot be destroyed by fire or lava
+
 ### [Ancient](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/ancient.json)
 - Increases XP dropped by blocks and mobs
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **Dimerald** _(Tool Rod)_, **Stone** _(Main)_, **gem.silentgems.citrine** _(Main)_, **End Stone** _(Main, Tool Rod)_, **Phantom Membrane** _(Grip)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:ancient`
 - Max Level: 5
 
 ### [Aquatic](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/aquatic.json)
 - Full set of armor gives water breathing, deals more damage to aquatic mobs
 - Found On:
-  - Materials: **Lead** _(Main)_, **Prismarine** _(Coating)_
+  - Materials: **Lead** _(Main)_, **Uru Metal** _(Main)_, **gem.silentgems.sapphire** _(Main)_, **gem.silentgems.pearl** _(Tool Rod)_, **Prismarine** _(Coating)_
 - ID: `silentgear:aquatic`
 - Max Level: 5
 - Effects:
@@ -81,8 +108,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Bastion](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/bastion.json)
 - Provides bonus armor
 - Found On:
-  - Materials: Nothing
-- Conditions: ((Gear Type: Armor OR Gear Type: Curio))
+  - Materials: **Diamond** _(Jewelry Setting)_
+- Conditions: ((Only on Armor OR Only on Curio))
 - ID: `silentgear:bastion`
 - Max Level: 5
 - Effects:
@@ -93,7 +120,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Bending](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/bending.json)
 - Gear sometimes takes extra damage
 - Found On:
-  - Materials: **Gold** _(Tool Rod)_, **Netherrack** _(Tool Rod)_, **Rough Wood** _(Tool Rod)_, **Copper** _(Tool Rod)_, **Azure Silver** _(Tool Rod)_
+  - Materials: **Gold** _(Tool Rod)_, **Netherrack** _(Tool Rod)_, **Rough Wood** _(Tool Rod)_, **Copper** _(Tool Rod)_, **Azure Silver** _(Tool Rod)_, **Meat** _(Main)_
 - ID: `silentgear:bending`
 - Max Level: 5
 - Effects:
@@ -103,8 +130,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Bounce](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/bounce.json)
 - Boots negate fall damage, armor knocks back attackers
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Armor)
+  - Materials: **Slime** _(Lining)_
+- Conditions: (Only on Armor)
 - ID: `silentgear:bounce`
 - Max Level: 1
 - Effects:
@@ -114,14 +141,14 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Brilliant](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/brilliant.json)
 - Shiny! Piglin like.
 - Found On:
-  - Materials: **Gold** _(Main, Coating)_, **Blaze Gold** _(Main, Coating)_
+  - Materials: **Gold** _(Main, Coating)_, **Uru Metal** _(Main)_, **Vibranium** _(Main)_, **Allthemodium** _(Main)_, **Unobtainium** _(Main)_, **Blaze Gold** _(Main, Coating)_
 - ID: `silentgear:brilliant`
 - Max Level: 1
 
 ### [Brittle](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/brittle.json)
 - Gear sometimes takes extra damage
 - Found On:
-  - Materials: **Sandstone** _(Tool Rod)_, **Quartz** _(Tool Rod)_, **Dimerald** _(Main, Tool Rod)_, **Basalt** _(Main, Tool Rod)_, **Blackstone** _(Main, Tool Rod)_, **Obsidian** _(Tool Rod)_, **Stone** _(Tool Rod)_, **Diamond** _(Main, Tool Rod, Tip Upgrade)_, **Terracotta** _(Main, Tool Rod)_, **Flint** _(Tool Rod)_, **Emerald** _(Main, Tool Rod, Tip Upgrade)_
+  - Materials: **Sandstone** _(Tool Rod)_, **Quartz** _(Tool Rod)_, **Dimerald** _(Main, Tool Rod)_, **gem.silentgems.heliodor** _(Main)_, **gem.silentgems.sapphire** _(Main)_, **Basalt** _(Main, Tool Rod)_, **Blackstone** _(Main, Tool Rod)_, **gem.silentgems.pearl** _(Tool Rod)_, **Obsidian** _(Tool Rod)_, **gem.silentgems.ammolite** _(Main)_, **gem.silentgems.moldavite** _(Main)_, **Stone** _(Tool Rod)_, **gem.silentgems.citrine** _(Main)_, **gem.silentgems.topaz** _(Main)_, **gem.silentgems.tanzanite** _(Tool Rod)_, **Diamond** _(Main, Tool Rod, Tip Upgrade)_, **gem.silentgems.alexandrite** _(Main)_, **Terracotta** _(Main, Tool Rod)_, **gem.silentgems.opal** _(Tool Rod)_, **gem.silentgems.garnet** _(Tool Rod)_, **Flint** _(Tool Rod)_, **gem.silentgems.rose_quartz** _(Main)_, **Emerald** _(Main, Tool Rod, Tip Upgrade)_, **gem.silentgems.aquamarine** _(Tool Rod)_, **gem.silentgems.iolite** _(Main)_, **gem.silentgems.peridot** _(Main)_
 - ID: `silentgear:brittle`
 - Max Level: 5
 - Effects:
@@ -131,8 +158,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Bulky](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/bulky.json)
 - TODO, not tested
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **Meat** _(Tool Rod)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:bulky`
 - Max Level: 5
 - Effects:
@@ -142,8 +169,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Chilled](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/chilled.json)
 - Deals more damage to Nether and fire-immune mobs
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Weapon)
+  - Materials: **gem.silentgems.kyanite** _(Main)_
+- Conditions: (Only on Weapon)
 - ID: `silentgear:chilled`
 - Max Level: 5
 - Effects:
@@ -152,7 +179,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Chipping](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/chipping.json)
 - Reduces armor or increases harvest speed as gear is damaged
 - Found On:
-  - Materials: **Quartz** _(Tip Upgrade)_, **Basalt** _(Main, Tool Rod)_, **Obsidian** _(Tool Rod)_, **Terracotta** _(Main)_, **Bone** _(Main)_
+  - Materials: **Quartz** _(Tip Upgrade)_, **gem.silentgems.heliodor** _(Main)_, **Basalt** _(Main, Tool Rod)_, **Obsidian** _(Tool Rod)_, **Terracotta** _(Main)_, **Bone** _(Main)_
 - ID: `silentgear:chipping`
 - Max Level: 5
 - Effects:
@@ -164,7 +191,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 - I like big boom boom
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Weapon)
+- Conditions: (Only on Weapon)
 - ID: `silentgear:confetti`
 - Max Level: 5
 
@@ -172,7 +199,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 - Creates and places basalt at the cost of durability
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+- Conditions: (Only on Tools)
 - ID: `silentgear:crackler`
 - Max Level: 1
 - Effects:
@@ -194,7 +221,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Crushing](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/crushing.json)
 - Increases armor or decreases attack damage as gear is damaged
 - Found On:
-  - Materials: **Quartz** _(Main)_, **Obsidian** _(Main)_, **Stone** _(Tool Rod)_, **Terracotta** _(Tool Rod)_
+  - Materials: **Quartz** _(Main)_, **Obsidian** _(Main)_, **Vibranium** _(Main)_, **Stone** _(Tool Rod)_, **Allthemodium** _(Main)_, **Unobtainium** _(Main)_, **Terracotta** _(Tool Rod)_, **gem.silentgems.iolite** _(Main)_
 - ID: `silentgear:crushing`
 - Max Level: 5
 - Effects:
@@ -202,10 +229,30 @@ Traits can be assigned any number of effects. Each effect type has its own codec
     - Attack Damage: -0.1667 * level * damage * value
     - Armor: 0.05 * level * damage * value
 
+### [Cure Levitation](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/cure_levitation.json)
+- Removes levitation effect when equipped
+- Found On:
+  - Materials: **Unobtainium** _(Main)_
+- ID: `silentgear:cure_levitation`
+- Max Level: 1
+- Effects:
+  - `silentgear:cancel_effects`
+    - Cancels these effects: `minecraft:levitation`
+
+### [Cure Nausea](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/cure_nausea.json)
+- Removes nausea effect when equipped
+- Found On:
+  - Materials: **Vibranium** _(Main)_, **Unobtainium** _(Main)_
+- ID: `silentgear:cure_nausea`
+- Max Level: 1
+- Effects:
+  - `silentgear:cancel_effects`
+    - Cancels these effects: `minecraft:nausea`
+
 ### [Cure Poison](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/cure_poison.json)
 - Removes poison effect when equipped
 - Found On:
-  - Materials: Nothing
+  - Materials: **Uru Metal** _(Main)_, **gem.silentgems.iolite** _(Jewelry Setting)_
 - ID: `silentgear:cure_poison`
 - Max Level: 1
 - Effects:
@@ -215,7 +262,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Cure Wither](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/cure_wither.json)
 - Removes wither effect when equipped
 - Found On:
-  - Materials: Nothing
+  - Materials: **Uru Metal** _(Main)_, **gem.silentgems.black_diamond** _(Jewelry Setting)_, **Vibranium** _(Main)_, **Unobtainium** _(Main)_
 - ID: `silentgear:cure_wither`
 - Max Level: 1
 - Effects:
@@ -238,8 +285,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Eroded](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/eroded.json)
 - Increases harvest speed and reduces attack damage as gear is damaged
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **Crushed Shulker Shell** _(Main)_, **Netherrack** _(Main, Tool Rod)_, **Redstone Alloy** _(Main)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:eroded`
 - Max Level: 5
 - Effects:
@@ -248,11 +295,14 @@ Traits can be assigned any number of effects. Each effect type has its own codec
     - Harvest Speed: 0.15 * level * damage * value
 
 ### [Fiery](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/fiery.json)
-- Not implemented
+- Adds Fire Aspect or Flame to weapons
 - Found On:
   - Materials: **Crimson Iron** _(Tip Upgrade)_, **Blaze Gold** _(Tip Upgrade)_
+- Conditions: (Only on Weapon)
 - ID: `silentgear:fiery`
 - Max Level: 2
+- Effects:
+  - `silentgear:enchantment`
 
 ### [Fireproof](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/fireproof.json)
 - Cannot be destroyed when dropped in fire or lava
@@ -269,8 +319,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Flame Ward](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/flame_ward.json)
 - Gives fire resistance on armor (full set only)
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Armor)
+  - Materials: **Uru Metal** _(Main)_, **gem.silentgems.black_diamond** _(Main)_, **Crimson Steel** _(Main)_
 - ID: `silentgear:flame_ward`
 - Max Level: 1
 - Effects:
@@ -285,14 +334,14 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Flammable](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/flammable.json)
 - Takes damage when on fire and can be used as fuel
 - Found On:
-  - Materials: **Bamboo** _(Main)_, **Paper** _(Main)_, **Wooden** _(Main)_, **Leaf** _(Main)_
+  - Materials: **Bamboo** _(Main)_, **Paper** _(Main)_, **Wood** _(Main)_, **Leaves** _(Main)_
 - ID: `silentgear:flammable`
 - Max Level: 1
 
 ### [Flexible](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/flexible.json)
 - Gear occasionally takes less damage
 - Found On:
-  - Materials: **Bamboo** _(Main, Tool Rod)_, **String** _(Binding)_, **Fluffy String** _(Binding)_, **Leather** _(Grip, Lining)_, **Azure Electrum** _(Tool Rod)_, **Blaze Rod** _(Tool Rod)_, **Wooden** _(Tool Rod)_, **Wool** _(Grip, Lining)_, **Titanium** _(Tool Rod)_, **Crimson Iron** _(Tool Rod)_, **Fine Silk** _(Cord, Binding)_, **Netherrack** _(Main)_, **Sinew** _(Cord, Binding)_, **Fine Silk Cloth** _(Lining)_, **Bone** _(Tool Rod)_, **Iron** _(Tool Rod)_, **Crimson Steel** _(Tool Rod)_, **Bronze** _(Tool Rod)_, **Signalum** _(Main, Tool Rod)_, **Breeze Rod** _(Tool Rod)_, **Blaze Gold** _(Tool Rod)_, **Phantom Membrane** _(Lining)_, **Flax** _(Binding)_, **End Rod** _(Tool Rod)_
+  - Materials: **Bamboo** _(Main, Tool Rod)_, **String** _(Binding)_, **Fluffy String** _(Binding)_, **Leather** _(Grip, Lining)_, **Azure Electrum** _(Tool Rod)_, **Blaze Rod** _(Tool Rod)_, **Wood** _(Tool Rod)_, **Wool** _(Grip, Lining)_, **Titanium** _(Tool Rod)_, **Crimson Iron** _(Tool Rod)_, **Fine Silk** _(Cord, Binding)_, **Netherrack** _(Main)_, **Sinew** _(Cord, Binding)_, **Fine Silk Cloth** _(Lining)_, **Bone** _(Tool Rod)_, **Iron** _(Tool Rod)_, **Crimson Steel** _(Tool Rod)_, **Bronze** _(Tool Rod)_, **Signalum** _(Main, Tool Rod)_, **Breeze Rod** _(Tool Rod)_, **Blaze Gold** _(Tool Rod)_, **Phantom Membrane** _(Lining)_, **Flax** _(Binding)_, **Meat** _(Tool Rod)_, **End Rod** _(Tool Rod)_
 - ID: `silentgear:flexible`
 - Max Level: 5
 - Effects:
@@ -303,7 +352,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 - Creates and places end stone at the cost of durability
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+- Conditions: (Only on Tools)
 - ID: `silentgear:floatstoner`
 - Max Level: 1
 - Effects:
@@ -312,17 +361,20 @@ Traits can be assigned any number of effects. Each effect type has its own codec
     - Durability Cost: 3
 
 ### [Fortunate](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/fortunate.json)
-- Blocks mined drop extra items like with Fortune (does not stack with enchantments)
+- Adds Fortune to tools
 - Found On:
-  - Materials: **Azure Silver** _(Tip Upgrade)_
+  - Materials: **gem.silentgems.aquamarine** _(Main, Tool Rod)_, **Azure Silver** _(Tip Upgrade)_
+- Conditions: (Only on Harvest Tools)
 - ID: `silentgear:fortunate`
 - Max Level: 3
+- Effects:
+  - `silentgear:enchantment`
 
 ### [Gold Digger](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/gold_digger.json)
 - Sometimes increases nugget drops when mining
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Harvest Tools)
+  - Materials: **Dimerald** _(Main)_, **Tyrian Steel** _(Tip Upgrade)_, **gem.silentgems.carnelian** _(Main)_
+- Conditions: (Only on Harvest Tools)
 - ID: `silentgear:gold_digger`
 - Max Level: 5
 - Effects:
@@ -343,8 +395,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Hard](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/hard.json)
 - Increases harvest speed or decreases ranged damage as item is damaged
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **Uru Metal** _(Tool Rod, Tip Upgrade)_, **Blackstone** _(Main, Tool Rod)_, **Vibranium** _(Tool Rod, Tip Upgrade)_, **Allthemodium** _(Tool Rod)_, **Titanium** _(Main, Tool Rod)_, **Crimson Iron** _(Main)_, **Compressed Iron** _(Main)_, **Unobtainium** _(Tool Rod, Tip Upgrade)_, **Refined Obsidian** _(Main, Tool Rod)_, **Crimson Steel** _(Main)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:hard`
 - Max Level: 5
 - Effects:
@@ -355,8 +407,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Heat-Resistant](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/heat_resistant.json)
 - Reduces fire damage
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Armor)
+  - Materials: **Crimson Iron** _(Main)_
+- Conditions: (Only on Armor)
 - ID: `silentgear:heat_resistant`
 - Max Level: 5
 - Effects:
@@ -369,25 +421,25 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 - Armor decreases movement speed
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Armor)
+- Conditions: (Only on Armor)
 - ID: `silentgear:heavy`
 - Max Level: 5
 - Effects:
   - `silentgear:attribute`
-    - Key[gearType=Armor, group=CHEST]
-      - minecraft:generic.movement_speed: ADD_MULTIPLIED_BASE [-0.01, -0.02, -0.03, -0.04, -0.05]
     - Key[gearType=Armor, group=LEGS]
       - minecraft:generic.movement_speed: ADD_MULTIPLIED_BASE [-0.01, -0.02, -0.03, -0.04, -0.05]
     - Key[gearType=Armor, group=FEET]
       - minecraft:generic.movement_speed: ADD_MULTIPLIED_BASE [-0.01, -0.02, -0.03, -0.04, -0.05]
     - Key[gearType=Armor, group=HEAD]
       - minecraft:generic.movement_speed: ADD_MULTIPLIED_BASE [-0.01, -0.02, -0.03, -0.04, -0.05]
+    - Key[gearType=Armor, group=CHEST]
+      - minecraft:generic.movement_speed: ADD_MULTIPLIED_BASE [-0.01, -0.02, -0.03, -0.04, -0.05]
 
 ### [Holy](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/holy.json)
 - Deals extra damage to the undead
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Weapon)
+  - Materials: **Lapis Lazuli** _(Tip Upgrade)_, **Barrier** _(Main)_
+- Conditions: (Only on Weapon)
 - ID: `silentgear:holy`
 - Max Level: 5
 - Effects:
@@ -397,7 +449,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 - Lights blocks on fire at a small durability cost
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+- Conditions: (Only on Tools)
 - ID: `silentgear:ignite`
 - Max Level: 1
 - Effects:
@@ -408,8 +460,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Imperial](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/imperial.json)
 - Sometimes increases gem drops when mining
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Harvest Tools)
+  - Materials: **Redstone** _(Main)_, **Dimerald** _(Tip Upgrade)_, **Tyrian Steel** _(Tip Upgrade)_, **gem.silentgems.alexandrite** _(Main)_, **gem.silentgems.ruby** _(Main)_
+- Conditions: (Only on Harvest Tools)
 - ID: `silentgear:imperial`
 - Max Level: 5
 - Effects:
@@ -419,7 +471,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Indestructible](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/indestructible.json)
 - Prevents durability loss
 - Found On:
-  - Materials: Nothing
+  - Materials: **Uru Metal** _(Main)_
 - ID: `silentgear:indestructible`
 - Max Level: 1
 - Extra Info:
@@ -430,7 +482,7 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 - ’Twas brillig, and the slithy toves / Did gyre and gimble in the wabe
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Harvest Tools)
+- Conditions: (Only on Harvest Tools)
 - ID: `silentgear:jabberwocky`
 - Max Level: 1
 - Extra Info:
@@ -439,8 +491,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Jagged](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/jagged.json)
 - Increases attack damage or decreased ranged damage as item is damaged
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **Quartz** _(Main, Tip Upgrade)_, **Blackstone** _(Main, Tool Rod)_, **Obsidian** _(Main)_, **Wood** _(Main)_, **gem.silentgems.garnet** _(Tool Rod)_, **Flint** _(Main, Tool Rod)_, **End Stone** _(Main)_, **gem.silentgems.peridot** _(Main)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:jagged`
 - Max Level: 5
 - Effects:
@@ -451,8 +503,8 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Kitty Vision](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/kitty_vision.json)
 - Gives night vision on helmets and curios
 - Found On:
-  - Materials: Nothing
-- Conditions: ((Gear Type: Helmet OR Gear Type: Curio))
+  - Materials: **Dimerald** _(Jewelry Setting)_
+- Conditions: ((Only on Helmet OR Only on Curio))
 - ID: `silentgear:kitty_vision`
 - Max Level: 1
 - Effects:
@@ -465,19 +517,19 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Light](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/light.json)
 - Armor increases movement speed
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Armor)
+  - Materials: **Azure Electrum** _(Main)_, **gem.silentgems.tanzanite** _(Main)_, **Phantom Membrane** _(Lining)_, **Leaves** _(Main)_
+- Conditions: (Only on Armor)
 - ID: `silentgear:light`
 - Max Level: 5
 - Effects:
   - `silentgear:attribute`
-    - Key[gearType=Armor, group=CHEST]
-      - minecraft:generic.movement_speed: ADD_MULTIPLIED_BASE [0.01, 0.02, 0.03, 0.04, 0.05]
     - Key[gearType=Armor, group=LEGS]
       - minecraft:generic.movement_speed: ADD_MULTIPLIED_BASE [0.01, 0.02, 0.03, 0.04, 0.05]
     - Key[gearType=Armor, group=FEET]
       - minecraft:generic.movement_speed: ADD_MULTIPLIED_BASE [0.01, 0.02, 0.03, 0.04, 0.05]
     - Key[gearType=Armor, group=HEAD]
+      - minecraft:generic.movement_speed: ADD_MULTIPLIED_BASE [0.01, 0.02, 0.03, 0.04, 0.05]
+    - Key[gearType=Armor, group=CHEST]
       - minecraft:generic.movement_speed: ADD_MULTIPLIED_BASE [0.01, 0.02, 0.03, 0.04, 0.05]
 
 ### [Lucky](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/lucky.json)
@@ -496,16 +548,16 @@ Traits can be assigned any number of effects. Each effect type has its own codec
 ### [Lustrous](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/lustrous.json)
 - Tools gain a large harvest speed boost when in light
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Harvest Tools)
+  - Materials: **Glowstone** _(Tip Upgrade)_, **Bismuth** _(Main)_, **gem.silentgems.topaz** _(Main)_, **Diamond** _(Main, Tool Rod, Tip Upgrade)_, **Bismuth Brass** _(Main)_, **Signalum** _(Main, Tool Rod)_, **Refined Glowstone** _(Main, Tool Rod)_, **Bismuth Steel** _(Main)_, **Electrum** _(Tool Rod)_
+- Conditions: (Only on Harvest Tools)
 - ID: `silentgear:lustrous`
 - Max Level: 5
 
 ### [Magmatic](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/magmatic.json)
 - Auto-smelting
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Harvest Tools)
+  - Materials: **Crimson Steel** _(Tip Upgrade)_
+- Conditions: (Only on Harvest Tools)
 - ID: `silentgear:magmatic`
 - Max Level: 1
 - Extra Info:
@@ -527,7 +579,7 @@ Higher levels increase range
 ### [Malleable](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/malleable.json)
 - Gear sometimes takes less damage
 - Found On:
-  - Materials: **Gold** _(Main, Tip Upgrade)_, **Lead** _(Main)_, **Osmium** _(Main, Tool Rod)_, **Refined Iron** _(Main, Tool Rod)_, **Steel** _(Main, Tool Rod)_, **Azure Electrum** _(Main, Tip Upgrade)_, **Platinum** _(Main, Tool Rod)_, **Lumium** _(Main, Tool Rod)_, **Bismuth** _(Main, Tool Rod)_, **Enderium** _(Main, Tool Rod)_, **Titanium** _(Main)_, **Crimson Iron** _(Main)_, **Uranium** _(Main, Tool Rod)_, **High-Carbon Steel** _(Main)_, **Aluminum** _(Main, Tool Rod)_, **Compressed Iron** _(Main, Tool Rod)_, **Nickel** _(Main, Tool Rod)_, **Refined Obsidian** _(Main, Tool Rod)_, **Bismuth Brass** _(Main, Tool Rod)_, **Iron** _(Main, Tip Upgrade)_, **Crimson Steel** _(Main)_, **Aluminum Steel** _(Main, Tool Rod)_, **Brass** _(Main, Tool Rod)_, **Silver** _(Main, Tool Rod)_, **Bronze** _(Tip Upgrade)_, **Copper** _(Tip Upgrade)_, **Invar** _(Main, Tool Rod)_, **Refined Glowstone** _(Main, Tool Rod)_, **End Stone** _(Tool Rod)_, **Bismuth Steel** _(Main, Tool Rod)_, **Zinc** _(Main, Tool Rod)_, **Redstone Alloy** _(Main, Tool Rod)_, **Blaze Gold** _(Main)_, **Electrum** _(Main)_, **Azure Silver** _(Main, Tip Upgrade)_, **Tin** _(Main, Tool Rod)_
+  - Materials: **Gold** _(Main, Tip Upgrade)_, **Lead** _(Main)_, **Osmium** _(Main, Tool Rod)_, **Uru Metal** _(Main, Tip Upgrade)_, **Refined Iron** _(Main, Tool Rod)_, **Steel** _(Main, Tool Rod)_, **Azure Electrum** _(Main, Tip Upgrade)_, **Platinum** _(Main, Tool Rod)_, **Vibranium** _(Main, Tip Upgrade)_, **Lumium** _(Main, Tool Rod)_, **Allthemodium** _(Main, Tip Upgrade)_, **Bismuth** _(Main, Tool Rod)_, **Enderium** _(Main, Tool Rod)_, **Titanium** _(Main)_, **Crimson Iron** _(Main)_, **Uranium** _(Main, Tool Rod)_, **High-Carbon Steel** _(Main)_, **Aluminum** _(Main, Tool Rod)_, **Compressed Iron** _(Main, Tool Rod)_, **Unobtainium** _(Main, Tip Upgrade)_, **Nickel** _(Main, Tool Rod)_, **Refined Obsidian** _(Main, Tool Rod)_, **Bismuth Brass** _(Main, Tool Rod)_, **Iron** _(Main, Tip Upgrade)_, **Crimson Steel** _(Main)_, **Aluminum Steel** _(Main, Tool Rod)_, **Brass** _(Main, Tool Rod)_, **Silver** _(Main, Tool Rod)_, **Bronze** _(Tip Upgrade)_, **Copper** _(Tip Upgrade)_, **Invar** _(Main, Tool Rod)_, **Refined Glowstone** _(Main, Tool Rod)_, **End Stone** _(Tool Rod)_, **Bismuth Steel** _(Main, Tool Rod)_, **Zinc** _(Main, Tool Rod)_, **Redstone Alloy** _(Main, Tool Rod)_, **Blaze Gold** _(Main)_, **Electrum** _(Main)_, **Azure Silver** _(Main, Tip Upgrade)_, **Tin** _(Main, Tool Rod)_
 - ID: `silentgear:malleable`
 - Max Level: 5
 - Effects:
@@ -537,8 +589,8 @@ Higher levels increase range
 ### [Mighty](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/mighty.json)
 - Gives strength and/or haste on tools based on trait level
 - Found On:
-  - Materials: Nothing
-- Conditions: ((Gear Type: Tools OR Gear Type: Curio))
+  - Materials: **Quartz** _(Jewelry Setting)_, **gem.silentgems.heliodor** _(Jewelry Setting)_
+- Conditions: ((Only on Tools OR Only on Curio))
 - ID: `silentgear:mighty`
 - Max Level: 5
 - Effects:
@@ -552,8 +604,8 @@ Higher levels increase range
 ### [Moonwalker](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/moonwalker.json)
 - I don't believe in gravity!
 - Found On:
-  - Materials: Nothing
-- Conditions: ((Gear Type: Boots OR Gear Type: Curio))
+  - Materials: **gem.silentgems.white_diamond** _(Jewelry Setting)_, **Azure Silver** _(Main)_
+- Conditions: ((Only on Boots OR Only on Curio))
 - ID: `silentgear:moonwalker`
 - Max Level: 5
 - Effects:
@@ -574,7 +626,7 @@ Higher levels increase range
 ### [Organic](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/organic.json)
 - Gains enchantability, but loses magic damage as the item is damaged
 - Found On:
-  - Materials: Nothing
+  - Materials: **Meat** _(Main, Tool Rod)_
 - ID: `silentgear:organic`
 - Max Level: 5
 - Effects:
@@ -586,7 +638,7 @@ Higher levels increase range
 - Places netherrack at the cost of durability
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+- Conditions: (Only on Tools)
 - ID: `silentgear:racker`
 - Max Level: 1
 - Effects:
@@ -616,8 +668,8 @@ Higher levels increase range
 ### [Refractive](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/refractive.json)
 - Place phantom lights when used
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **Glowstone** _(Tip Upgrade)_, **Lumium** _(Main, Tool Rod)_, **Refined Glowstone** _(Tip Upgrade)_, **End Rod** _(Tool Rod)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:refractive`
 - Max Level: 1
 - Effects:
@@ -640,7 +692,8 @@ Higher levels increase range
 - Turns dirt-like blocks into grass paths
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Parts: **Road Maker Upgrade**
+- Conditions: (Only on Tools)
 - ID: `silentgear:road_maker`
 - Max Level: 1
 - Effects:
@@ -670,8 +723,8 @@ Higher levels increase range
 ### [Sharp](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/sharp.json)
 - Gain harvest speed and attack damage as durability is lost
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **gem.silentgems.moldavite** _(Main)_, **gem.silentgems.tanzanite** _(Tool Rod)_, **Bronze** _(Main)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:sharp`
 - Max Level: 5
 - Effects:
@@ -680,11 +733,14 @@ Higher levels increase range
     - Harvest Speed: 0.125 * level * damage * value
 
 ### [Silky](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/silky.json)
-- Blocks mined drop themselves like with Silk Touch (does not stack with enchantments)
+- Adds Silk Touch to tools
 - Found On:
   - Materials: **Amethyst** _(Tip Upgrade)_, **Brass** _(Main)_
+- Conditions: (Only on Harvest Tools)
 - ID: `silentgear:silky`
 - Max Level: 1
+- Effects:
+  - `silentgear:enchantment`
 
 ### [Snow Walker](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/snow_walker.json)
 - Walk on powder snow without sinking
@@ -698,8 +754,8 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 ### [Soft](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/soft.json)
 - Reduces harvest speed as tool is damaged
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **Gold** _(Main, Tip Upgrade, Coating)_, **Lead** _(Tool Rod)_, **Platinum** _(Main, Tool Rod)_, **Allthemodium** _(Tip Upgrade)_, **Aluminum** _(Main)_, **Silver** _(Main, Tool Rod)_, **Copper** _(Main, Tool Rod)_, **Zinc** _(Main, Tool Rod)_, **Blaze Gold** _(Tip Upgrade, Coating)_, **Electrum** _(Main)_, **Azure Silver** _(Main)_, **Tin** _(Main, Tool Rod)_, **Meat** _(Tip Upgrade)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:soft`
 - Max Level: 5
 - Effects:
@@ -710,14 +766,15 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 - Pickaxes can mine soil
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Pickaxe)
+  - Parts: **Spoon Upgrade**
+- Conditions: (Only on Pickaxe)
 - ID: `silentgear:spoon`
 - Max Level: 1
 
 ### [Stellar](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/stellar.json)
 - Armor gives speed and jump boost, items slowly repair themselves
 - Found On:
-  - Materials: **Refined Iron** _(Main)_
+  - Materials: **Refined Iron** _(Main)_, **gem.silentgems.kyanite** _(Main)_
 - ID: `silentgear:stellar`
 - Max Level: 5
 - Effects:
@@ -729,10 +786,23 @@ Allows the player to walk on powder snow without sinking. This will work on any 
       - Speed: [0, 1, 2, 3] (by armor piece count)
       - Jump Boost: [1, 2, 3, 4] (by armor piece count)
 
+### [Sting resist](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/sting_resist.json)
+- Bee stings no longer sting
+- Found On:
+  - Materials: **Uru Metal** _(Main)_
+- Conditions: (Only on Armor)
+- ID: `silentgear:sting_resist`
+- Max Level: 4
+- Effects:
+  - `silentgear:fireproof`
+    - The item cannot be destroyed by fire or lava
+  - `silentgear:negate_damage`
+    - Reduces "sgearmetalworks:uru_metal_negate_damage" type damage by 25% per level per armor piece
+
 ### [Sturdy](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/sturdy.json)
 - Gear frequently takes less damage
 - Found On:
-  - Materials: **Tyrian Steel** _(Main, Tool Rod)_, **Crimson Steel** _(Tool Rod)_, **End Rod** _(Tool Rod)_
+  - Materials: **gem.silentgems.black_diamond** _(Main)_, **gem.silentgems.white_diamond** _(Main)_, **Tyrian Steel** _(Main, Tool Rod)_, **Crimson Steel** _(Tool Rod)_, **End Rod** _(Tool Rod)_
 - ID: `silentgear:sturdy`
 - Max Level: 5
 - Effects:
@@ -765,7 +835,7 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 - Creates and places stone blocks when used
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+- Conditions: (Only on Tools)
 - ID: `silentgear:terminus`
 - Max Level: 1
 - Effects:
@@ -776,8 +846,8 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 ### [Turtle](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/turtle.json)
 - Hold your breath for longer
 - Found On:
-  - Materials: Nothing
-- Conditions: ((Gear Type: Helmet OR Gear Type: Curio))
+  - Materials: **gem.silentgems.turquoise** _(Main)_, **Turtle** _(Main)_
+- Conditions: ((Only on Helmet OR Only on Curio))
 - ID: `silentgear:turtle`
 - Max Level: 1
 
@@ -785,7 +855,7 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 - Poisons the target when attacked
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+- Conditions: (Only on Tools)
 - ID: `silentgear:venom`
 - Max Level: 5
 - Effects:
@@ -805,8 +875,8 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 ### [Void Ward](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/void_ward.json)
 - Saves the wearer from falling out of the world
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Armor)
+  - Materials: **gem.silentgems.white_diamond** _(Main)_, **Tyrian Steel** _(Main)_
+- Conditions: (Only on Armor)
 - ID: `silentgear:void_ward`
 - Max Level: 1
 - Extra Info:
@@ -815,8 +885,8 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 ### [Vulcan](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/vulcan.json)
 - Places obsidian at a high durability cost
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **Refined Obsidian** _(Tip Upgrade)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:vulcan`
 - Max Level: 1
 - Effects:
@@ -829,7 +899,8 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 - Increases the effect radius of hammers and excavators
 - Found On:
   - Materials: Nothing
-- Conditions: (Gear Type: Harvest Tools)
+  - Parts: **Wide Plate Upgrade**
+- Conditions: (Only on Harvest Tools)
 - ID: `silentgear:widen`
 - Max Level: 3
 - Extra Info:
@@ -839,8 +910,8 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 ### [Wind Blast](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/wind_blast.json)
 - Creates a blast of wind when attacking
 - Found On:
-  - Materials: Nothing
-- Conditions: (Gear Type: Tools)
+  - Materials: **Breeze Rod** _(Tool Rod)_
+- Conditions: (Only on Tools)
 - ID: `silentgear:wind_blast`
 - Max Level: 1
 - Effects:
@@ -850,7 +921,7 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 ### [Yummy](https://github.com/SilentChaos512/Silent-Gear/tree/1.21.x/src/generated/resources/data/silentgear/silentgear_traits/yummy.json)
 - Makes the item edible, but...
 - Found On:
-  - Materials: Nothing
+  - Materials: **Meat** _(Main, Tool Rod, Tip Upgrade)_
 - ID: `silentgear:yummy`
 - Max Level: 1
 - Effects:
@@ -875,12 +946,12 @@ Allows the player to walk on powder snow without sinking. This will work on any 
 - Max Level: 5
 - Effects:
   - `silentgear:attribute`
-    - Key[gearType=Armor, group=CHEST]
-      - minecraft:generic.safe_fall_distance: ADD_VALUE [0.25, 0.5, 0.75, 1.0, 1.25]
     - Key[gearType=Armor, group=LEGS]
       - minecraft:generic.safe_fall_distance: ADD_VALUE [0.25, 0.5, 0.75, 1.0, 1.25]
     - Key[gearType=Armor, group=FEET]
       - minecraft:generic.safe_fall_distance: ADD_VALUE [0.25, 0.5, 0.75, 1.0, 1.25]
     - Key[gearType=Armor, group=HEAD]
+      - minecraft:generic.safe_fall_distance: ADD_VALUE [0.25, 0.5, 0.75, 1.0, 1.25]
+    - Key[gearType=Armor, group=CHEST]
       - minecraft:generic.safe_fall_distance: ADD_VALUE [0.25, 0.5, 0.75, 1.0, 1.25]
 
