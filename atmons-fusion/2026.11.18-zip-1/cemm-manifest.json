@@ -1,0 +1,11 @@
+{
+  "updateType": "full",
+  "mods": "This update needs CEMM 2.2.0 or newer. Update CEMM, then paste the code again.",
+  "cemm_release": {
+    "schema": 2,
+    "min_cemm": "2.2.0",
+    "file": "cemm-release.json",
+    "lineage": "atmons-fusion",
+    "release_id": "2026.11.18-zip-1"
+  }
+}
