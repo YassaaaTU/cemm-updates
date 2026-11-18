@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "items": [
+          "tacz:modern_kinetic_gun"
+        ],
+        "nbt": "{GunId:\"daffas_arsenal:hk45\"}",
+        "partial": true
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:hk45_sup"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "items": [
+          "tacz:modern_kinetic_gun"
+        ],
+        "nbt": "{GunId:\"daffas_arsenal:apacoba9\"}",
+        "partial": true
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 7
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:apacoba9_sup"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

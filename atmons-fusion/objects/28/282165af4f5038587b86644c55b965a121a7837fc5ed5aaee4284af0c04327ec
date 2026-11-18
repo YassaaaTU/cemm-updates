@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "items": [
+          "tacz:modern_kinetic_gun"
+        ],
+        "nbt": "{GunId:\"daffas_arsenal:ak47\"}",
+        "partial": true
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "items": [
+          "tacz:modern_kinetic_gun"
+        ],
+        "nbt": "{GunId:\"daffas_arsenal:aksopmod\"}",
+        "partial": true
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:ak472nd"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:dusts/redstone"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "daffas_arsenal:elektrikal",
+    "count": 50
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

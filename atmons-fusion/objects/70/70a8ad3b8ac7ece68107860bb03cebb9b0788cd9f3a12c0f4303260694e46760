@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 72
+    },
+    {
+      "item": {
+        "tag": "c:gems/quartz"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:pego"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

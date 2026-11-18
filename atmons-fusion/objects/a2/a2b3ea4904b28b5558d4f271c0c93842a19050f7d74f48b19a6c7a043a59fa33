@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 35
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 87
+    },
+    {
+      "item": {
+        "tag": "c:rods/blaze"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:taurus2"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

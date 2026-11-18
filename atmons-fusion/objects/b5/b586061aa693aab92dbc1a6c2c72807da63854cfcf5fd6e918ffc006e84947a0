@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "tag": "c:glass_blocks"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "daffas_arsenal:scope_ssg69"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

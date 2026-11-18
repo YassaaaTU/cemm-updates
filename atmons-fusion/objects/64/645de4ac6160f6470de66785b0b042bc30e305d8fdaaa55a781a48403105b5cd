@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 100
+    },
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:rpd"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

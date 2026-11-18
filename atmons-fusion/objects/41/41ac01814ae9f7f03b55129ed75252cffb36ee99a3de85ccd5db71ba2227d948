@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 40
+    },
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 7
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:apacoba9"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

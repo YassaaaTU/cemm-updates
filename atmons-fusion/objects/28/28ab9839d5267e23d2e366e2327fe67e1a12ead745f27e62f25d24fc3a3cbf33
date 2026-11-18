@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 75
+    },
+    {
+      "item": {
+        "tag": "c:rods/blaze"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:wawan2000"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

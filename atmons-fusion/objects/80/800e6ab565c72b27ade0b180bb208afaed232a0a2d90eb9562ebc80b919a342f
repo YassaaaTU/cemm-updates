@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "items": [
+          "tacz:modern_kinetic_gun"
+        ],
+        "nbt": "{GunId:\"daffas_arsenal:m79\"}",
+        "partial": true
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:m79sohrt"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

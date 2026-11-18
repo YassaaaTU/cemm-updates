@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "daffas_arsenal:daffas_40mm",
+    "count": 3
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

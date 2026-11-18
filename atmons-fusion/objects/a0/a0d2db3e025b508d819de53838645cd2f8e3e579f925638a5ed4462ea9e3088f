@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 230
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 122
+    },
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 215
+    },
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 100
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:southeastmomssecretweapon2"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

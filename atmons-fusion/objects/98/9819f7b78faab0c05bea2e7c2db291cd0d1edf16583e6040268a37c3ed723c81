@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "items": [
+          "tacz:modern_kinetic_gun"
+        ],
+        "nbt": "{GunId:\"daffas_arsenal:ssg69\"}",
+        "partial": true
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "items": [
+          "tacz:attachment"
+        ],
+        "nbt": "{AttachmentId:\"daffas_arsenal:scope_ssg69\"}",
+        "partial": true
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:ssg69s"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

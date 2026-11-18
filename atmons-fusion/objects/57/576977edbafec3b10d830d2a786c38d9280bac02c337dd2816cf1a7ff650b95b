@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 14
+    },
+    {
+      "item": {
+        "tag": "c:gems/quartz"
+      },
+      "count": 62
+    },
+    {
+      "item": {
+        "tag": "c:dusts/redstone"
+      },
+      "count": 52
+    },
+    {
+      "item": {
+        "tag": "c:glass_blocks"
+      },
+      "count": 7
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:samula3"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

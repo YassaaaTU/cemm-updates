@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 40
+    },
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "daffas_arsenal:gerosa"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
